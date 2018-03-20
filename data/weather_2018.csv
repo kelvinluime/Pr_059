@@ -1,0 +1,1646 @@
+Day,Time (PST),Temp,Dew Point,Humidity,Pressure,Visibility,Wind Dir,Wind Speed,Conditions
+1/11/2018,12:53 AM,   55.9 °F ,   51.1 °F ,84%,   30.13 in ,   10.0 mi ,NNE,   5.8 mph ,Clear
+1/11/2018,1:53 AM,   55.0 °F ,   48.9 °F ,80%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,2:53 AM,   55.0 °F ,   48.9 °F ,80%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,3:53 AM,   54.0 °F ,   48.9 °F ,83%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,4:53 AM,   52.0 °F ,   48.0 °F ,86%,   30.16 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/11/2018,5:53 AM,   53.1 °F ,   48.0 °F ,83%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,6:53 AM,   53.1 °F ,   48.9 °F ,86%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,7:53 AM,   55.9 °F ,   50.0 °F ,80%,   30.22 in ,   8.0 mi ,Calm,Calm,Clear
+1/11/2018,8:53 AM,   60.1 °F ,   51.1 °F ,72%,   30.24 in ,   10.0 mi ,Calm,Calm,Clear
+1/11/2018,9:53 AM,   64.0 °F ,   52.0 °F ,65%,   30.23 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/11/2018,10:53 AM,   66.0 °F ,   51.1 °F ,59%,   30.22 in ,   10.0 mi ,Variable,   4.6 mph ,Clear
+1/11/2018,11:53 AM,   69.1 °F ,   52.0 °F ,54%,   30.17 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/11/2018,12:53 PM,   71.1 °F ,   52.0 °F ,51%,   30.14 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+1/11/2018,1:53 PM,   70.0 °F ,   52.0 °F ,53%,   30.13 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+1/11/2018,2:53 PM,   71.1 °F ,   52.0 °F ,51%,   30.14 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+1/11/2018,3:53 PM,   70.0 °F ,   54.0 °F ,57%,   30.14 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+1/11/2018,4:53 PM,   64.9 °F ,   55.0 °F ,70%,   30.15 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+1/11/2018,5:53 PM,   63.0 °F ,   55.0 °F ,75%,   30.16 in ,   10.0 mi ,NNW,   5.8 mph ,Clear
+1/11/2018,6:53 PM,   62.1 °F ,   55.0 °F ,78%,   30.17 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/11/2018,7:53 PM,   61.0 °F ,   54.0 °F ,78%,   30.18 in ,   9.0 mi ,Calm,Calm,Clear
+1/11/2018,8:53 PM,   60.1 °F ,   54.0 °F ,80%,   30.19 in ,   9.0 mi ,Calm,Calm,Clear
+1/11/2018,9:53 PM,   59.0 °F ,   53.1 °F ,81%,   30.21 in ,   9.0 mi ,Calm,Calm,Clear
+1/11/2018,10:53 PM,   59.0 °F ,   53.1 °F ,81%,   30.21 in ,   9.0 mi ,Calm,Calm,Clear
+1/11/2018,11:53 PM,   57.0 °F ,   52.0 °F ,83%,   30.19 in ,   8.0 mi ,Calm,Calm,Clear
+1/12/2018,12:53 AM,   57.0 °F ,   52.0 °F ,83%,   30.18 in ,   5.0 mi ,Calm,Calm,Haze
+1/12/2018,1:30 AM,   57.0 °F ,   53.1 °F ,87%,   30.19 in ,   4.0 mi ,NW,   4.6 mph ,Scattered Clouds
+1/12/2018,1:34 AM,   57.0 °F ,   53.1 °F ,87%,   30.19 in ,   1.2 mi ,NW,   3.5 mph ,Mostly Cloudy
+1/12/2018,1:38 AM,   57.0 °F ,   54.0 °F ,89%,   30.19 in ,   0.2 mi ,NW,   3.5 mph ,Fog
+1/12/2018,1:53 AM,   57.0 °F ,   54.0 °F ,89%,   30.18 in ,   0.2 mi ,NNW,   5.8 mph ,Fog
+1/12/2018,2:53 AM,   55.9 °F ,   53.1 °F ,90%,   30.17 in ,   0.2 mi ,NNW,   3.5 mph ,Fog
+1/12/2018,3:10 AM,   55.9 °F ,   52.0 °F ,87%,   30.17 in ,   0.8 mi ,NNW,   3.5 mph ,Mist
+1/12/2018,3:16 AM,   55.9 °F ,   52.0 °F ,87%,   30.17 in ,   2.0 mi ,Calm,Calm,Mostly Cloudy
+1/12/2018,3:22 AM,   55.0 °F ,   52.0 °F ,89%,   30.17 in ,   4.0 mi ,Calm,Calm,Scattered Clouds
+1/12/2018,3:33 AM,   55.0 °F ,   51.1 °F ,86%,   30.17 in ,   1.8 mi ,NW,   3.5 mph ,Partly Cloudy
+1/12/2018,3:45 AM,   55.0 °F ,   52.0 °F ,89%,   30.17 in ,   0.8 mi ,NNW,   4.6 mph ,Mist
+1/12/2018,3:53 AM,   54.0 °F ,   51.1 °F ,90%,   30.17 in ,   0.8 mi ,North,   3.5 mph ,Mist
+1/12/2018,4:03 AM,   55.0 °F ,   51.1 °F ,86%,   30.17 in ,   1.5 mi ,Calm,Calm,Mostly Cloudy
+1/12/2018,4:07 AM,   55.0 °F ,   51.1 °F ,86%,   30.17 in ,   2.5 mi ,Calm,Calm,Scattered Clouds
+1/12/2018,4:15 AM,   55.0 °F ,   50.0 °F ,83%,   30.16 in ,   3.0 mi ,Calm,Calm,Haze
+1/12/2018,4:53 AM,   53.1 °F ,   48.9 °F ,86%,   30.16 in ,   7.0 mi ,NNE,   3.5 mph ,Clear
+1/12/2018,5:53 AM,   53.1 °F ,   48.9 °F ,86%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+1/12/2018,6:53 AM,   54.0 °F ,   50.0 °F ,86%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+1/12/2018,7:53 AM,   57.9 °F ,   51.1 °F ,78%,   30.18 in ,   9.0 mi ,Calm,Calm,Clear
+1/12/2018,8:53 AM,   64.0 °F ,   52.0 °F ,65%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+1/12/2018,9:53 AM,   68.0 °F ,   54.0 °F ,61%,   30.19 in ,   9.0 mi ,WNW,   3.5 mph ,Clear
+1/12/2018,10:53 AM,   73.0 °F ,   52.0 °F ,48%,   30.17 in ,   10.0 mi ,WNW,   3.5 mph ,Clear
+1/12/2018,11:53 AM,   75.0 °F ,   51.1 °F ,43%,   30.12 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+1/12/2018,12:53 PM,   75.9 °F ,   48.9 °F ,38%,   30.09 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+1/12/2018,1:53 PM,   73.9 °F ,   48.0 °F ,40%,   30.08 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+1/12/2018,2:53 PM,   72.0 °F ,   51.1 °F ,48%,   30.07 in ,   8.0 mi ,NW,   13.8 mph ,Clear
+1/12/2018,3:53 PM,   69.1 °F ,   53.1 °F ,57%,   30.08 in ,   5.0 mi ,NW,   4.6 mph ,Haze
+1/12/2018,4:53 PM,   66.0 °F ,   55.0 °F ,68%,   30.07 in ,   3.0 mi ,NNW,   5.8 mph ,Haze
+1/12/2018,5:16 PM,   63.0 °F ,   55.0 °F ,75%,   30.08 in ,   2.5 mi ,NNW,   8.1 mph ,Haze
+1/12/2018,5:53 PM,   61.0 °F ,   55.0 °F ,81%,   30.08 in ,   2.5 mi ,North,   4.6 mph ,Haze
+1/12/2018,6:53 PM,   60.1 °F ,   55.0 °F ,83%,   30.09 in ,   2.0 mi ,NNW,   4.6 mph ,Haze
+1/12/2018,7:53 PM,   59.0 °F ,   54.0 °F ,83%,   30.10 in ,   2.0 mi ,Calm,Calm,Haze
+1/12/2018,8:53 PM,   57.9 °F ,   53.1 °F ,84%,   30.10 in ,   3.0 mi ,Calm,Calm,Haze
+1/12/2018,9:53 PM,   57.9 °F ,   52.0 °F ,81%,   30.11 in ,   3.0 mi ,Calm,Calm,Haze
+1/12/2018,10:53 PM,   57.0 °F ,   51.1 °F ,81%,   30.10 in ,   6.0 mi ,Calm,Calm,Haze
+1/12/2018,11:53 PM,   57.0 °F ,   51.1 °F ,81%,   30.09 in ,   9.0 mi ,Calm,Calm,Clear
+1/13/2018,12:53 AM,   57.0 °F ,   50.0 °F ,77%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/13/2018,1:53 AM,   57.0 °F ,   48.9 °F ,74%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,2:53 AM,   57.0 °F ,   46.9 °F ,69%,   30.09 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/13/2018,3:53 AM,   57.0 °F ,   46.0 °F ,67%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,4:53 AM,   57.0 °F ,   44.1 °F ,62%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,5:53 AM,   55.0 °F ,   44.1 °F ,67%,   30.09 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/13/2018,6:53 AM,   57.0 °F ,   41.0 °F ,55%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,7:53 AM,   62.1 °F ,   43.0 °F ,50%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,8:53 AM,   69.1 °F ,   46.9 °F ,45%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,9:53 AM,   79.0 °F ,   35.1 °F ,20%,   30.13 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+1/13/2018,10:53 AM,   82.9 °F ,   28.9 °F ,14%,   30.11 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+1/13/2018,11:53 AM,   84.9 °F ,   30.0 °F ,14%,   30.08 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+1/13/2018,12:53 PM,   84.0 °F ,   37.0 °F ,19%,   30.05 in ,   10.0 mi ,WSW,   9.2 mph ,Clear
+1/13/2018,1:53 PM,   84.9 °F ,   34.0 °F ,16%,   30.04 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/13/2018,2:53 PM,   84.0 °F ,   37.0 °F ,19%,   30.04 in ,   10.0 mi ,West,   5.8 mph ,Clear
+1/13/2018,3:53 PM,   84.0 °F ,   42.1 °F ,23%,   30.04 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+1/13/2018,4:53 PM,   77.0 °F ,   43.0 °F ,30%,   30.05 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+1/13/2018,5:53 PM,   72.0 °F ,   42.1 °F ,34%,   30.07 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/13/2018,6:53 PM,   68.0 °F ,   44.1 °F ,42%,   30.08 in ,   10.0 mi ,East,   6.9 mph ,Clear
+1/13/2018,7:53 PM,   66.9 °F ,   37.0 °F ,33%,   30.08 in ,   10.0 mi ,East,   5.8 mph ,Clear
+1/13/2018,8:53 PM,   69.1 °F ,   33.1 °F ,26%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/13/2018,9:53 PM,   63.0 °F ,   37.9 °F ,40%,   30.10 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/13/2018,10:53 PM,   63.0 °F ,   37.0 °F ,38%,   30.10 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/13/2018,11:53 PM,   64.9 °F ,   35.1 °F ,33%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,12:53 AM,   62.1 °F ,   36.0 °F ,38%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,1:53 AM,   60.1 °F ,   39.9 °F ,47%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,2:53 AM,   60.1 °F ,   39.9 °F ,47%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,3:53 AM,   60.1 °F ,   36.0 °F ,41%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/14/2018,4:53 AM,   61.0 °F ,   36.0 °F ,39%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,5:53 AM,   57.0 °F ,   42.1 °F ,57%,   30.11 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/14/2018,6:53 AM,   57.9 °F ,   39.0 °F ,49%,   30.12 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/14/2018,7:53 AM,   61.0 °F ,   39.0 °F ,44%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,8:53 AM,   69.1 °F ,   37.0 °F ,31%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,9:53 AM,   77.0 °F ,   30.0 °F ,18%,   30.14 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+1/14/2018,10:53 AM,   80.1 °F ,   28.9 °F ,15%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,11:53 AM,   81.0 °F ,   33.1 °F ,18%,   30.11 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+1/14/2018,12:53 PM,   82.0 °F ,   27.0 °F ,13%,   30.08 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+1/14/2018,1:53 PM,   82.0 °F ,   27.0 °F ,13%,   30.07 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+1/14/2018,2:53 PM,   80.1 °F ,   32.0 °F ,17%,   30.07 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+1/14/2018,3:53 PM,   75.0 °F ,   34.0 °F ,22%,   30.08 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+1/14/2018,4:53 PM,   71.1 °F ,   37.9 °F ,30%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,5:53 PM,   68.0 °F ,   39.0 °F ,35%,   30.13 in ,   10.0 mi ,SW,   4.6 mph ,Clear
+1/14/2018,6:53 PM,   63.0 °F ,   42.1 °F ,46%,   30.12 in ,   10.0 mi ,East,   6.9 mph ,Clear
+1/14/2018,7:53 PM,   63.0 °F ,   43.0 °F ,48%,   30.09 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/14/2018,8:53 PM,   62.1 °F ,   42.1 °F ,48%,   30.09 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/14/2018,9:53 PM,   62.1 °F ,   42.1 °F ,48%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/14/2018,10:53 PM,   60.1 °F ,   42.1 °F ,51%,   30.13 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/14/2018,11:53 PM,   59.0 °F ,   41.0 °F ,51%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,12:53 AM,   57.0 °F ,   41.0 °F ,55%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,1:53 AM,   57.0 °F ,   39.9 °F ,53%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,2:53 AM,   55.0 °F ,   42.1 °F ,62%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,3:53 AM,   55.0 °F ,   39.9 °F ,57%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,4:53 AM,   54.0 °F ,   39.9 °F ,59%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,5:53 AM,   53.1 °F ,   39.0 °F ,59%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,6:53 AM,   53.1 °F ,   39.0 °F ,59%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,7:53 AM,   57.0 °F ,   43.0 °F ,59%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,8:53 AM,   64.9 °F ,   41.0 °F ,42%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,9:53 AM,   72.0 °F ,   37.0 °F ,28%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,10:53 AM,   75.0 °F ,   36.0 °F ,24%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,11:53 AM,   75.9 °F ,   41.0 °F ,29%,   30.09 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+1/15/2018,12:53 PM,   75.0 °F ,   44.1 °F ,33%,   30.07 in ,   10.0 mi ,West,   5.8 mph ,Clear
+1/15/2018,1:53 PM,   73.9 °F ,   46.9 °F ,38%,   30.06 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+1/15/2018,2:53 PM,   70.0 °F ,   51.1 °F ,51%,   30.06 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+1/15/2018,3:53 PM,   66.0 °F ,   50.0 °F ,56%,   30.07 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+1/15/2018,4:53 PM,   63.0 °F ,   54.0 °F ,72%,   30.10 in ,   9.0 mi ,NW,   9.2 mph ,Clear
+1/15/2018,5:53 PM,   63.0 °F ,   53.1 °F ,70%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,6:53 PM,   62.1 °F ,   53.1 °F ,72%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,7:53 PM,   62.1 °F ,   51.1 °F ,67%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,8:53 PM,   62.1 °F ,   48.9 °F ,62%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/15/2018,9:53 PM,   63.0 °F ,   48.9 °F ,60%,   30.10 in ,   10.0 mi ,West,   3.5 mph ,Clear
+1/15/2018,10:53 PM,   61.0 °F ,   48.0 °F ,62%,   30.11 in ,   10.0 mi ,West,   4.6 mph ,Clear
+1/15/2018,11:53 PM,   60.1 °F ,   54.0 °F ,80%,   30.12 in ,   6.0 mi ,NNW,   6.9 mph ,Haze
+1/16/2018,12:01 AM,   61.0 °F ,   55.9 °F ,83%,   30.13 in ,   5.0 mi ,NNW,   9.2 mph ,Haze
+1/16/2018,12:20 AM,   59.0 °F ,   54.0 °F ,83%,   30.12 in ,   6.0 mi ,North,   6.9 mph ,Haze
+1/16/2018,12:30 AM,   60.1 °F ,   54.0 °F ,80%,   30.12 in ,   5.0 mi ,North,   6.9 mph ,Haze
+1/16/2018,12:53 AM,   60.1 °F ,   55.0 °F ,83%,   30.12 in ,   4.0 mi ,North,   5.8 mph ,Haze
+1/16/2018,1:53 AM,   57.9 °F ,   54.0 °F ,87%,   30.13 in ,   5.0 mi ,North,   5.8 mph ,Clear
+1/16/2018,2:53 AM,   57.0 °F ,   52.0 °F ,83%,   30.11 in ,   5.0 mi ,Calm,Calm,Haze
+1/16/2018,3:53 AM,   55.9 °F ,   46.9 °F ,72%,   30.11 in ,   10.0 mi ,WSW,   3.5 mph ,Clear
+1/16/2018,4:53 AM,   54.0 °F ,   48.0 °F ,80%,   30.09 in ,   9.0 mi ,Calm,Calm,Clear
+1/16/2018,5:53 AM,   57.0 °F ,   48.9 °F ,74%,   30.11 in ,   9.0 mi ,NW,   3.5 mph ,Clear
+1/16/2018,6:53 AM,   55.9 °F ,   46.9 °F ,72%,   30.12 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/16/2018,7:53 AM,   59.0 °F ,   48.0 °F ,67%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/16/2018,8:53 AM,   62.1 °F ,   46.9 °F ,58%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+1/16/2018,9:53 AM,   64.9 °F ,   45.0 °F ,48%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/16/2018,10:53 AM,   69.1 °F ,   46.0 °F ,44%,   30.14 in ,   10.0 mi ,West,   8.1 mph ,Clear
+1/16/2018,11:53 AM,   71.1 °F ,   51.1 °F ,49%,   30.12 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+1/16/2018,12:53 PM,   70.0 °F ,   52.0 °F ,53%,   30.12 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+1/16/2018,1:53 PM,   71.1 °F ,   52.0 °F ,51%,   30.10 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/16/2018,2:53 PM,   72.0 °F ,   46.9 °F ,41%,   30.10 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/16/2018,3:53 PM,   72.0 °F ,   46.0 °F ,40%,   30.09 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+1/16/2018,4:53 PM,   71.1 °F ,   46.9 °F ,42%,   30.09 in ,   10.0 mi ,NW,   4.6 mph ,Clear
+1/16/2018,5:53 PM,   66.9 °F ,   46.9 °F ,49%,   30.10 in ,   10.0 mi ,West,   4.6 mph ,Clear
+1/16/2018,6:53 PM,   63.0 °F ,   51.1 °F ,65%,   30.12 in ,   7.0 mi ,NW,   8.1 mph ,Clear
+1/16/2018,7:53 PM,   62.1 °F ,   55.9 °F ,80%,   30.13 in ,   3.0 mi ,NNW,   8.1 mph ,Haze
+1/16/2018,8:12 PM,   64.0 °F ,   55.9 °F ,75%,   30.14 in ,   4.0 mi ,NNW,   6.9 mph ,Haze
+1/16/2018,8:53 PM,   62.1 °F ,   55.9 °F ,80%,   30.13 in ,   4.0 mi ,Calm,Calm,Haze
+1/16/2018,9:03 PM,   62.1 °F ,   55.9 °F ,80%,   30.14 in ,   3.0 mi ,NNW,   3.5 mph ,Haze
+1/16/2018,9:19 PM,   62.1 °F ,   55.9 °F ,80%,   30.15 in ,   3.0 mi ,NW,   5.8 mph ,Haze
+1/16/2018,9:53 PM,   61.0 °F ,   55.9 °F ,83%,   30.14 in ,   5.0 mi ,North,   4.6 mph ,Haze
+1/16/2018,10:53 PM,   60.1 °F ,   55.0 °F ,83%,   30.13 in ,   3.0 mi ,NNE,   5.8 mph ,Haze
+1/16/2018,11:07 PM,   59.0 °F ,   55.0 °F ,87%,   30.14 in ,   2.5 mi ,NE,   5.8 mph ,Clear
+1/16/2018,11:24 PM,   59.0 °F ,   54.0 °F ,83%,   30.13 in ,   1.8 mi ,Calm,Calm,Haze
+1/16/2018,11:33 PM,   59.0 °F ,   54.0 °F ,83%,   30.13 in ,   2.0 mi ,North,   3.5 mph ,Haze
+1/16/2018,11:53 PM,   60.1 °F ,   54.0 °F ,80%,   30.12 in ,   2.5 mi ,Calm,Calm,Haze
+1/17/2018,12:19 AM,   57.9 °F ,   52.0 °F ,81%,   30.12 in ,   4.0 mi ,NNE,   3.5 mph ,Haze
+1/17/2018,12:53 AM,   57.9 °F ,   52.0 °F ,81%,   30.12 in ,   4.0 mi ,WNW,   3.5 mph ,Haze
+1/17/2018,1:53 AM,   57.0 °F ,   50.0 °F ,77%,   30.12 in ,   5.0 mi ,Calm,Calm,Haze
+1/17/2018,2:53 AM,   55.9 °F ,   50.0 °F ,80%,   30.11 in ,   7.0 mi ,Calm,Calm,Clear
+1/17/2018,3:53 AM,   57.0 °F ,   48.9 °F ,74%,   30.10 in ,   9.0 mi ,Calm,Calm,Clear
+1/17/2018,4:53 AM,   55.0 °F ,   48.0 °F ,77%,   30.11 in ,   9.0 mi ,Calm,Calm,Clear
+1/17/2018,5:53 AM,   55.0 °F ,   46.0 °F ,72%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/17/2018,6:53 AM,   55.9 °F ,   46.9 °F ,72%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/17/2018,7:53 AM,   60.1 °F ,   48.9 °F ,67%,   30.15 in ,   9.0 mi ,Calm,Calm,Clear
+1/17/2018,8:53 AM,   66.9 °F ,   48.0 °F ,51%,   30.17 in ,   10.0 mi ,West,   3.5 mph ,Clear
+1/17/2018,9:53 AM,   70.0 °F ,   46.0 °F ,42%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+1/17/2018,10:53 AM,   75.0 °F ,   45.0 °F ,34%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+1/17/2018,11:53 AM,   78.1 °F ,   46.0 °F ,32%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/17/2018,12:53 PM,   80.1 °F ,   45.0 °F ,29%,   30.10 in ,   10.0 mi ,West,   5.8 mph ,Clear
+1/17/2018,1:53 PM,   77.0 °F ,   48.9 °F ,37%,   30.09 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+1/17/2018,2:53 PM,   73.9 °F ,   51.1 °F ,45%,   30.09 in ,   9.0 mi ,NW,   10.4 mph ,Clear
+1/17/2018,3:53 PM,   71.1 °F ,   50.0 °F ,47%,   30.10 in ,   5.0 mi ,NNW,   12.7 mph ,Haze
+1/17/2018,4:53 PM,   69.1 °F ,   53.1 °F ,57%,   30.10 in ,   5.0 mi ,NNW,   9.2 mph ,Haze
+1/17/2018,5:53 PM,   66.9 °F ,   53.1 °F ,61%,   30.10 in ,   6.0 mi ,North,   5.8 mph ,Haze
+1/17/2018,6:53 PM,   66.0 °F ,   53.1 °F ,63%,   30.11 in ,   6.0 mi ,North,   4.6 mph ,Haze
+1/17/2018,7:53 PM,   62.1 °F ,   53.1 °F ,72%,   30.10 in ,   6.0 mi ,SE,   3.5 mph ,Haze
+1/17/2018,8:53 PM,   63.0 °F ,   53.1 °F ,70%,   30.10 in ,   6.0 mi ,Calm,Calm,Haze
+1/17/2018,9:53 PM,   62.1 °F ,   52.0 °F ,70%,   30.10 in ,   6.0 mi ,Calm,Calm,Haze
+1/17/2018,10:53 PM,   61.0 °F ,   51.1 °F ,70%,   30.09 in ,   7.0 mi ,North,   3.5 mph ,Clear
+1/17/2018,11:53 PM,   61.0 °F ,   51.1 °F ,70%,   30.09 in ,   6.0 mi ,NW,   3.5 mph ,Haze
+1/18/2018,12:53 AM,   60.1 °F ,   52.0 °F ,75%,   30.08 in ,   4.0 mi ,North,   3.5 mph ,Haze
+1/18/2018,1:53 AM,   59.0 °F ,   48.9 °F ,69%,   30.08 in ,   8.0 mi ,Calm,Calm,Clear
+1/18/2018,2:53 AM,   57.9 °F ,   48.0 °F ,70%,   30.07 in ,   9.0 mi ,Calm,Calm,Clear
+1/18/2018,3:53 AM,   57.0 °F ,   46.9 °F ,69%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+1/18/2018,4:53 AM,   55.9 °F ,   45.0 °F ,67%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/18/2018,5:53 AM,   55.0 °F ,   45.0 °F ,69%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/18/2018,6:53 AM,   55.9 °F ,   42.1 °F ,60%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/18/2018,7:53 AM,   60.1 °F ,   46.9 °F ,62%,   30.10 in ,   10.0 mi ,East,   4.6 mph ,Clear
+1/18/2018,8:53 AM,   64.9 °F ,   42.1 °F ,43%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/18/2018,9:53 AM,   68.0 °F ,   44.1 °F ,42%,   30.14 in ,   10.0 mi ,SSE,   4.6 mph ,Clear
+1/18/2018,10:53 AM,   72.0 °F ,   48.9 °F ,44%,   30.10 in ,   9.0 mi ,SE,   4.6 mph ,Clear
+1/18/2018,11:53 AM,   78.1 °F ,   44.1 °F ,30%,   30.06 in ,   10.0 mi ,SSE,   3.5 mph ,Clear
+1/18/2018,12:53 PM,   79.0 °F ,   51.1 °F ,38%,   30.03 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+1/18/2018,1:53 PM,   79.0 °F ,   46.0 °F ,31%,   30.01 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+1/18/2018,2:29 PM,   68.0 °F ,   57.0 °F ,68%,   30.04 in ,   4.0 mi ,West,   15.0 mph ,Haze
+1/18/2018,2:50 PM,   66.2 °F ,   55.4 °F ,68%,   30.05 in ,   4.0 mi ,WSW,   12.7 mph ,Haze
+1/18/2018,2:53 PM,   66.0 °F ,   55.9 °F ,70%,   30.04 in ,   4.0 mi ,West,   10.4 mph ,Haze
+1/18/2018,3:53 PM,   64.9 °F ,   55.9 °F ,73%,   30.06 in ,   6.0 mi ,WNW,   8.1 mph ,Haze
+1/18/2018,4:53 PM,   64.0 °F ,   55.0 °F ,73%,   30.04 in ,   5.0 mi ,NE,   5.8 mph ,Haze
+1/18/2018,5:53 PM,   61.0 °F ,   54.0 °F ,78%,   30.03 in ,   6.0 mi ,East,   4.6 mph ,Haze
+1/18/2018,6:53 PM,   62.1 °F ,   54.0 °F ,75%,   30.04 in ,   6.0 mi ,East,   3.5 mph ,Haze
+1/18/2018,7:53 PM,   59.0 °F ,   53.1 °F ,81%,   30.04 in ,   6.0 mi ,Calm,Calm,Haze
+1/18/2018,8:53 PM,   60.1 °F ,   53.1 °F ,78%,   30.04 in ,   5.0 mi ,Calm,Calm,Haze
+1/18/2018,9:53 PM,   61.0 °F ,   53.1 °F ,75%,   30.04 in ,   5.0 mi ,Calm,Calm,Haze
+1/18/2018,10:53 PM,   57.9 °F ,   52.0 °F ,81%,   30.04 in ,   4.0 mi ,SSE,   4.6 mph ,Haze
+1/18/2018,11:34 PM,   61.0 °F ,   55.0 °F ,81%,   30.06 in ,   4.0 mi ,SW,   5.8 mph ,Haze
+1/18/2018,11:42 PM,   61.0 °F ,   55.9 °F ,83%,   30.06 in ,   3.0 mi ,SW,   5.8 mph ,Haze
+1/18/2018,11:53 PM,   61.0 °F ,   55.9 °F ,83%,   30.04 in ,   3.0 mi ,SW,   4.6 mph ,Haze
+1/19/2018,12:05 AM,   61.0 °F ,   55.9 °F ,83%,   30.06 in ,   3.0 mi ,WSW,   3.5 mph ,Haze
+1/19/2018,12:23 AM,   61.0 °F ,   55.9 °F ,83%,   30.05 in ,   2.5 mi ,Calm,Calm,Haze
+1/19/2018,12:45 AM,   60.1 °F ,   54.0 °F ,80%,   30.05 in ,   3.0 mi ,ENE,   3.5 mph ,Haze
+1/19/2018,12:53 AM,   60.1 °F ,   54.0 °F ,80%,   30.04 in ,   3.0 mi ,ENE,   3.5 mph ,Haze
+1/19/2018,1:53 AM,   61.0 °F ,   55.0 °F ,81%,   30.03 in ,   3.0 mi ,Calm,Calm,Haze
+1/19/2018,2:53 AM,   61.0 °F ,   54.0 °F ,78%,   30.03 in ,   5.0 mi ,ESE,   3.5 mph ,Haze
+1/19/2018,3:19 AM,   60.1 °F ,   54.0 °F ,80%,   30.03 in ,   5.0 mi ,ENE,   3.5 mph ,Haze
+1/19/2018,3:53 AM,   59.0 °F ,   54.0 °F ,83%,   30.03 in ,   4.0 mi ,Calm,Calm,Haze
+1/19/2018,4:00 AM,   60.1 °F ,   54.0 °F ,80%,   30.04 in ,   4.0 mi ,Calm,Calm,Haze
+1/19/2018,4:16 AM,   60.1 °F ,   54.0 °F ,80%,   30.04 in ,   5.0 mi ,Calm,Calm,Haze
+1/19/2018,4:30 AM,   60.1 °F ,   54.0 °F ,80%,   30.03 in ,   5.0 mi ,ENE,   3.5 mph ,Haze
+1/19/2018,4:53 AM,   59.0 °F ,   53.1 °F ,81%,   30.02 in ,   5.0 mi ,East,   3.5 mph ,Haze
+1/19/2018,5:53 AM,   57.9 °F ,   52.0 °F ,81%,   30.01 in ,   4.0 mi ,East,   4.6 mph ,Haze
+1/19/2018,6:53 AM,   55.9 °F ,   51.1 °F ,84%,   30.01 in ,   2.5 mi ,Calm,Calm,Haze
+1/19/2018,7:01 AM,   55.9 °F ,   51.1 °F ,84%,   30.02 in ,   3.0 mi ,Calm,Calm,Haze
+1/19/2018,7:53 AM,   59.0 °F ,   52.0 °F ,78%,   30.03 in ,   3.0 mi ,ESE,   3.5 mph ,Haze
+1/19/2018,8:53 AM,   61.0 °F ,   52.0 °F ,72%,   30.04 in ,   4.0 mi ,ESE,   3.5 mph ,Haze
+1/19/2018,9:53 AM,   64.0 °F ,   52.0 °F ,65%,   30.04 in ,   7.0 mi ,WSW,   4.6 mph ,Overcast
+1/19/2018,10:53 AM,   61.0 °F ,   52.0 °F ,72%,   30.03 in ,   - ,WSW,   6.9 mph ,Overcast
+1/19/2018,11:53 AM,   61.0 °F ,   51.1 °F ,70%,   30.00 in ,   10.0 mi ,WSW,   6.9 mph ,Overcast
+1/19/2018,12:29 PM,   62.1 °F ,   51.1 °F ,67%,   29.98 in ,   10.0 mi ,SW,   5.8 mph ,Scattered Clouds
+1/19/2018,12:53 PM,   63.0 °F ,   51.1 °F ,65%,   29.96 in ,   10.0 mi ,West,   9.2 mph ,Scattered Clouds
+1/19/2018,1:53 PM,   60.1 °F ,   51.1 °F ,72%,   29.96 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+1/19/2018,2:00 PM,   61.0 °F ,   52.0 °F ,72%,   29.96 in ,   10.0 mi ,SW,   8.1 mph ,Scattered Clouds
+1/19/2018,2:08 PM,   61.0 °F ,   52.0 °F ,72%,   29.96 in ,   10.0 mi ,SW,   6.9 mph ,Mostly Cloudy
+1/19/2018,2:53 PM,   61.0 °F ,   52.0 °F ,72%,   29.95 in ,   10.0 mi ,WSW,   8.1 mph ,Overcast
+1/19/2018,3:53 PM,   60.1 °F ,   54.0 °F ,80%,   29.94 in ,   10.0 mi ,WSW,   6.9 mph ,Overcast
+1/19/2018,4:01 PM,   59.0 °F ,   55.0 °F ,87%,   29.95 in ,   4.0 mi ,WSW,   5.8 mph ,Overcast
+1/19/2018,4:04 PM,   59.0 °F ,   55.0 °F ,87%,   29.95 in ,   4.0 mi ,WSW,   5.8 mph ,Overcast
+1/19/2018,4:10 PM,   57.9 °F ,   55.9 °F ,93%,   29.95 in ,   1.8 mi ,SW,   4.6 mph ,Overcast
+1/19/2018,4:27 PM,   57.9 °F ,   55.9 °F ,93%,   29.95 in ,   1.8 mi ,WSW,   5.8 mph ,Overcast
+1/19/2018,4:48 PM,   57.2 °F ,   57.2 °F ,100%,   29.95 in ,   3.0 mi ,West,   10.4 mph ,Overcast
+1/19/2018,4:49 PM,   57.9 °F ,   55.9 °F ,93%,   29.94 in ,   3.0 mi ,West,   10.4 mph ,Overcast
+1/19/2018,5:01 PM,   57.9 °F ,   55.9 °F ,93%,   29.95 in ,   7.0 mi ,West,   8.1 mph ,Overcast
+1/19/2018,5:10 PM,   57.9 °F ,   55.9 °F ,93%,   29.95 in ,   10.0 mi ,WSW,   9.2 mph ,Overcast
+1/19/2018,5:41 PM,   57.9 °F ,   54.0 °F ,87%,   29.95 in ,   10.0 mi ,West,   4.6 mph ,Overcast
+1/19/2018,5:53 PM,   57.9 °F ,   54.0 °F ,87%,   29.94 in ,   10.0 mi ,WSW,   4.6 mph ,Overcast
+1/19/2018,6:40 PM,   57.9 °F ,   54.0 °F ,87%,   29.96 in ,   10.0 mi ,West,   11.5 mph ,Light Rain
+1/19/2018,6:53 PM,   57.9 °F ,   53.1 °F ,84%,   29.95 in ,   10.0 mi ,West,   6.9 mph ,Overcast
+1/19/2018,7:53 PM,   57.0 °F ,   52.0 °F ,83%,   29.96 in ,   10.0 mi ,West,   9.2 mph ,Mostly Cloudy
+1/19/2018,8:53 PM,   57.0 °F ,   50.0 °F ,77%,   29.98 in ,   10.0 mi ,WSW,   6.9 mph ,Mostly Cloudy
+1/19/2018,9:07 PM,   57.0 °F ,   48.9 °F ,74%,   29.98 in ,   10.0 mi ,West,   8.1 mph ,Mostly Cloudy
+1/19/2018,9:53 PM,   57.0 °F ,   48.0 °F ,72%,   29.98 in ,   10.0 mi ,West,   6.9 mph ,Overcast
+1/19/2018,10:53 PM,   55.9 °F ,   46.0 °F ,69%,   29.99 in ,   10.0 mi ,West,   6.9 mph ,Mostly Cloudy
+1/19/2018,11:53 PM,   55.0 °F ,   45.0 °F ,69%,   29.97 in ,   10.0 mi ,WSW,   6.9 mph ,Partly Cloudy
+1/20/2018,12:53 AM,   55.0 °F ,   45.0 °F ,69%,   29.97 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+1/20/2018,1:53 AM,   55.0 °F ,   45.0 °F ,69%,   29.97 in ,   10.0 mi ,WSW,   11.5 mph ,Mostly Cloudy
+1/20/2018,2:53 AM,   55.0 °F ,   44.1 °F ,67%,   29.96 in ,   10.0 mi ,WSW,   13.8 mph ,Mostly Cloudy
+1/20/2018,3:53 AM,   55.0 °F ,   42.1 °F ,62%,   29.96 in ,   10.0 mi ,West,   12.7 mph ,Partly Cloudy
+1/20/2018,4:53 AM,   55.0 °F ,   43.0 °F ,64%,   29.96 in ,   10.0 mi ,West,   9.2 mph ,Scattered Clouds
+1/20/2018,5:53 AM,   55.0 °F ,   42.1 °F ,62%,   29.97 in ,   10.0 mi ,West,   13.8 mph ,Clear
+1/20/2018,6:53 AM,   55.0 °F ,   41.0 °F ,59%,   29.99 in ,   10.0 mi ,West,   16.1 mph ,Mostly Cloudy
+1/20/2018,7:53 AM,   55.9 °F ,   39.0 °F ,53%,   30.01 in ,   10.0 mi ,West,   16.1 mph ,Scattered Clouds
+1/20/2018,8:53 AM,   57.0 °F ,   37.9 °F ,49%,   30.04 in ,   10.0 mi ,West,   12.7 mph ,Scattered Clouds
+1/20/2018,9:53 AM,   55.9 °F ,   37.9 °F ,51%,   30.05 in ,   10.0 mi ,WNW,   11.5 mph ,Scattered Clouds
+1/20/2018,10:53 AM,   57.9 °F ,   36.0 °F ,44%,   30.06 in ,   10.0 mi ,WNW,   12.7 mph ,Mostly Cloudy
+1/20/2018,11:53 AM,   59.0 °F ,   39.0 °F ,48%,   30.04 in ,   10.0 mi ,West,   11.5 mph ,Partly Cloudy
+1/20/2018,12:53 PM,   60.1 °F ,   36.0 °F ,41%,   30.03 in ,   10.0 mi ,West,   10.4 mph ,Scattered Clouds
+1/20/2018,1:53 PM,   59.0 °F ,   34.0 °F ,39%,   30.04 in ,   10.0 mi ,West,   13.8 mph ,Scattered Clouds
+1/20/2018,2:53 PM,   59.0 °F ,   35.1 °F ,41%,   30.04 in ,   10.0 mi ,West,   12.7 mph ,Partly Cloudy
+1/20/2018,3:53 PM,   59.0 °F ,   35.1 °F ,41%,   30.06 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+1/20/2018,4:53 PM,   57.0 °F ,   41.0 °F ,55%,   30.08 in ,   10.0 mi ,West,   9.2 mph ,Clear
+1/20/2018,5:53 PM,   - ,   - ,N/A%,   30.10 in ,   10.0 mi ,West,   8.1 mph ,Partly Cloudy
+1/20/2018,6:53 PM,   54.0 °F ,   41.0 °F ,62%,   30.11 in ,   10.0 mi ,West,   4.6 mph ,Clear
+1/20/2018,7:53 PM,   53.1 °F ,   39.9 °F ,61%,   30.13 in ,   10.0 mi ,SSE,   4.6 mph ,Clear
+1/20/2018,8:53 PM,   48.9 °F ,   39.9 °F ,71%,   30.14 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/20/2018,9:53 PM,   50.0 °F ,   41.0 °F ,71%,   30.16 in ,   10.0 mi ,ESE,   4.6 mph ,Partly Cloudy
+1/20/2018,10:53 PM,   48.9 °F ,   41.0 °F ,74%,   30.17 in ,   10.0 mi ,East,   5.8 mph ,Clear
+1/20/2018,11:53 PM,   46.9 °F ,   39.9 °F ,77%,   30.18 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+1/21/2018,12:53 AM,   46.0 °F ,   39.9 °F ,79%,   30.19 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+1/21/2018,1:53 AM,   46.9 °F ,   39.9 °F ,77%,   30.19 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+1/21/2018,2:53 AM,   46.9 °F ,   39.9 °F ,77%,   30.19 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/21/2018,3:53 AM,   45.0 °F ,   39.0 °F ,80%,   30.19 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/21/2018,4:53 AM,   44.1 °F ,   39.0 °F ,82%,   30.19 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/21/2018,5:53 AM,   44.1 °F ,   37.9 °F ,79%,   30.21 in ,   10.0 mi ,Calm,Calm,Clear
+1/21/2018,6:53 AM,   43.0 °F ,   37.9 °F ,82%,   30.23 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/21/2018,7:53 AM,   48.0 °F ,   39.9 °F ,74%,   30.26 in ,   10.0 mi ,East,   4.6 mph ,Clear
+1/21/2018,8:53 AM,   53.1 °F ,   39.0 °F ,59%,   30.28 in ,   10.0 mi ,ESE,   8.1 mph ,Clear
+1/21/2018,9:53 AM,   55.9 °F ,   39.9 °F ,55%,   30.30 in ,   10.0 mi ,South,   4.6 mph ,Clear
+1/21/2018,10:53 AM,   59.0 °F ,   36.0 °F ,42%,   30.30 in ,   10.0 mi ,Calm,Calm,Clear
+1/21/2018,11:53 AM,   61.0 °F ,   34.0 °F ,36%,   30.27 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+1/21/2018,12:53 PM,   62.1 °F ,   33.1 °F ,34%,   30.25 in ,   10.0 mi ,West,   6.9 mph ,Clear
+1/21/2018,1:53 PM,   62.1 °F ,   36.0 °F ,38%,   30.25 in ,   10.0 mi ,West,   8.1 mph ,Clear
+1/21/2018,2:53 PM,   61.0 °F ,   37.9 °F ,42%,   30.25 in ,   10.0 mi ,West,   8.1 mph ,Clear
+1/21/2018,3:53 PM,   61.0 °F ,   35.1 °F ,38%,   30.25 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+1/21/2018,4:53 PM,   57.9 °F ,   35.1 °F ,42%,   30.26 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+1/21/2018,5:53 PM,   55.9 °F ,   37.0 °F ,49%,   30.27 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+1/21/2018,6:53 PM,   55.0 °F ,   36.0 °F ,49%,   30.27 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/21/2018,7:53 PM,   51.1 °F ,   37.0 °F ,59%,   30.27 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/21/2018,8:53 PM,   50.0 °F ,   34.0 °F ,54%,   30.27 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/21/2018,9:53 PM,   51.1 °F ,   32.0 °F ,48%,   30.26 in ,   10.0 mi ,Calm,Calm,Clear
+1/21/2018,10:53 PM,   50.0 °F ,   33.1 °F ,52%,   30.27 in ,   10.0 mi ,Calm,Calm,Clear
+1/21/2018,11:53 PM,   48.0 °F ,   33.1 °F ,56%,   30.26 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,12:53 AM,   46.0 °F ,   33.1 °F ,61%,   30.26 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,1:53 AM,   45.0 °F ,   34.0 °F ,65%,   30.25 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/22/2018,2:53 AM,   46.0 °F ,   35.1 °F ,66%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,3:53 AM,   45.0 °F ,   35.1 °F ,68%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,4:53 AM,   46.0 °F ,   35.1 °F ,66%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,5:53 AM,   44.1 °F ,   34.0 °F ,68%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,6:53 AM,   45.0 °F ,   33.1 °F ,63%,   30.24 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,7:53 AM,   50.0 °F ,   34.0 °F ,54%,   30.25 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,8:53 AM,   54.0 °F ,   32.0 °F ,43%,   30.26 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,9:53 AM,   60.1 °F ,   28.9 °F ,31%,   30.25 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,10:53 AM,   64.0 °F ,   25.0 °F ,23%,   30.24 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+1/22/2018,11:53 AM,   66.9 °F ,   19.9 °F ,17%,   30.20 in ,   10.0 mi ,NW,   4.6 mph ,Clear
+1/22/2018,12:53 PM,   66.9 °F ,   27.0 °F ,22%,   30.17 in ,   10.0 mi ,West,   8.1 mph ,Clear
+1/22/2018,1:53 PM,   66.0 °F ,   30.0 °F ,26%,   30.16 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+1/22/2018,2:53 PM,   64.9 °F ,   28.0 °F ,25%,   30.14 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+1/22/2018,3:53 PM,   63.0 °F ,   34.0 °F ,34%,   30.15 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+1/22/2018,4:53 PM,   61.0 °F ,   34.0 °F ,36%,   30.15 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+1/22/2018,5:53 PM,   57.9 °F ,   39.9 °F ,51%,   30.16 in ,   10.0 mi ,NNW,   8.1 mph ,Clear
+1/22/2018,6:53 PM,   55.0 °F ,   39.9 °F ,57%,   30.16 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+1/22/2018,7:53 PM,   54.0 °F ,   36.0 °F ,51%,   30.16 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/22/2018,8:53 PM,   54.0 °F ,   30.9 °F ,41%,   30.17 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/22/2018,9:53 PM,   51.1 °F ,   33.1 °F ,50%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+1/22/2018,10:53 PM,   48.9 °F ,   32.0 °F ,52%,   30.17 in ,   10.0 mi ,NE,   5.8 mph ,Clear
+1/22/2018,11:53 PM,   48.9 °F ,   32.0 °F ,52%,   30.14 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/23/2018,12:53 AM,   48.0 °F ,   30.9 °F ,52%,   30.13 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/23/2018,1:53 AM,   44.1 °F ,   30.0 °F ,58%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,2:53 AM,   45.0 °F ,   28.9 °F ,53%,   30.13 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/23/2018,3:53 AM,   44.1 °F ,   30.0 °F ,58%,   30.11 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/23/2018,4:53 AM,   46.0 °F ,   28.9 °F ,51%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,5:53 AM,   45.0 °F ,   28.9 °F ,53%,   30.13 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/23/2018,6:53 AM,   43.0 °F ,   28.9 °F ,58%,   30.13 in ,   10.0 mi ,ENE,   3.5 mph ,Clear
+1/23/2018,7:53 AM,   51.1 °F ,   30.9 °F ,46%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,8:53 AM,   57.9 °F ,   30.9 °F ,36%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,9:53 AM,   66.0 °F ,   25.0 °F ,21%,   30.15 in ,   10.0 mi ,West,   5.8 mph ,Clear
+1/23/2018,10:53 AM,   72.0 °F ,   25.0 °F ,17%,   30.14 in ,   10.0 mi ,West,   3.5 mph ,Clear
+1/23/2018,11:53 AM,   73.9 °F ,   25.0 °F ,16%,   30.11 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+1/23/2018,12:53 PM,   73.9 °F ,   30.0 °F ,20%,   30.08 in ,   10.0 mi ,West,   8.1 mph ,Clear
+1/23/2018,1:53 PM,   73.0 °F ,   26.1 °F ,17%,   30.08 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/23/2018,2:53 PM,   71.1 °F ,   28.9 °F ,21%,   30.07 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+1/23/2018,3:53 PM,   68.0 °F ,   41.0 °F ,37%,   30.09 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+1/23/2018,4:53 PM,   64.0 °F ,   39.9 °F ,41%,   30.10 in ,   10.0 mi ,NNW,   11.5 mph ,Clear
+1/23/2018,5:53 PM,   63.0 °F ,   30.0 °F ,29%,   30.11 in ,   10.0 mi ,NNW,   11.5 mph ,Clear
+1/23/2018,6:53 PM,   62.1 °F ,   27.0 °F ,26%,   30.12 in ,   10.0 mi ,North,   8.1 mph ,Clear
+1/23/2018,7:53 PM,   59.0 °F ,   28.9 °F ,32%,   30.12 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+1/23/2018,8:53 PM,   55.0 °F ,   28.9 °F ,37%,   30.12 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/23/2018,9:53 PM,   54.0 °F ,   28.9 °F ,38%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,10:53 PM,   51.1 °F ,   30.9 °F ,46%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/23/2018,11:53 PM,   48.0 °F ,   32.0 °F ,54%,   30.11 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/24/2018,12:53 AM,   50.0 °F ,   30.9 °F ,48%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,1:53 AM,   48.9 °F ,   28.9 °F ,46%,   30.10 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+1/24/2018,2:53 AM,   46.0 °F ,   28.0 °F ,50%,   30.09 in ,   10.0 mi ,East,   4.6 mph ,Clear
+1/24/2018,3:53 AM,   46.0 °F ,   28.0 °F ,50%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,4:53 AM,   48.9 °F ,   26.1 °F ,41%,   30.09 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/24/2018,5:53 AM,   46.9 °F ,   26.1 °F ,44%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,6:53 AM,   48.9 °F ,   25.0 °F ,39%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,7:53 AM,   55.0 °F ,   28.9 °F ,37%,   30.12 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+1/24/2018,8:53 AM,   64.0 °F ,   21.9 °F ,20%,   30.13 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/24/2018,9:53 AM,   70.0 °F ,   19.9 °F ,15%,   30.13 in ,   10.0 mi ,ENE,   3.5 mph ,Clear
+1/24/2018,10:53 AM,   73.9 °F ,   15.1 °F ,11%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,11:53 AM,   78.1 °F ,   12.9 °F ,8%,   30.08 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+1/24/2018,12:53 PM,   78.1 °F ,   21.0 °F ,12%,   30.04 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+1/24/2018,1:53 PM,   73.9 °F ,   24.1 °F ,16%,   30.03 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+1/24/2018,2:53 PM,   73.0 °F ,   21.0 °F ,14%,   30.02 in ,   10.0 mi ,West,   10.4 mph ,Clear
+1/24/2018,3:53 PM,   72.0 °F ,   18.0 °F ,13%,   30.02 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/24/2018,4:53 PM,   69.1 °F ,   18.0 °F ,14%,   30.03 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/24/2018,5:53 PM,   62.1 °F ,   33.1 °F ,34%,   30.04 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+1/24/2018,6:53 PM,   59.0 °F ,   30.9 °F ,35%,   30.04 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/24/2018,7:53 PM,   55.9 °F ,   34.0 °F ,44%,   30.04 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/24/2018,8:53 PM,   54.0 °F ,   28.0 °F ,37%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,9:53 PM,   54.0 °F ,   28.9 °F ,38%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+1/24/2018,10:53 PM,   48.0 °F ,   30.0 °F ,50%,   30.06 in ,   10.0 mi ,East,   3.5 mph ,Clear
+1/24/2018,11:53 PM,   51.1 °F ,   27.0 °F ,39%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+1/25/2018,12:53 AM,   46.9 °F ,   28.0 °F ,48%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+1/25/2018,3:53 AM,   46.0 °F ,   28.9 °F ,51%,   30.03 in ,   10.0 mi ,WSW,   3.5 mph ,Clear
+1/25/2018,4:53 AM,   45.0 °F ,   30.9 °F ,58%,   30.04 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/25/2018,5:53 AM,   43.0 °F ,   30.0 °F ,60%,   30.06 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/25/2018,6:53 AM,   46.0 °F ,   28.9 °F ,51%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/25/2018,8:53 AM,   55.0 °F ,   34.0 °F ,45%,   30.10 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+1/25/2018,9:00 AM,   57.0 °F ,   35.1 °F ,44%,   30.11 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+1/25/2018,9:48 AM,   57.2 °F ,   39.2 °F ,51%,   30.12 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+1/25/2018,9:53 AM,   57.9 °F ,   42.1 °F ,56%,   30.12 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+1/25/2018,10:53 AM,   62.1 °F ,   45.0 °F ,53%,   30.10 in ,   10.0 mi ,SW,   4.6 mph ,Clear
+1/25/2018,11:53 AM,   63.0 °F ,   46.0 °F ,54%,   30.08 in ,   10.0 mi ,West,   9.2 mph ,Clear
+1/25/2018,12:53 PM,   62.1 °F ,   46.0 °F ,56%,   30.06 in ,   10.0 mi ,West,   11.5 mph ,Overcast
+1/25/2018,1:53 PM,   62.1 °F ,   46.9 °F ,58%,   30.06 in ,   10.0 mi ,WNW,   9.2 mph ,Mostly Cloudy
+1/25/2018,2:30 PM,   62.1 °F ,   48.9 °F ,62%,   30.06 in ,   10.0 mi ,NW,   10.4 mph ,Mostly Cloudy
+1/25/2018,2:53 PM,   62.1 °F ,   48.9 °F ,62%,   30.06 in ,   10.0 mi ,NW,   11.5 mph ,Mostly Cloudy
+1/25/2018,3:53 PM,   61.0 °F ,   50.0 °F ,67%,   30.06 in ,   10.0 mi ,West,   10.4 mph ,Mostly Cloudy
+1/25/2018,4:53 PM,   59.0 °F ,   51.1 °F ,75%,   30.07 in ,   10.0 mi ,West,   11.5 mph ,Mostly Cloudy
+1/25/2018,5:53 PM,   57.0 °F ,   46.9 °F ,69%,   30.09 in ,   10.0 mi ,WNW,   13.8 mph ,Scattered Clouds
+1/25/2018,6:53 PM,   55.9 °F ,   45.0 °F ,67%,   30.11 in ,   10.0 mi ,West,   8.1 mph ,Partly Cloudy
+1/25/2018,7:53 PM,   55.9 °F ,   44.1 °F ,64%,   30.11 in ,   10.0 mi ,West,   5.8 mph ,Clear
+1/25/2018,8:53 PM,   55.0 °F ,   44.1 °F ,67%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/25/2018,9:53 PM,   50.0 °F ,   43.0 °F ,77%,   30.14 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+1/25/2018,10:53 PM,   50.0 °F ,   43.0 °F ,77%,   30.14 in ,   10.0 mi ,East,   3.5 mph ,Partly Cloudy
+1/25/2018,11:53 PM,   48.9 °F ,   43.0 °F ,80%,   30.14 in ,   10.0 mi ,ESE,   3.5 mph ,Mostly Cloudy
+1/26/2018,12:53 AM,   52.0 °F ,   44.1 °F ,74%,   30.14 in ,   10.0 mi ,SSE,   3.5 mph ,Mostly Cloudy
+1/26/2018,1:15 AM,   51.1 °F ,   45.0 °F ,80%,   30.15 in ,   10.0 mi ,Calm,Calm,Overcast
+1/26/2018,1:41 AM,   51.1 °F ,   45.0 °F ,80%,   30.15 in ,   10.0 mi ,SE,   5.8 mph ,Overcast
+1/26/2018,1:53 AM,   51.1 °F ,   44.1 °F ,77%,   30.14 in ,   10.0 mi ,SE,   5.8 mph ,Mostly Cloudy
+1/26/2018,2:26 AM,   51.1 °F ,   45.0 °F ,80%,   30.15 in ,   10.0 mi ,ESE,   3.5 mph ,Overcast
+1/26/2018,2:46 AM,   52.0 °F ,   44.1 °F ,74%,   30.15 in ,   10.0 mi ,SSE,   4.6 mph ,Mostly Cloudy
+1/26/2018,2:53 AM,   51.1 °F ,   44.1 °F ,77%,   30.15 in ,   10.0 mi ,SE,   4.6 mph ,Overcast
+1/26/2018,3:53 AM,   50.0 °F ,   44.1 °F ,80%,   30.14 in ,   10.0 mi ,SE,   5.8 mph ,Clear
+1/26/2018,4:14 AM,   50.0 °F ,   44.1 °F ,80%,   30.15 in ,   10.0 mi ,ESE,   6.9 mph ,Mostly Cloudy
+1/26/2018,4:21 AM,   48.9 °F ,   44.1 °F ,83%,   30.15 in ,   10.0 mi ,SE,   6.9 mph ,Scattered Clouds
+1/26/2018,4:53 AM,   48.9 °F ,   43.0 °F ,80%,   30.16 in ,   10.0 mi ,SE,   4.6 mph ,Clear
+1/26/2018,5:53 AM,   46.9 °F ,   43.0 °F ,86%,   30.18 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+1/26/2018,6:53 AM,   46.9 °F ,   42.1 °F ,83%,   30.19 in ,   10.0 mi ,East,   3.5 mph ,Clear
+1/26/2018,7:53 AM,   52.0 °F ,   45.0 °F ,77%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+1/26/2018,8:53 AM,   55.0 °F ,   44.1 °F ,67%,   30.21 in ,   10.0 mi ,South,   3.5 mph ,Clear
+1/26/2018,9:53 AM,   57.9 °F ,   44.1 °F ,60%,   30.23 in ,   10.0 mi ,WSW,   3.5 mph ,Clear
+1/26/2018,10:53 AM,   62.1 °F ,   39.9 °F ,44%,   30.22 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+1/26/2018,11:53 AM,   63.0 °F ,   39.9 °F ,43%,   30.19 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/26/2018,12:53 PM,   63.0 °F ,   34.0 °F ,34%,   30.15 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+1/26/2018,1:53 PM,   63.0 °F ,   35.1 °F ,35%,   30.15 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+1/26/2018,2:53 PM,   62.1 °F ,   34.0 °F ,35%,   30.14 in ,   10.0 mi ,NW,   11.5 mph ,Clear
+1/26/2018,3:53 PM,   60.1 °F ,   34.0 °F ,38%,   30.14 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+1/26/2018,4:53 PM,   59.0 °F ,   37.9 °F ,46%,   30.14 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+1/26/2018,5:53 PM,   55.9 °F ,   42.1 °F ,60%,   30.16 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+1/26/2018,6:53 PM,   55.0 °F ,   42.1 °F ,62%,   30.18 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+1/26/2018,7:53 PM,   54.0 °F ,   42.1 °F ,64%,   30.17 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/26/2018,8:53 PM,   53.1 °F ,   42.1 °F ,66%,   30.19 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+1/26/2018,9:53 PM,   52.0 °F ,   42.1 °F ,69%,   30.20 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/26/2018,10:53 PM,   50.0 °F ,   44.1 °F ,80%,   30.20 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/26/2018,11:53 PM,   48.0 °F ,   39.9 °F ,74%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,12:53 AM,   46.9 °F ,   39.0 °F ,74%,   30.19 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/27/2018,1:53 AM,   46.9 °F ,   35.1 °F ,63%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,2:53 AM,   46.9 °F ,   33.1 °F ,59%,   30.18 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/27/2018,3:53 AM,   46.0 °F ,   32.0 °F ,58%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,4:53 AM,   45.0 °F ,   32.0 °F ,60%,   30.17 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/27/2018,5:53 AM,   44.1 °F ,   30.0 °F ,58%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,6:53 AM,   43.0 °F ,   30.0 °F ,60%,   30.20 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,7:53 AM,   48.9 °F ,   33.1 °F ,54%,   30.22 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,8:53 AM,   57.0 °F ,   27.0 °F ,32%,   30.22 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,9:53 AM,   64.0 °F ,   24.1 °F ,22%,   30.21 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,10:53 AM,   66.9 °F ,   19.0 °F ,16%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,11:53 AM,   71.1 °F ,   23.0 °F ,16%,   30.17 in ,   10.0 mi ,Variable,   6.9 mph ,Clear
+1/27/2018,12:53 PM,   69.1 °F ,   25.0 °F ,19%,   30.14 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+1/27/2018,1:53 PM,   69.1 °F ,   25.0 °F ,19%,   30.13 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+1/27/2018,2:53 PM,   69.1 °F ,   32.0 °F ,25%,   30.12 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+1/27/2018,3:53 PM,   66.9 °F ,   37.9 °F ,34%,   30.12 in ,   10.0 mi ,NNW,   9.2 mph ,Clear
+1/27/2018,4:53 PM,   66.0 °F ,   37.9 °F ,36%,   30.12 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+1/27/2018,5:53 PM,   61.0 °F ,   37.9 °F ,42%,   30.12 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/27/2018,6:53 PM,   57.9 °F ,   41.0 °F ,53%,   30.13 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/27/2018,7:53 PM,   57.0 °F ,   35.1 °F ,44%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,8:53 PM,   57.0 °F ,   30.9 °F ,37%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/27/2018,9:53 PM,   57.0 °F ,   30.0 °F ,36%,   30.14 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+1/27/2018,10:53 PM,   51.1 °F ,   28.0 °F ,41%,   30.14 in ,   10.0 mi ,East,   3.5 mph ,Clear
+1/27/2018,11:53 PM,   51.1 °F ,   28.0 °F ,41%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,12:53 AM,   53.1 °F ,   26.1 °F ,35%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,1:53 AM,   51.1 °F ,   26.1 °F ,38%,   30.13 in ,   10.0 mi ,East,   3.5 mph ,Clear
+1/28/2018,2:53 AM,   51.1 °F ,   26.1 °F ,38%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,3:53 AM,   53.1 °F ,   23.0 °F ,31%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,4:53 AM,   48.9 °F ,   25.0 °F ,39%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,5:53 AM,   51.1 °F ,   23.0 °F ,33%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,6:53 AM,   48.0 °F ,   26.1 °F ,42%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,7:53 AM,   57.0 °F ,   28.0 °F ,33%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,8:53 AM,   68.0 °F ,   25.0 °F ,20%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,9:53 AM,   75.0 °F ,   25.0 °F ,16%,   30.14 in ,   10.0 mi ,SSE,   5.8 mph ,Clear
+1/28/2018,10:53 AM,   81.0 °F ,   24.1 °F ,12%,   30.13 in ,   10.0 mi ,SW,   3.5 mph ,Clear
+1/28/2018,11:53 AM,   82.9 °F ,   21.0 °F ,10%,   30.11 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+1/28/2018,12:53 PM,   82.9 °F ,   24.1 °F ,12%,   30.07 in ,   10.0 mi ,SW,   5.8 mph ,Clear
+1/28/2018,1:53 PM,   82.9 °F ,   28.9 °F ,14%,   30.05 in ,   10.0 mi ,SW,   9.2 mph ,Clear
+1/28/2018,2:53 PM,   80.1 °F ,   30.9 °F ,17%,   30.06 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+1/28/2018,3:53 PM,   79.0 °F ,   30.0 °F ,17%,   30.06 in ,   10.0 mi ,SSW,   6.9 mph ,Clear
+1/28/2018,4:53 PM,   79.0 °F ,   30.9 °F ,17%,   30.07 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+1/28/2018,5:53 PM,   73.9 °F ,   25.0 °F ,16%,   30.08 in ,   10.0 mi ,ENE,   6.9 mph ,Clear
+1/28/2018,6:53 PM,   71.1 °F ,   30.9 °F ,23%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/28/2018,7:53 PM,   66.9 °F ,   28.9 °F ,24%,   30.10 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+1/28/2018,8:53 PM,   66.9 °F ,   26.1 °F ,21%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,9:53 PM,   63.0 °F ,   28.0 °F ,27%,   30.10 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+1/28/2018,10:53 PM,   61.0 °F ,   28.9 °F ,30%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/28/2018,11:53 PM,   61.0 °F ,   28.0 °F ,29%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,12:53 AM,   61.0 °F ,   28.0 °F ,29%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,1:53 AM,   60.1 °F ,   28.9 °F ,31%,   30.07 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+1/29/2018,2:53 AM,   57.0 °F ,   28.0 °F ,33%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,3:53 AM,   55.9 °F ,   30.0 °F ,37%,   30.08 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/29/2018,4:53 AM,   52.0 °F ,   30.9 °F ,45%,   30.08 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+1/29/2018,5:53 AM,   55.0 °F ,   28.9 °F ,37%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,6:53 AM,   57.0 °F ,   28.0 °F ,33%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,7:53 AM,   62.1 °F ,   30.9 °F ,31%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,8:53 AM,   72.0 °F ,   30.0 °F ,21%,   30.10 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/29/2018,9:53 AM,   78.1 °F ,   23.0 °F ,13%,   30.10 in ,   10.0 mi ,WSW,   4.6 mph ,Clear
+1/29/2018,10:53 AM,   82.0 °F ,   26.1 °F ,13%,   30.09 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/29/2018,11:53 AM,   82.9 °F ,   24.1 °F ,12%,   30.06 in ,   10.0 mi ,WSW,   9.2 mph ,Clear
+1/29/2018,12:53 PM,   84.9 °F ,   21.9 °F ,10%,   30.05 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+1/29/2018,1:53 PM,   84.9 °F ,   25.0 °F ,11%,   30.03 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/29/2018,2:53 PM,   86.0 °F ,   23.0 °F ,10%,   30.01 in ,   10.0 mi ,WNW,   5.8 mph ,Clear
+1/29/2018,3:53 PM,   81.0 °F ,   30.9 °F ,16%,   30.02 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+1/29/2018,4:53 PM,   75.0 °F ,   30.0 °F ,19%,   30.02 in ,   10.0 mi ,North,   5.8 mph ,Clear
+1/29/2018,5:53 PM,   72.0 °F ,   30.9 °F ,22%,   30.04 in ,   10.0 mi ,North,   3.5 mph ,Clear
+1/29/2018,6:53 PM,   69.1 °F ,   33.1 °F ,26%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,7:53 PM,   66.9 °F ,   28.9 °F ,24%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+1/29/2018,8:53 PM,   66.9 °F ,   27.0 °F ,22%,   30.06 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/29/2018,9:53 PM,   68.0 °F ,   23.0 °F ,18%,   30.06 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+1/29/2018,10:53 PM,   66.0 °F ,   24.1 °F ,20%,   30.06 in ,   10.0 mi ,East,   5.8 mph ,Clear
+1/29/2018,11:53 PM,   66.9 °F ,   21.9 °F ,18%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,12:53 AM,   63.0 °F ,   23.0 °F ,22%,   30.03 in ,   10.0 mi ,ENE,   5.8 mph ,Clear
+1/30/2018,1:53 AM,   64.0 °F ,   24.1 °F ,22%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,2:53 AM,   59.0 °F ,   27.0 °F ,29%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,3:53 AM,   59.0 °F ,   26.1 °F ,28%,   30.02 in ,   10.0 mi ,East,   4.6 mph ,Clear
+1/30/2018,4:53 AM,   60.1 °F ,   26.1 °F ,27%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,5:53 AM,   61.0 °F ,   24.1 °F ,24%,   30.03 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+1/30/2018,6:53 AM,   60.1 °F ,   25.0 °F ,26%,   30.05 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/30/2018,7:53 AM,   63.0 °F ,   26.1 °F ,25%,   30.05 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/30/2018,8:53 AM,   72.0 °F ,   26.1 °F ,18%,   30.06 in ,   10.0 mi ,East,   3.5 mph ,Clear
+1/30/2018,9:53 AM,   75.9 °F ,   23.0 °F ,14%,   30.07 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+1/30/2018,10:53 AM,   78.1 °F ,   24.1 °F ,14%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,11:53 AM,   79.0 °F ,   28.9 °F ,16%,   30.03 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/30/2018,12:53 PM,   79.0 °F ,   33.1 °F ,19%,   30.00 in ,   10.0 mi ,NNW,   5.8 mph ,Clear
+1/30/2018,1:53 PM,   82.0 °F ,   19.0 °F ,10%,   29.98 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+1/30/2018,2:53 PM,   82.0 °F ,   24.1 °F ,12%,   29.96 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+1/30/2018,3:53 PM,   81.0 °F ,   17.1 °F ,9%,   29.95 in ,   10.0 mi ,NNW,   5.8 mph ,Clear
+1/30/2018,4:53 PM,   75.9 °F ,   21.9 °F ,13%,   29.96 in ,   10.0 mi ,NNW,   8.1 mph ,Clear
+1/30/2018,5:53 PM,   71.1 °F ,   25.0 °F ,18%,   29.96 in ,   10.0 mi ,North,   6.9 mph ,Clear
+1/30/2018,6:53 PM,   69.1 °F ,   25.0 °F ,19%,   29.97 in ,   10.0 mi ,North,   8.1 mph ,Clear
+1/30/2018,7:53 PM,   66.9 °F ,   25.0 °F ,21%,   29.97 in ,   10.0 mi ,North,   8.1 mph ,Clear
+1/30/2018,8:53 PM,   64.0 °F ,   26.1 °F ,24%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,9:53 PM,   61.0 °F ,   28.0 °F ,29%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,10:53 PM,   57.9 °F ,   30.0 °F ,35%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+1/30/2018,11:53 PM,   57.0 °F ,   33.1 °F ,40%,   29.98 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+1/31/2018,12:53 AM,   54.0 °F ,   32.0 °F ,43%,   29.97 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/31/2018,1:53 AM,   55.0 °F ,   33.1 °F ,43%,   29.96 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+1/31/2018,2:53 AM,   53.1 °F ,   33.1 °F ,47%,   29.95 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,3:53 AM,   53.1 °F ,   33.1 °F ,47%,   29.95 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+1/31/2018,4:53 AM,   54.0 °F ,   32.0 °F ,43%,   29.96 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/31/2018,5:53 AM,   52.0 °F ,   32.0 °F ,47%,   29.97 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,6:53 AM,   54.0 °F ,   32.0 °F ,43%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,7:53 AM,   59.0 °F ,   35.1 °F ,41%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,8:53 AM,   64.9 °F ,   30.9 °F ,28%,   29.99 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+1/31/2018,9:53 AM,   72.0 °F ,   26.1 °F ,18%,   30.00 in ,   10.0 mi ,SSE,   4.6 mph ,Clear
+1/31/2018,10:53 AM,   75.9 °F ,   26.1 °F ,16%,   29.98 in ,   10.0 mi ,South,   4.6 mph ,Clear
+1/31/2018,11:53 AM,   78.1 °F ,   25.0 °F ,14%,   29.96 in ,   10.0 mi ,SSW,   6.9 mph ,Clear
+1/31/2018,12:53 PM,   78.1 °F ,   32.0 °F ,19%,   29.94 in ,   10.0 mi ,SW,   8.1 mph ,Clear
+1/31/2018,1:53 PM,   75.0 °F ,   39.0 °F ,27%,   29.92 in ,   10.0 mi ,SW,   8.1 mph ,Clear
+1/31/2018,2:53 PM,   73.9 °F ,   35.1 °F ,24%,   29.91 in ,   10.0 mi ,SW,   5.8 mph ,Clear
+1/31/2018,4:53 PM,   72.0 °F ,   39.0 °F ,30%,   29.91 in ,   10.0 mi ,SW,   4.6 mph ,Clear
+1/31/2018,5:53 PM,   66.9 °F ,   42.1 °F ,40%,   29.92 in ,   10.0 mi ,WNW,   3.5 mph ,Clear
+1/31/2018,6:53 PM,   64.9 °F ,   36.0 °F ,34%,   29.93 in ,   10.0 mi ,North,   4.6 mph ,Clear
+1/31/2018,7:53 PM,   62.1 °F ,   36.0 °F ,38%,   29.94 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,8:53 PM,   60.1 °F ,   36.0 °F ,41%,   29.96 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,9:53 PM,   57.0 °F ,   35.1 °F ,44%,   29.97 in ,   10.0 mi ,Calm,Calm,Clear
+1/31/2018,10:53 PM,   57.0 °F ,   35.1 °F ,44%,   29.98 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+1/31/2018,11:53 PM,   55.9 °F ,   35.1 °F ,45%,   29.97 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,12:53 AM,   55.0 °F ,   35.1 °F ,47%,   29.96 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,1:53 AM,   55.0 °F ,   37.0 °F ,51%,   29.97 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,2:53 AM,   55.0 °F ,   36.0 °F ,49%,   29.96 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,3:53 AM,   53.1 °F ,   36.0 °F ,52%,   29.95 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,4:53 AM,   53.1 °F ,   35.1 °F ,50%,   29.95 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+2/1/2018,5:53 AM,   51.1 °F ,   35.1 °F ,54%,   29.96 in ,   10.0 mi ,SE,   4.6 mph ,Clear
+2/1/2018,6:53 AM,   53.1 °F ,   35.1 °F ,50%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,7:53 AM,   60.1 °F ,   35.1 °F ,39%,   30.00 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,8:53 AM,   64.9 °F ,   30.0 °F ,27%,   30.02 in ,   10.0 mi ,SW,   3.5 mph ,Clear
+2/1/2018,9:53 AM,   70.0 °F ,   30.0 °F ,23%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,10:53 AM,   73.9 °F ,   30.0 °F ,20%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,11:53 AM,   79.0 °F ,   28.9 °F ,16%,   30.00 in ,   10.0 mi ,West,   4.6 mph ,Clear
+2/1/2018,12:53 PM,   79.0 °F ,   39.0 °F ,24%,   29.97 in ,   10.0 mi ,SSW,   6.9 mph ,Clear
+2/1/2018,1:53 PM,   69.1 °F ,   51.1 °F ,53%,   29.98 in ,   9.0 mi ,WSW,   8.1 mph ,Clear
+2/1/2018,2:53 PM,   69.1 °F ,   45.0 °F ,42%,   29.98 in ,   10.0 mi ,WSW,   4.6 mph ,Clear
+2/1/2018,3:53 PM,   72.0 °F ,   48.0 °F ,43%,   29.98 in ,   10.0 mi ,WSW,   4.6 mph ,Clear
+2/1/2018,4:53 PM,   71.1 °F ,   52.0 °F ,51%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+2/1/2018,5:53 PM,   64.0 °F ,   52.0 °F ,65%,   30.00 in ,   9.0 mi ,SSW,   3.5 mph ,Clear
+2/1/2018,6:53 PM,   62.1 °F ,   53.1 °F ,72%,   30.02 in ,   7.0 mi ,South,   3.5 mph ,Clear
+2/1/2018,7:53 PM,   60.1 °F ,   53.1 °F ,78%,   30.04 in ,   6.0 mi ,Calm,Calm,Haze
+2/1/2018,8:53 PM,   57.9 °F ,   51.1 °F ,78%,   30.05 in ,   6.0 mi ,Calm,Calm,Haze
+2/1/2018,9:53 PM,   55.9 °F ,   50.0 °F ,80%,   30.06 in ,   7.0 mi ,Calm,Calm,Clear
+2/1/2018,10:53 PM,   57.9 °F ,   48.9 °F ,72%,   30.06 in ,   8.0 mi ,Calm,Calm,Clear
+2/1/2018,11:53 PM,   57.0 °F ,   45.0 °F ,64%,   30.05 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+2/2/2018,12:53 AM,   54.0 °F ,   44.1 °F ,69%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,1:53 AM,   55.0 °F ,   45.0 °F ,69%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,2:53 AM,   54.0 °F ,   44.1 °F ,69%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,3:53 AM,   54.0 °F ,   43.0 °F ,66%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,4:53 AM,   53.1 °F ,   41.0 °F ,64%,   30.04 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+2/2/2018,5:53 AM,   53.1 °F ,   39.9 °F ,61%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,6:53 AM,   55.9 °F ,   37.0 °F ,49%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,7:53 AM,   60.1 °F ,   41.0 °F ,49%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,8:53 AM,   70.0 °F ,   33.1 °F ,26%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,9:53 AM,   75.0 °F ,   28.0 °F ,18%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,10:53 AM,   79.0 °F ,   28.0 °F ,15%,   30.10 in ,   10.0 mi ,WNW,   3.5 mph ,Clear
+2/2/2018,11:53 AM,   82.9 °F ,   27.0 °F ,13%,   30.06 in ,   10.0 mi ,West,   5.8 mph ,Clear
+2/2/2018,12:53 PM,   82.0 °F ,   30.9 °F ,16%,   30.04 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+2/2/2018,1:53 PM,   80.1 °F ,   25.0 °F ,13%,   30.02 in ,   10.0 mi ,WSW,   10.4 mph ,Clear
+2/2/2018,2:53 PM,   79.0 °F ,   30.9 °F ,17%,   30.03 in ,   10.0 mi ,SW,   5.8 mph ,Clear
+2/2/2018,3:53 PM,   77.0 °F ,   28.0 °F ,17%,   30.03 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+2/2/2018,4:53 PM,   73.9 °F ,   39.0 °F ,28%,   30.04 in ,   10.0 mi ,WSW,   3.5 mph ,Clear
+2/2/2018,5:53 PM,   69.1 °F ,   37.0 °F ,31%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,6:53 PM,   66.0 °F ,   39.0 °F ,37%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,7:53 PM,   64.0 °F ,   42.1 °F ,45%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,8:53 PM,   61.0 °F ,   41.0 °F ,48%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,9:53 PM,   61.0 °F ,   39.9 °F ,46%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,10:53 PM,   57.9 °F ,   37.9 °F ,47%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/2/2018,11:53 PM,   57.9 °F ,   35.1 °F ,42%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,12:53 AM,   57.9 °F ,   36.0 °F ,44%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,1:53 AM,   55.0 °F ,   35.1 °F ,47%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,2:53 AM,   57.0 °F ,   34.0 °F ,42%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,3:53 AM,   54.0 °F ,   33.1 °F ,45%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,4:53 AM,   52.0 °F ,   34.0 °F ,50%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,5:53 AM,   52.0 °F ,   34.0 °F ,50%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,6:53 AM,   52.0 °F ,   33.1 °F ,49%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,7:53 AM,   60.1 °F ,   35.1 °F ,39%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,8:53 AM,   69.1 °F ,   33.1 °F ,26%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/3/2018,9:53 AM,   73.9 °F ,   33.1 °F ,22%,   30.12 in ,   10.0 mi ,NW,   3.5 mph ,Clear
+2/3/2018,10:53 AM,   77.0 °F ,   30.0 °F ,18%,   30.12 in ,   10.0 mi ,Variable,   4.6 mph ,Clear
+2/3/2018,11:53 AM,   79.0 °F ,   35.1 °F ,20%,   30.07 in ,   10.0 mi ,West,   8.1 mph ,Clear
+2/3/2018,12:53 PM,   79.0 °F ,   32.0 °F ,18%,   30.03 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+2/3/2018,1:53 PM,   80.1 °F ,   27.0 °F ,14%,   30.01 in ,   10.0 mi ,West,   9.2 mph ,Clear
+2/3/2018,2:53 PM,   77.0 °F ,   30.9 °F ,19%,   30.00 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+2/3/2018,3:53 PM,   75.0 °F ,   30.9 °F ,20%,   29.99 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+2/3/2018,4:53 PM,   72.0 °F ,   36.0 °F ,27%,   30.01 in ,   7.0 mi ,NW,   6.9 mph ,Clear
+2/3/2018,5:53 PM,   66.9 °F ,   37.0 °F ,33%,   30.03 in ,   6.0 mi ,NW,   4.6 mph ,Haze
+2/3/2018,6:53 PM,   64.9 °F ,   41.0 °F ,42%,   30.04 in ,   6.0 mi ,NW,   4.6 mph ,Haze
+2/3/2018,7:53 PM,   63.0 °F ,   41.0 °F ,45%,   30.04 in ,   6.0 mi ,Calm,Calm,Haze
+2/3/2018,8:53 PM,   59.0 °F ,   39.9 °F ,49%,   30.04 in ,   7.0 mi ,Calm,Calm,Haze
+2/3/2018,9:53 PM,   57.0 °F ,   39.9 °F ,53%,   30.05 in ,   7.0 mi ,Calm,Calm,Haze
+2/3/2018,10:53 PM,   59.0 °F ,   37.0 °F ,44%,   30.04 in ,   8.0 mi ,Calm,Calm,Haze
+2/3/2018,11:53 PM,   55.0 °F ,   37.0 °F ,51%,   30.04 in ,   9.0 mi ,Calm,Calm,Haze
+2/4/2018,12:53 AM,   53.1 °F ,   36.0 °F ,52%,   30.03 in ,   9.0 mi ,Calm,Calm,Haze
+2/4/2018,1:53 AM,   55.0 °F ,   36.0 °F ,49%,   30.04 in ,   9.0 mi ,Calm,Calm,Haze
+2/4/2018,2:53 AM,   52.0 °F ,   36.0 °F ,54%,   30.03 in ,   9.0 mi ,Calm,Calm,Haze
+2/4/2018,3:53 AM,   52.0 °F ,   36.0 °F ,54%,   30.04 in ,   10.0 mi ,ESE,   3.5 mph ,Haze
+2/4/2018,4:53 AM,   52.0 °F ,   36.0 °F ,54%,   30.04 in ,   10.0 mi ,Calm,Calm,Haze
+2/4/2018,5:53 AM,   51.1 °F ,   37.0 °F ,59%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,6:53 AM,   51.1 °F ,   37.0 °F ,59%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,7:53 AM,   59.0 °F ,   37.9 °F ,46%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,8:53 AM,   66.9 °F ,   37.0 °F ,33%,   30.07 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/4/2018,9:53 AM,   73.9 °F ,   35.1 °F ,24%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,10:53 AM,   79.0 °F ,   33.1 °F ,19%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,11:53 AM,   82.0 °F ,   33.1 °F ,17%,   30.02 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+2/4/2018,12:53 PM,   80.1 °F ,   39.9 °F ,24%,   29.99 in ,   10.0 mi ,West,   8.1 mph ,Clear
+2/4/2018,1:53 PM,   80.1 °F ,   41.0 °F ,25%,   29.97 in ,   10.0 mi ,West,   6.9 mph ,Clear
+2/4/2018,2:53 PM,   80.1 °F ,   39.9 °F ,24%,   29.96 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+2/4/2018,3:53 PM,   77.0 °F ,   42.1 °F ,29%,   29.96 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+2/4/2018,4:53 PM,   71.1 °F ,   41.0 °F ,34%,   29.97 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+2/4/2018,5:53 PM,   66.0 °F ,   43.0 °F ,43%,   29.99 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/4/2018,6:53 PM,   63.0 °F ,   46.0 °F ,54%,   30.01 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,7:53 PM,   63.0 °F ,   48.9 °F ,60%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,8:53 PM,   61.0 °F ,   50.0 °F ,67%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,9:53 PM,   60.1 °F ,   46.0 °F ,60%,   30.02 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+2/4/2018,10:53 PM,   55.9 °F ,   45.0 °F ,67%,   30.01 in ,   10.0 mi ,Calm,Calm,Clear
+2/4/2018,11:53 PM,   55.9 °F ,   45.0 °F ,67%,   30.00 in ,   10.0 mi ,Calm,Calm,Clear
+2/5/2018,12:53 AM,   54.0 °F ,   44.1 °F ,69%,   30.00 in ,   9.0 mi ,Calm,Calm,Clear
+2/5/2018,1:53 AM,   55.0 °F ,   44.1 °F ,67%,   29.98 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+2/5/2018,2:06 AM,   55.0 °F ,   50.0 °F ,83%,   29.98 in ,   1.0 mi ,NW,   3.5 mph ,Haze
+2/5/2018,2:11 AM,   55.0 °F ,   53.1 °F ,93%,   29.98 in ,   0.2 mi ,NW,   4.6 mph ,Fog
+2/5/2018,2:24 AM,   54.0 °F ,   53.1 °F ,97%,   29.98 in ,   1.0 mi ,NW,   3.5 mph ,Mist
+2/5/2018,2:26 AM,   54.0 °F ,   53.1 °F ,97%,   29.98 in ,   2.0 mi ,Calm,Calm,Partly Cloudy
+2/5/2018,2:34 AM,   53.1 °F ,   51.1 °F ,93%,   29.98 in ,   0.8 mi ,WNW,   3.5 mph ,Mist
+2/5/2018,2:37 AM,   53.1 °F ,   51.1 °F ,93%,   29.98 in ,   0.2 mi ,WNW,   4.6 mph ,Fog
+2/5/2018,2:53 AM,   53.1 °F ,   53.1 °F ,100%,   29.97 in ,   0.2 mi ,Calm,Calm,Fog
+2/5/2018,3:02 AM,   52.0 °F ,   52.0 °F ,100%,   29.98 in ,   0.5 mi ,NW,   3.5 mph ,Fog
+2/5/2018,3:12 AM,   53.1 °F ,   52.0 °F ,96%,   29.98 in ,   1.5 mi ,Calm,Calm,Mostly Cloudy
+2/5/2018,3:16 AM,   52.0 °F ,   51.1 °F ,97%,   29.98 in ,   3.0 mi ,Calm,Calm,Mostly Cloudy
+2/5/2018,3:23 AM,   53.1 °F ,   51.1 °F ,93%,   29.98 in ,   4.0 mi ,Calm,Calm,Scattered Clouds
+2/5/2018,3:53 AM,   52.0 °F ,   48.0 °F ,86%,   29.96 in ,   7.0 mi ,Calm,Calm,Clear
+2/5/2018,4:53 AM,   54.0 °F ,   43.0 °F ,66%,   29.96 in ,   10.0 mi ,Calm,Calm,Clear
+2/5/2018,5:53 AM,   50.0 °F ,   44.1 °F ,80%,   29.98 in ,   8.0 mi ,ESE,   3.5 mph ,Clear
+2/5/2018,6:53 AM,   51.1 °F ,   43.0 °F ,74%,   29.99 in ,   8.0 mi ,Calm,Calm,Clear
+2/5/2018,7:53 AM,   55.9 °F ,   41.0 °F ,57%,   30.00 in ,   10.0 mi ,SE,   4.6 mph ,Clear
+2/5/2018,8:53 AM,   63.0 °F ,   36.0 °F ,37%,   29.99 in ,   10.0 mi ,SE,   6.9 mph ,Clear
+2/5/2018,9:53 AM,   68.0 °F ,   37.9 °F ,33%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+2/5/2018,10:53 AM,   72.0 °F ,   39.0 °F ,30%,   29.98 in ,   10.0 mi ,South,   3.5 mph ,Clear
+2/5/2018,11:53 AM,   66.9 °F ,   53.1 °F ,61%,   29.99 in ,   5.0 mi ,West,   10.4 mph ,Haze
+2/5/2018,12:53 PM,   68.0 °F ,   52.0 °F ,56%,   29.96 in ,   6.0 mi ,SSW,   5.8 mph ,Haze
+2/5/2018,1:53 PM,   69.1 °F ,   48.9 °F ,49%,   29.93 in ,   10.0 mi ,South,   4.6 mph ,Clear
+2/5/2018,2:53 PM,   71.1 °F ,   52.0 °F ,51%,   29.91 in ,   10.0 mi ,WSW,   4.6 mph ,Clear
+2/5/2018,3:53 PM,   70.0 °F ,   54.0 °F ,57%,   29.91 in ,   10.0 mi ,West,   5.8 mph ,Clear
+2/5/2018,4:53 PM,   68.0 °F ,   54.0 °F ,61%,   29.90 in ,   10.0 mi ,South,   6.9 mph ,Clear
+2/5/2018,5:53 PM,   64.9 °F ,   54.0 °F ,68%,   29.91 in ,   10.0 mi ,Calm,Calm,Clear
+2/5/2018,6:53 PM,   63.0 °F ,   55.0 °F ,75%,   29.92 in ,   10.0 mi ,WSW,   4.6 mph ,Clear
+2/5/2018,7:39 PM,   57.9 °F ,   54.0 °F ,87%,   29.95 in ,   8.0 mi ,NNW,   8.1 mph ,Mostly Cloudy
+2/5/2018,7:47 PM,   57.2 °F ,   55.4 °F ,94%,   29.95 in ,   2.5 mi ,NW,   6.9 mph ,Overcast
+2/5/2018,7:53 PM,   57.0 °F ,   55.9 °F ,96%,   29.94 in ,   1.0 mi ,NNW,   6.9 mph ,Overcast
+2/5/2018,8:00 PM,   57.0 °F ,   55.9 °F ,96%,   29.94 in ,   0.5 mi ,NNW,   6.9 mph ,Fog
+2/5/2018,8:14 PM,   57.0 °F ,   55.9 °F ,96%,   29.95 in ,   0.2 mi ,NW,   5.8 mph ,Fog
+2/5/2018,8:41 PM,   57.0 °F ,   55.9 °F ,96%,   29.96 in ,   2.0 mi ,NNW,   5.8 mph ,Overcast
+2/5/2018,8:53 PM,   57.0 °F ,   55.9 °F ,96%,   29.97 in ,   2.5 mi ,NW,   6.9 mph ,Overcast
+2/5/2018,9:04 PM,   57.0 °F ,   55.9 °F ,96%,   29.97 in ,   3.0 mi ,NNW,   4.6 mph ,Overcast
+2/5/2018,9:53 PM,   57.0 °F ,   55.0 °F ,93%,   29.96 in ,   2.5 mi ,SSE,   3.5 mph ,Overcast
+2/5/2018,10:02 PM,   57.0 °F ,   55.0 °F ,93%,   29.97 in ,   1.8 mi ,SSE,   3.5 mph ,Overcast
+2/5/2018,10:20 PM,   55.9 °F ,   55.0 °F ,97%,   29.98 in ,   0.8 mi ,South,   5.8 mph ,Overcast
+2/5/2018,10:49 PM,   55.4 °F ,   55.4 °F ,100%,   29.98 in ,   1.2 mi ,South,   5.8 mph ,Overcast
+2/5/2018,10:53 PM,   55.9 °F ,   55.0 °F ,97%,   29.97 in ,   1.2 mi ,Variable,   3.5 mph ,Overcast
+2/5/2018,11:11 PM,   57.0 °F ,   55.0 °F ,93%,   29.97 in ,   2.5 mi ,SSE,   6.9 mph ,Overcast
+2/5/2018,11:38 PM,   57.0 °F ,   55.0 °F ,93%,   29.97 in ,   3.0 mi ,ESE,   4.6 mph ,Overcast
+2/5/2018,11:53 PM,   57.0 °F ,   55.0 °F ,93%,   29.96 in ,   3.0 mi ,ESE,   3.5 mph ,Overcast
+2/6/2018,12:53 AM,   55.9 °F ,   54.0 °F ,93%,   29.96 in ,   3.0 mi ,South,   3.5 mph ,Overcast
+2/6/2018,1:33 AM,   55.9 °F ,   54.0 °F ,93%,   29.95 in ,   3.0 mi ,SSW,   3.5 mph ,Overcast
+2/6/2018,1:53 AM,   55.9 °F ,   54.0 °F ,93%,   29.94 in ,   3.0 mi ,South,   4.6 mph ,Overcast
+2/6/2018,2:53 AM,   55.9 °F ,   53.1 °F ,90%,   29.95 in ,   3.0 mi ,South,   3.5 mph ,Overcast
+2/6/2018,3:43 AM,   55.9 °F ,   53.1 °F ,90%,   29.96 in ,   2.5 mi ,SE,   5.8 mph ,Overcast
+2/6/2018,3:53 AM,   55.9 °F ,   53.1 °F ,90%,   29.96 in ,   2.5 mi ,SSE,   5.8 mph ,Overcast
+2/6/2018,4:16 AM,   55.9 °F ,   53.1 °F ,90%,   29.97 in ,   3.0 mi ,South,   4.6 mph ,Overcast
+2/6/2018,4:53 AM,   55.9 °F ,   53.1 °F ,90%,   29.97 in ,   4.0 mi ,Calm,Calm,Overcast
+2/6/2018,5:53 AM,   55.9 °F ,   52.0 °F ,87%,   29.98 in ,   5.0 mi ,East,   3.5 mph ,Overcast
+2/6/2018,6:53 AM,   55.0 °F ,   51.1 °F ,86%,   29.98 in ,   2.5 mi ,ESE,   5.8 mph ,Overcast
+2/6/2018,7:31 AM,   55.0 °F ,   51.1 °F ,86%,   30.01 in ,   2.0 mi ,NNE,   3.5 mph ,Partly Cloudy
+2/6/2018,7:53 AM,   54.0 °F ,   50.0 °F ,86%,   30.00 in ,   2.0 mi ,ENE,   4.6 mph ,Partly Cloudy
+2/6/2018,8:53 AM,   57.0 °F ,   51.1 °F ,81%,   30.01 in ,   2.5 mi ,Calm,Calm,Haze
+2/6/2018,9:03 AM,   59.0 °F ,   51.1 °F ,75%,   30.01 in ,   2.5 mi ,Calm,Calm,Haze
+2/6/2018,9:27 AM,   61.0 °F ,   50.0 °F ,67%,   30.02 in ,   3.0 mi ,Calm,Calm,Haze
+2/6/2018,9:53 AM,   63.0 °F ,   48.0 °F ,58%,   30.01 in ,   5.0 mi ,Calm,Calm,Haze
+2/6/2018,10:53 AM,   66.0 °F ,   51.1 °F ,59%,   30.02 in ,   5.0 mi ,West,   9.2 mph ,Haze
+2/6/2018,11:53 AM,   66.0 °F ,   52.0 °F ,60%,   30.02 in ,   6.0 mi ,West,   8.1 mph ,Haze
+2/6/2018,12:53 PM,   66.9 °F ,   52.0 °F ,59%,   29.99 in ,   6.0 mi ,WSW,   5.8 mph ,Haze
+2/6/2018,1:53 PM,   66.0 °F ,   52.0 °F ,60%,   29.98 in ,   7.0 mi ,SW,   5.8 mph ,Clear
+2/6/2018,2:53 PM,   66.9 °F ,   52.0 °F ,59%,   29.98 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+2/6/2018,3:53 PM,   64.9 °F ,   52.0 °F ,63%,   29.99 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+2/6/2018,4:53 PM,   62.1 °F ,   52.0 °F ,70%,   30.00 in ,   10.0 mi ,West,   4.6 mph ,Clear
+2/6/2018,5:53 PM,   59.0 °F ,   53.1 °F ,81%,   30.02 in ,   10.0 mi ,West,   5.8 mph ,Clear
+2/6/2018,6:53 PM,   57.9 °F ,   52.0 °F ,81%,   30.05 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/6/2018,7:53 PM,   57.0 °F ,   53.1 °F ,87%,   30.06 in ,   8.0 mi ,North,   4.6 mph ,Clear
+2/6/2018,8:53 PM,   57.0 °F ,   52.0 °F ,83%,   30.07 in ,   7.0 mi ,North,   4.6 mph ,Clear
+2/6/2018,9:53 PM,   55.9 °F ,   53.1 °F ,90%,   30.08 in ,   6.0 mi ,North,   4.6 mph ,Clear
+2/6/2018,10:53 PM,   55.0 °F ,   52.0 °F ,89%,   30.10 in ,   6.0 mi ,NNW,   3.5 mph ,Clear
+2/6/2018,11:53 PM,   53.1 °F ,   51.1 °F ,93%,   30.12 in ,   6.0 mi ,Calm,Calm,Clear
+2/7/2018,12:53 AM,   51.1 °F ,   48.0 °F ,89%,   30.13 in ,   3.0 mi ,ESE,   3.5 mph ,Clear
+2/7/2018,1:27 AM,   50.0 °F ,   48.9 °F ,96%,   30.13 in ,   2.5 mi ,Calm,Calm,Clear
+2/7/2018,1:47 AM,   48.2 °F ,   46.4 °F ,93%,   30.14 in ,   0.8 mi ,Calm,Calm,Clear
+2/7/2018,1:53 AM,   48.9 °F ,   46.9 °F ,93%,   30.13 in ,   0.8 mi ,Calm,Calm,Clear
+2/7/2018,2:01 AM,   48.0 °F ,   46.0 °F ,93%,   30.14 in ,   2.0 mi ,East,   3.5 mph ,Clear
+2/7/2018,2:20 AM,   51.1 °F ,   48.0 °F ,89%,   30.14 in ,   4.0 mi ,Calm,Calm,Clear
+2/7/2018,2:53 AM,   51.1 °F ,   48.9 °F ,92%,   30.14 in ,   4.0 mi ,Calm,Calm,Partly Cloudy
+2/7/2018,3:20 AM,   52.0 °F ,   50.0 °F ,93%,   30.16 in ,   4.0 mi ,Calm,Calm,Mostly Cloudy
+2/7/2018,3:37 AM,   53.1 °F ,   51.1 °F ,93%,   30.16 in ,   1.8 mi ,North,   5.8 mph ,Overcast
+2/7/2018,3:44 AM,   54.0 °F ,   53.1 °F ,97%,   30.16 in ,   0.2 mi ,North,   3.5 mph ,Fog
+2/7/2018,3:53 AM,   54.0 °F ,   54.0 °F ,100%,   30.15 in ,   0.2 mi ,North,   4.6 mph ,Fog
+2/7/2018,4:53 AM,   54.0 °F ,   53.1 °F ,97%,   30.16 in ,   0.2 mi ,Calm,Calm,Fog
+2/7/2018,5:53 AM,   53.1 °F ,   53.1 °F ,100%,   30.17 in ,   0.2 mi ,North,   6.9 mph ,Fog
+2/7/2018,6:53 AM,   52.0 °F ,   52.0 °F ,100%,   30.17 in ,   0.2 mi ,North,   4.6 mph ,Fog
+2/7/2018,7:35 AM,   53.1 °F ,   52.0 °F ,96%,   30.18 in ,   1.2 mi ,North,   3.5 mph ,Mostly Cloudy
+2/7/2018,7:38 AM,   53.1 °F ,   52.0 °F ,96%,   30.18 in ,   7.0 mi ,North,   5.8 mph ,Clear
+2/7/2018,7:53 AM,   54.0 °F ,   52.0 °F ,93%,   30.18 in ,   7.0 mi ,NNE,   3.5 mph ,Clear
+2/7/2018,8:53 AM,   63.0 °F ,   52.0 °F ,67%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+2/7/2018,9:53 AM,   75.0 °F ,   34.0 °F ,22%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+2/7/2018,11:53 AM,   81.0 °F ,   21.0 °F ,11%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+2/7/2018,12:53 PM,   82.9 °F ,   28.9 °F ,14%,   30.12 in ,   10.0 mi ,West,   9.2 mph ,Clear
+2/7/2018,1:53 PM,   80.1 °F ,   30.0 °F ,16%,   30.11 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+2/7/2018,2:53 PM,   77.0 °F ,   35.1 °F ,22%,   30.10 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+2/7/2018,3:53 PM,   73.0 °F ,   39.9 °F ,30%,   30.10 in ,   10.0 mi ,NNW,   12.7 mph ,Clear
+2/7/2018,4:53 PM,   72.0 °F ,   35.1 °F ,26%,   30.11 in ,   10.0 mi ,NNW,   12.7 mph ,Clear
+2/7/2018,5:53 PM,   69.1 °F ,   39.0 °F ,33%,   30.12 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+2/7/2018,6:53 PM,   66.9 °F ,   37.9 °F ,34%,   30.14 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+2/7/2018,7:53 PM,   64.0 °F ,   33.1 °F ,31%,   30.15 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+2/7/2018,8:53 PM,   63.0 °F ,   30.9 °F ,30%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+2/7/2018,9:53 PM,   57.0 °F ,   33.1 °F ,40%,   30.15 in ,   10.0 mi ,East,   4.6 mph ,Clear
+2/7/2018,10:53 PM,   64.0 °F ,   26.1 °F ,24%,   30.15 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/7/2018,11:53 PM,   59.0 °F ,   28.0 °F ,31%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,12:53 AM,   55.0 °F ,   30.0 °F ,38%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,1:53 AM,   55.0 °F ,   28.0 °F ,35%,   30.13 in ,   10.0 mi ,North,   3.5 mph ,Clear
+2/8/2018,2:53 AM,   54.0 °F ,   27.0 °F ,35%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,3:53 AM,   53.1 °F ,   27.0 °F ,37%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,4:53 AM,   52.0 °F ,   26.1 °F ,37%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,5:53 AM,   48.0 °F ,   27.0 °F ,44%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,6:53 AM,   51.1 °F ,   26.1 °F ,38%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,7:53 AM,   59.0 °F ,   28.9 °F ,32%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,8:53 AM,   68.0 °F ,   27.0 °F ,21%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,9:53 AM,   73.0 °F ,   21.0 °F ,14%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,10:53 AM,   75.9 °F ,   21.0 °F ,13%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,11:53 AM,   79.0 °F ,   23.0 °F ,13%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,12:53 PM,   80.1 °F ,   30.0 °F ,16%,   30.04 in ,   10.0 mi ,West,   8.1 mph ,Clear
+2/8/2018,1:53 PM,   80.1 °F ,   28.9 °F ,15%,   30.01 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+2/8/2018,2:53 PM,   77.0 °F ,   35.1 °F ,22%,   30.00 in ,   10.0 mi ,NNW,   12.7 mph ,Clear
+2/8/2018,3:53 PM,   73.0 °F ,   30.0 °F ,20%,   29.99 in ,   10.0 mi ,NW,   13.8 mph ,Clear
+2/8/2018,4:53 PM,   71.1 °F ,   37.9 °F ,30%,   29.99 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+2/8/2018,5:53 PM,   68.0 °F ,   30.9 °F ,25%,   30.00 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+2/8/2018,6:53 PM,   66.9 °F ,   28.9 °F ,24%,   30.01 in ,   10.0 mi ,North,   3.5 mph ,Clear
+2/8/2018,7:53 PM,   63.0 °F ,   30.0 °F ,29%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,8:53 PM,   59.0 °F ,   30.9 °F ,35%,   30.02 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/8/2018,9:53 PM,   60.1 °F ,   30.0 °F ,32%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,10:53 PM,   57.0 °F ,   39.0 °F ,51%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/8/2018,11:53 PM,   54.0 °F ,   44.1 °F ,69%,   30.01 in ,   9.0 mi ,ESE,   3.5 mph ,Clear
+2/9/2018,12:53 AM,   54.0 °F ,   45.0 °F ,72%,   30.01 in ,   9.0 mi ,Calm,Calm,Clear
+2/9/2018,1:53 AM,   51.1 °F ,   44.1 °F ,77%,   30.01 in ,   8.0 mi ,ESE,   3.5 mph ,Clear
+2/9/2018,2:53 AM,   54.0 °F ,   46.9 °F ,77%,   30.00 in ,   8.0 mi ,SE,   3.5 mph ,Clear
+2/9/2018,3:53 AM,   50.0 °F ,   43.0 °F ,77%,   30.01 in ,   10.0 mi ,Calm,Calm,Clear
+2/9/2018,4:53 AM,   46.9 °F ,   39.0 °F ,74%,   30.01 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/9/2018,5:53 AM,   48.9 °F ,   39.0 °F ,69%,   30.01 in ,   10.0 mi ,Calm,Calm,Clear
+2/9/2018,6:36 AM,   48.0 °F ,   37.9 °F ,68%,   30.02 in ,   10.0 mi ,SE,   4.6 mph ,Overcast
+2/9/2018,6:43 AM,   48.9 °F ,   42.1 °F ,77%,   30.02 in ,   2.0 mi ,SSE,   5.8 mph ,Overcast
+2/9/2018,6:49 AM,   51.8 °F ,   46.4 °F ,82%,   30.02 in ,   5.0 mi ,SSE,   5.8 mph ,Haze
+2/9/2018,6:53 AM,   51.1 °F ,   46.0 °F ,83%,   30.02 in ,   6.0 mi ,SE,   4.6 mph ,Haze
+2/9/2018,7:00 AM,   50.0 °F ,   45.0 °F ,83%,   30.03 in ,   7.0 mi ,SSE,   3.5 mph ,Mostly Cloudy
+2/9/2018,7:08 AM,   50.0 °F ,   46.9 °F ,89%,   30.03 in ,   1.2 mi ,SE,   3.5 mph ,Overcast
+2/9/2018,7:12 AM,   50.0 °F ,   48.9 °F ,96%,   30.03 in ,   0.2 mi ,SE,   3.5 mph ,Fog
+2/9/2018,7:20 AM,   50.0 °F ,   48.9 °F ,96%,   30.03 in ,   1.0 mi ,Calm,Calm,Overcast
+2/9/2018,7:30 AM,   51.1 °F ,   48.9 °F ,92%,   30.03 in ,   2.5 mi ,SSE,   4.6 mph ,Overcast
+2/9/2018,7:38 AM,   52.0 °F ,   48.9 °F ,89%,   30.03 in ,   3.0 mi ,South,   3.5 mph ,Scattered Clouds
+2/9/2018,7:51 AM,   51.8 °F ,   48.2 °F ,88%,   30.03 in ,   0.2 mi ,South,   4.6 mph ,Fog
+2/9/2018,7:53 AM,   51.1 °F ,   48.9 °F ,92%,   30.03 in ,   0.2 mi ,South,   4.6 mph ,Fog
+2/9/2018,8:53 AM,   53.1 °F ,   53.1 °F ,100%,   30.04 in ,   0.2 mi ,South,   3.5 mph ,Fog
+2/9/2018,9:19 AM,   54.0 °F ,   53.1 °F ,97%,   30.04 in ,   1.0 mi ,Calm,Calm,Overcast
+2/9/2018,9:28 AM,   54.0 °F ,   53.1 °F ,97%,   30.04 in ,   3.0 mi ,SE,   3.5 mph ,Scattered Clouds
+2/9/2018,9:53 AM,   59.0 °F ,   52.0 °F ,78%,   30.04 in ,   4.0 mi ,Calm,Calm,Haze
+2/9/2018,10:53 AM,   66.0 °F ,   51.1 °F ,59%,   30.03 in ,   7.0 mi ,SW,   4.6 mph ,Clear
+2/9/2018,11:53 AM,   68.0 °F ,   50.0 °F ,52%,   30.00 in ,   9.0 mi ,SSW,   6.9 mph ,Clear
+2/9/2018,12:53 PM,   66.9 °F ,   46.9 °F ,49%,   29.97 in ,   10.0 mi ,South,   8.1 mph ,Clear
+2/9/2018,1:53 PM,   69.1 °F ,   48.0 °F ,47%,   29.94 in ,   10.0 mi ,SSW,   8.1 mph ,Clear
+2/9/2018,2:53 PM,   68.0 °F ,   48.0 °F ,49%,   29.94 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+2/9/2018,3:53 PM,   64.9 °F ,   51.1 °F ,61%,   29.93 in ,   10.0 mi ,South,   5.8 mph ,Clear
+2/9/2018,4:53 PM,   63.0 °F ,   52.0 °F ,67%,   29.93 in ,   10.0 mi ,SSW,   5.8 mph ,Clear
+2/9/2018,5:53 PM,   59.0 °F ,   53.1 °F ,81%,   29.94 in ,   10.0 mi ,South,   4.6 mph ,Clear
+2/9/2018,6:53 PM,   57.0 °F ,   53.1 °F ,87%,   29.96 in ,   8.0 mi ,South,   3.5 mph ,Clear
+2/9/2018,7:53 PM,   55.9 °F ,   53.1 °F ,90%,   29.95 in ,   6.0 mi ,South,   3.5 mph ,Clear
+2/9/2018,8:09 PM,   55.9 °F ,   53.1 °F ,90%,   29.96 in ,   5.0 mi ,South,   3.5 mph ,Scattered Clouds
+2/9/2018,8:22 PM,   55.9 °F ,   54.0 °F ,93%,   29.96 in ,   4.0 mi ,South,   5.8 mph ,Mostly Cloudy
+2/9/2018,8:41 PM,   55.9 °F ,   54.0 °F ,93%,   29.96 in ,   3.0 mi ,SSE,   6.9 mph ,Overcast
+2/9/2018,8:53 PM,   55.9 °F ,   54.0 °F ,93%,   29.96 in ,   4.0 mi ,SSE,   4.6 mph ,Overcast
+2/9/2018,9:53 PM,   57.0 °F ,   54.0 °F ,89%,   29.96 in ,   4.0 mi ,South,   5.8 mph ,Overcast
+2/9/2018,10:53 PM,   57.0 °F ,   54.0 °F ,89%,   29.97 in ,   4.0 mi ,SSW,   5.8 mph ,Overcast
+2/9/2018,11:53 PM,   57.0 °F ,   52.0 °F ,83%,   29.97 in ,   10.0 mi ,South,   6.9 mph ,Overcast
+2/10/2018,12:00 AM,   57.0 °F ,   52.0 °F ,83%,   29.97 in ,   10.0 mi ,South,   8.1 mph ,Overcast
+2/10/2018,12:53 AM,   57.0 °F ,   52.0 °F ,83%,   29.95 in ,   10.0 mi ,South,   8.1 mph ,Overcast
+2/10/2018,1:53 AM,   57.0 °F ,   52.0 °F ,83%,   29.93 in ,   6.0 mi ,South,   9.2 mph ,Haze
+2/10/2018,2:53 AM,   55.9 °F ,   51.1 °F ,84%,   29.93 in ,   6.0 mi ,SSE,   4.6 mph ,Haze
+2/10/2018,3:53 AM,   55.9 °F ,   51.1 °F ,84%,   29.92 in ,   7.0 mi ,South,   4.6 mph ,Overcast
+2/10/2018,4:51 AM,   55.4 °F ,   51.8 °F ,88%,   29.92 in ,   6.0 mi ,ESE,   5.8 mph ,Haze
+2/10/2018,4:53 AM,   55.9 °F ,   51.1 °F ,84%,   29.92 in ,   6.0 mi ,ESE,   5.8 mph ,Haze
+2/10/2018,5:10 AM,   55.9 °F ,   51.1 °F ,84%,   29.92 in ,   6.0 mi ,ESE,   6.9 mph ,Haze
+2/10/2018,5:36 AM,   55.9 °F ,   51.1 °F ,84%,   29.93 in ,   8.0 mi ,ESE,   6.9 mph ,Overcast
+2/10/2018,5:53 AM,   55.9 °F ,   51.1 °F ,84%,   29.92 in ,   8.0 mi ,ESE,   6.9 mph ,Overcast
+2/10/2018,6:53 AM,   55.9 °F ,   50.0 °F ,80%,   29.94 in ,   8.0 mi ,ESE,   6.9 mph ,Overcast
+2/10/2018,7:53 AM,   57.0 °F ,   48.9 °F ,74%,   29.94 in ,   7.0 mi ,ESE,   8.1 mph ,Haze
+2/10/2018,8:53 AM,   57.9 °F ,   48.9 °F ,72%,   29.95 in ,   7.0 mi ,SE,   8.1 mph ,Overcast
+2/10/2018,9:53 AM,   60.1 °F ,   50.0 °F ,69%,   29.94 in ,   10.0 mi ,SSE,   6.9 mph ,Overcast
+2/10/2018,10:53 AM,   62.1 °F ,   50.0 °F ,65%,   29.93 in ,   10.0 mi ,South,   9.2 mph ,Overcast
+2/10/2018,11:53 AM,   63.0 °F ,   50.0 °F ,63%,   29.91 in ,   10.0 mi ,SSW,   12.7 mph ,Overcast
+2/10/2018,12:53 PM,   63.0 °F ,   52.0 °F ,67%,   29.88 in ,   10.0 mi ,South,   11.5 mph ,Overcast
+2/10/2018,1:53 PM,   63.0 °F ,   51.1 °F ,65%,   29.86 in ,   10.0 mi ,SSW,   12.7 mph ,Overcast
+2/10/2018,2:53 PM,   63.0 °F ,   52.0 °F ,67%,   29.85 in ,   10.0 mi ,South,   9.2 mph ,Overcast
+2/10/2018,3:53 PM,   62.1 °F ,   52.0 °F ,70%,   29.84 in ,   10.0 mi ,South,   11.5 mph ,Overcast
+2/10/2018,4:53 PM,   61.0 °F ,   53.1 °F ,75%,   29.83 in ,   10.0 mi ,SSW,   12.7 mph ,Overcast
+2/10/2018,5:53 PM,   60.1 °F ,   53.1 °F ,78%,   29.86 in ,   10.0 mi ,SW,   8.1 mph ,Overcast
+2/10/2018,6:53 PM,   60.1 °F ,   54.0 °F ,80%,   29.87 in ,   10.0 mi ,South,   6.9 mph ,Overcast
+2/10/2018,7:53 PM,   60.1 °F ,   54.0 °F ,80%,   29.88 in ,   10.0 mi ,SSE,   3.5 mph ,Overcast
+2/10/2018,8:53 PM,   57.9 °F ,   53.1 °F ,84%,   29.88 in ,   10.0 mi ,ESE,   4.6 mph ,Scattered Clouds
+2/10/2018,9:53 PM,   55.9 °F ,   51.1 °F ,84%,   29.88 in ,   10.0 mi ,Calm,Calm,Clear
+2/10/2018,10:53 PM,   55.0 °F ,   51.1 °F ,86%,   29.89 in ,   10.0 mi ,Calm,Calm,Clear
+2/10/2018,11:53 PM,   55.0 °F ,   51.1 °F ,86%,   29.90 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+2/11/2018,12:53 AM,   55.0 °F ,   51.1 °F ,86%,   29.91 in ,   10.0 mi ,NE,   4.6 mph ,Partly Cloudy
+2/11/2018,1:53 AM,   54.0 °F ,   51.1 °F ,90%,   29.91 in ,   9.0 mi ,NNE,   5.8 mph ,Clear
+2/11/2018,2:53 AM,   54.0 °F ,   51.1 °F ,90%,   29.89 in ,   10.0 mi ,NNE,   4.6 mph ,Scattered Clouds
+2/11/2018,3:10 AM,   55.0 °F ,   51.1 °F ,86%,   29.90 in ,   10.0 mi ,NNE,   4.6 mph ,Mostly Cloudy
+2/11/2018,3:53 AM,   55.9 °F ,   51.1 °F ,84%,   29.88 in ,   10.0 mi ,Calm,Calm,Overcast
+2/11/2018,4:46 AM,   53.1 °F ,   50.0 °F ,89%,   29.88 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/11/2018,4:53 AM,   53.1 °F ,   48.9 °F ,86%,   29.88 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+2/11/2018,5:53 AM,   53.1 °F ,   50.0 °F ,89%,   29.88 in ,   10.0 mi ,Calm,Calm,Clear
+2/11/2018,6:53 AM,   53.1 °F ,   50.0 °F ,89%,   29.91 in ,   9.0 mi ,NNE,   4.6 mph ,Clear
+2/11/2018,7:53 AM,   57.0 °F ,   52.0 °F ,83%,   29.91 in ,   9.0 mi ,Calm,Calm,Clear
+2/11/2018,8:53 AM,   61.0 °F ,   52.0 °F ,72%,   29.93 in ,   10.0 mi ,Calm,Calm,Clear
+2/11/2018,9:53 AM,   64.0 °F ,   48.0 °F ,56%,   29.93 in ,   10.0 mi ,Calm,Calm,Clear
+2/11/2018,10:53 AM,   66.0 °F ,   46.0 °F ,48%,   29.91 in ,   10.0 mi ,Calm,Calm,Clear
+2/11/2018,11:53 AM,   69.1 °F ,   46.9 °F ,45%,   29.88 in ,   10.0 mi ,SW,   9.2 mph ,Clear
+2/11/2018,12:53 PM,   66.0 °F ,   48.9 °F ,54%,   29.86 in ,   10.0 mi ,WSW,   13.8 mph ,Clear
+2/11/2018,1:53 PM,   64.9 °F ,   46.9 °F ,52%,   29.86 in ,   10.0 mi ,SSW,   10.4 mph ,Clear
+2/11/2018,2:53 PM,   64.0 °F ,   50.0 °F ,60%,   29.86 in ,   10.0 mi ,SSW,   11.5 mph ,Scattered Clouds
+2/11/2018,3:53 PM,   63.0 °F ,   52.0 °F ,67%,   29.88 in ,   10.0 mi ,WSW,   8.1 mph ,Partly Cloudy
+2/11/2018,4:53 PM,   62.1 °F ,   51.1 °F ,67%,   29.89 in ,   10.0 mi ,West,   9.2 mph ,Scattered Clouds
+2/11/2018,5:00 PM,   62.1 °F ,   50.0 °F ,65%,   29.90 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/11/2018,5:53 PM,   61.0 °F ,   50.0 °F ,67%,   29.89 in ,   10.0 mi ,West,   3.5 mph ,Overcast
+2/11/2018,6:53 PM,   61.0 °F ,   50.0 °F ,67%,   29.90 in ,   10.0 mi ,Calm,Calm,Overcast
+2/11/2018,7:53 PM,   60.1 °F ,   50.0 °F ,69%,   29.89 in ,   10.0 mi ,SE,   3.5 mph ,Overcast
+2/11/2018,8:53 PM,   61.0 °F ,   51.1 °F ,70%,   29.88 in ,   10.0 mi ,South,   3.5 mph ,Overcast
+2/11/2018,9:53 PM,   61.0 °F ,   52.0 °F ,72%,   29.89 in ,   10.0 mi ,WSW,   5.8 mph ,Overcast
+2/11/2018,10:27 PM,   61.0 °F ,   53.1 °F ,75%,   29.89 in ,   10.0 mi ,SSW,   4.6 mph ,Overcast
+2/11/2018,10:43 PM,   60.1 °F ,   53.1 °F ,78%,   29.89 in ,   10.0 mi ,South,   5.8 mph ,Overcast
+2/11/2018,10:53 PM,   60.1 °F ,   53.1 °F ,78%,   29.88 in ,   10.0 mi ,South,   4.6 mph ,Overcast
+2/11/2018,11:36 PM,   60.1 °F ,   52.0 °F ,75%,   29.88 in ,   10.0 mi ,SSW,   5.8 mph ,Overcast
+2/11/2018,11:51 PM,   60.8 °F ,   51.8 °F ,72%,   29.88 in ,   10.0 mi ,SSW,   6.9 mph ,Overcast
+2/11/2018,11:53 PM,   60.1 °F ,   52.0 °F ,75%,   29.87 in ,   10.0 mi ,SSW,   6.9 mph ,Overcast
+2/12/2018,12:53 AM,   59.0 °F ,   53.1 °F ,81%,   29.87 in ,   10.0 mi ,SW,   4.6 mph ,Scattered Clouds
+2/12/2018,1:02 AM,   59.0 °F ,   53.1 °F ,81%,   29.87 in ,   10.0 mi ,WSW,   4.6 mph ,Mostly Cloudy
+2/12/2018,1:36 AM,   59.0 °F ,   53.1 °F ,81%,   29.86 in ,   10.0 mi ,SW,   3.5 mph ,Overcast
+2/12/2018,1:51 AM,   59.0 °F ,   53.6 °F ,82%,   29.86 in ,   10.0 mi ,Calm,Calm,Overcast
+2/12/2018,1:53 AM,   59.0 °F ,   53.1 °F ,81%,   29.85 in ,   10.0 mi ,Calm,Calm,Overcast
+2/12/2018,2:12 AM,   59.0 °F ,   54.0 °F ,83%,   29.86 in ,   9.0 mi ,WSW,   4.6 mph ,Light Rain
+2/12/2018,2:25 AM,   57.9 °F ,   54.0 °F ,87%,   29.86 in ,   10.0 mi ,SW,   6.9 mph ,Overcast
+2/12/2018,2:53 AM,   59.0 °F ,   54.0 °F ,83%,   29.85 in ,   10.0 mi ,SW,   8.1 mph ,Overcast
+2/12/2018,3:53 AM,   57.9 °F ,   53.1 °F ,84%,   29.84 in ,   10.0 mi ,SSW,   5.8 mph ,Mostly Cloudy
+2/12/2018,4:53 AM,   57.9 °F ,   53.1 °F ,84%,   29.85 in ,   10.0 mi ,SW,   5.8 mph ,Mostly Cloudy
+2/12/2018,5:00 AM,   57.9 °F ,   53.1 °F ,84%,   29.86 in ,   10.0 mi ,SW,   6.9 mph ,Mostly Cloudy
+2/12/2018,5:10 AM,   57.9 °F ,   53.1 °F ,84%,   29.86 in ,   10.0 mi ,South,   6.9 mph ,Overcast
+2/12/2018,5:53 AM,   57.9 °F ,   53.1 °F ,84%,   29.86 in ,   10.0 mi ,South,   6.9 mph ,Mostly Cloudy
+2/12/2018,6:00 AM,   57.9 °F ,   53.1 °F ,84%,   29.86 in ,   10.0 mi ,South,   8.1 mph ,Mostly Cloudy
+2/12/2018,6:53 AM,   57.0 °F ,   52.0 °F ,83%,   29.86 in ,   9.0 mi ,West,   8.1 mph ,Mostly Cloudy
+2/12/2018,7:53 AM,   57.9 °F ,   50.0 °F ,75%,   29.87 in ,   10.0 mi ,West,   13.8 mph ,Overcast
+2/12/2018,8:53 AM,   57.9 °F ,   46.9 °F ,67%,   29.89 in ,   10.0 mi ,WNW,   11.5 mph ,Overcast
+2/12/2018,9:53 AM,   60.1 °F ,   45.0 °F ,57%,   29.90 in ,   10.0 mi ,WNW,   10.4 mph ,Mostly Cloudy
+2/12/2018,10:53 AM,   60.1 °F ,   45.0 °F ,57%,   29.90 in ,   10.0 mi ,West,   9.2 mph ,Overcast
+2/12/2018,11:53 AM,   60.1 °F ,   45.0 °F ,57%,   29.90 in ,   10.0 mi ,West,   10.4 mph ,Overcast
+2/12/2018,12:53 PM,   59.0 °F ,   44.1 °F ,58%,   29.88 in ,   10.0 mi ,West,   11.5 mph ,Overcast
+2/12/2018,1:53 PM,   60.1 °F ,   44.1 °F ,55%,   29.88 in ,   10.0 mi ,SW,   10.4 mph ,Overcast
+2/12/2018,2:53 PM,   60.1 °F ,   44.1 °F ,55%,   29.89 in ,   10.0 mi ,West,   10.4 mph ,Mostly Cloudy
+2/12/2018,3:53 PM,   59.0 °F ,   41.0 °F ,51%,   29.89 in ,   10.0 mi ,West,   8.1 mph ,Mostly Cloudy
+2/12/2018,4:53 PM,   57.0 °F ,   43.0 °F ,59%,   29.90 in ,   10.0 mi ,WSW,   10.4 mph ,Scattered Clouds
+2/12/2018,5:53 PM,   57.0 °F ,   44.1 °F ,62%,   29.92 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/12/2018,6:53 PM,   57.0 °F ,   43.0 °F ,59%,   29.95 in ,   10.0 mi ,SW,   5.8 mph ,Overcast
+2/12/2018,7:53 PM,   57.0 °F ,   43.0 °F ,59%,   29.96 in ,   10.0 mi ,WSW,   5.8 mph ,Overcast
+2/12/2018,8:53 PM,   55.9 °F ,   43.0 °F ,62%,   29.98 in ,   10.0 mi ,WSW,   4.6 mph ,Overcast
+2/12/2018,9:53 PM,   55.9 °F ,   41.0 °F ,57%,   29.98 in ,   10.0 mi ,South,   3.5 mph ,Overcast
+2/12/2018,10:53 PM,   55.9 °F ,   42.1 °F ,60%,   29.99 in ,   10.0 mi ,WSW,   4.6 mph ,Overcast
+2/12/2018,11:53 PM,   53.1 °F ,   46.0 °F ,77%,   30.00 in ,   10.0 mi ,North,   3.5 mph ,Overcast
+2/13/2018,12:53 AM,   52.0 °F ,   46.0 °F ,80%,   30.01 in ,   10.0 mi ,NNE,   6.9 mph ,Mostly Cloudy
+2/13/2018,1:53 AM,   52.0 °F ,   46.0 °F ,80%,   30.02 in ,   10.0 mi ,NE,   4.6 mph ,Overcast
+2/13/2018,2:53 AM,   52.0 °F ,   46.9 °F ,83%,   30.03 in ,   10.0 mi ,Calm,Calm,Overcast
+2/13/2018,3:53 AM,   51.1 °F ,   46.9 °F ,86%,   30.03 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/13/2018,4:53 AM,   51.1 °F ,   46.9 °F ,86%,   30.04 in ,   10.0 mi ,NNE,   5.8 mph ,Overcast
+2/13/2018,5:53 AM,   51.1 °F ,   46.0 °F ,83%,   30.04 in ,   10.0 mi ,East,   5.8 mph ,Mostly Cloudy
+2/13/2018,6:53 AM,   50.0 °F ,   45.0 °F ,83%,   30.06 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/13/2018,7:53 AM,   52.0 °F ,   45.0 °F ,77%,   30.09 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+2/13/2018,8:53 AM,   57.9 °F ,   43.0 °F ,58%,   30.12 in ,   10.0 mi ,ESE,   8.1 mph ,Clear
+2/13/2018,9:53 AM,   61.0 °F ,   37.9 °F ,42%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/13/2018,10:53 AM,   62.1 °F ,   37.9 °F ,41%,   30.13 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/13/2018,11:53 AM,   63.0 °F ,   39.9 °F ,43%,   30.12 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/13/2018,12:53 PM,   64.0 °F ,   39.9 °F ,41%,   30.09 in ,   10.0 mi ,SSW,   6.9 mph ,Mostly Cloudy
+2/13/2018,1:53 PM,   64.0 °F ,   41.0 °F ,43%,   30.09 in ,   10.0 mi ,WSW,   11.5 mph ,Clear
+2/13/2018,2:53 PM,   64.0 °F ,   42.1 °F ,45%,   30.09 in ,   10.0 mi ,SW,   8.1 mph ,Partly Cloudy
+2/13/2018,3:53 PM,   62.1 °F ,   43.0 °F ,50%,   30.11 in ,   10.0 mi ,WSW,   8.1 mph ,Scattered Clouds
+2/13/2018,4:53 PM,   61.0 °F ,   43.0 °F ,52%,   30.12 in ,   10.0 mi ,SSW,   5.8 mph ,Mostly Cloudy
+2/13/2018,5:53 PM,   60.1 °F ,   43.0 °F ,53%,   30.12 in ,   10.0 mi ,SSW,   3.5 mph ,Overcast
+2/13/2018,6:53 PM,   59.0 °F ,   44.1 °F ,58%,   30.13 in ,   10.0 mi ,North,   5.8 mph ,Clear
+2/13/2018,7:53 PM,   57.9 °F ,   44.1 °F ,60%,   30.13 in ,   10.0 mi ,North,   4.6 mph ,Scattered Clouds
+2/13/2018,8:53 PM,   57.0 °F ,   44.1 °F ,62%,   30.13 in ,   10.0 mi ,North,   3.5 mph ,Overcast
+2/13/2018,9:53 PM,   57.9 °F ,   44.1 °F ,60%,   30.13 in ,   10.0 mi ,NNE,   5.8 mph ,Overcast
+2/13/2018,10:53 PM,   59.0 °F ,   43.0 °F ,55%,   30.13 in ,   10.0 mi ,Calm,Calm,Overcast
+2/13/2018,11:53 PM,   57.9 °F ,   43.0 °F ,58%,   30.13 in ,   10.0 mi ,Calm,Calm,Overcast
+2/14/2018,12:53 AM,   57.9 °F ,   43.0 °F ,58%,   30.13 in ,   10.0 mi ,Calm,Calm,Overcast
+2/14/2018,1:53 AM,   55.9 °F ,   44.1 °F ,64%,   30.12 in ,   10.0 mi ,ESE,   3.5 mph ,Overcast
+2/14/2018,2:53 AM,   55.9 °F ,   44.1 °F ,64%,   30.10 in ,   10.0 mi ,Calm,Calm,Overcast
+2/14/2018,3:53 AM,   53.1 °F ,   43.0 °F ,69%,   30.08 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/14/2018,4:53 AM,   55.0 °F ,   44.1 °F ,67%,   30.08 in ,   10.0 mi ,Calm,Calm,Overcast
+2/14/2018,5:53 AM,   53.1 °F ,   43.0 °F ,69%,   30.08 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+2/14/2018,6:53 AM,   55.0 °F ,   43.0 °F ,64%,   30.09 in ,   10.0 mi ,ESE,   3.5 mph ,Scattered Clouds
+2/14/2018,7:53 AM,   60.1 °F ,   43.0 °F ,53%,   30.10 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/14/2018,8:53 AM,   64.0 °F ,   42.1 °F ,45%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/14/2018,9:53 AM,   64.9 °F ,   42.1 °F ,43%,   30.12 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+2/14/2018,10:53 AM,   68.0 °F ,   42.1 °F ,39%,   30.11 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+2/14/2018,11:53 AM,   69.1 °F ,   43.0 °F ,39%,   30.09 in ,   10.0 mi ,WSW,   6.9 mph ,Partly Cloudy
+2/14/2018,12:53 PM,   68.0 °F ,   44.1 °F ,42%,   30.07 in ,   10.0 mi ,SSW,   5.8 mph ,Overcast
+2/14/2018,1:53 PM,   69.1 °F ,   43.0 °F ,39%,   30.03 in ,   10.0 mi ,WSW,   4.6 mph ,Mostly Cloudy
+2/14/2018,2:53 PM,   66.0 °F ,   45.0 °F ,47%,   30.05 in ,   10.0 mi ,SW,   10.4 mph ,Overcast
+2/14/2018,3:53 PM,   64.0 °F ,   45.0 °F ,50%,   30.05 in ,   10.0 mi ,SSW,   10.4 mph ,Light Rain
+2/14/2018,4:53 PM,   61.0 °F ,   46.9 °F ,60%,   30.03 in ,   10.0 mi ,SSE,   5.8 mph ,Light Rain
+2/14/2018,5:53 PM,   60.1 °F ,   50.0 °F ,69%,   30.06 in ,   10.0 mi ,South,   5.8 mph ,Mostly Cloudy
+2/14/2018,6:53 PM,   60.1 °F ,   51.1 °F ,72%,   30.08 in ,   10.0 mi ,South,   5.8 mph ,Overcast
+2/14/2018,7:53 PM,   59.0 °F ,   51.1 °F ,75%,   30.07 in ,   10.0 mi ,Calm,Calm,Overcast
+2/14/2018,8:53 PM,   59.0 °F ,   51.1 °F ,75%,   30.09 in ,   10.0 mi ,SSE,   3.5 mph ,Overcast
+2/14/2018,9:53 PM,   59.0 °F ,   51.1 °F ,75%,   30.09 in ,   10.0 mi ,West,   5.8 mph ,Scattered Clouds
+2/14/2018,10:31 PM,   57.9 °F ,   51.1 °F ,78%,   30.10 in ,   10.0 mi ,NW,   4.6 mph ,Mostly Cloudy
+2/14/2018,10:53 PM,   57.9 °F ,   52.0 °F ,81%,   30.10 in ,   10.0 mi ,WNW,   4.6 mph ,Mostly Cloudy
+2/14/2018,11:01 PM,   59.0 °F ,   52.0 °F ,78%,   30.10 in ,   10.0 mi ,WNW,   4.6 mph ,Mostly Cloudy
+2/14/2018,11:09 PM,   57.9 °F ,   53.1 °F ,84%,   30.10 in ,   10.0 mi ,WNW,   4.6 mph ,Mostly Cloudy
+2/14/2018,11:32 PM,   57.9 °F ,   53.1 °F ,84%,   30.09 in ,   10.0 mi ,WNW,   3.5 mph ,Scattered Clouds
+2/14/2018,11:53 PM,   57.9 °F ,   53.1 °F ,84%,   30.09 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+2/15/2018,12:46 AM,   57.0 °F ,   53.1 °F ,87%,   30.10 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/15/2018,12:53 AM,   55.0 °F ,   51.1 °F ,86%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Mostly Cloudy
+2/15/2018,1:03 AM,   55.9 °F ,   51.1 °F ,84%,   30.10 in ,   10.0 mi ,NE,   4.6 mph ,Overcast
+2/15/2018,1:38 AM,   55.9 °F ,   51.1 °F ,84%,   30.09 in ,   10.0 mi ,NNE,   5.8 mph ,Overcast
+2/15/2018,1:53 AM,   57.0 °F ,   51.1 °F ,81%,   30.07 in ,   10.0 mi ,NNE,   5.8 mph ,Overcast
+2/15/2018,2:07 AM,   55.9 °F ,   51.1 °F ,84%,   30.08 in ,   10.0 mi ,NNE,   4.6 mph ,Overcast
+2/15/2018,2:29 AM,   55.9 °F ,   50.0 °F ,80%,   30.07 in ,   10.0 mi ,NNE,   4.6 mph ,Mostly Cloudy
+2/15/2018,2:53 AM,   55.9 °F ,   50.0 °F ,80%,   30.07 in ,   10.0 mi ,NNE,   6.9 mph ,Partly Cloudy
+2/15/2018,3:53 AM,   54.0 °F ,   48.9 °F ,83%,   30.07 in ,   10.0 mi ,NE,   4.6 mph ,Partly Cloudy
+2/15/2018,4:53 AM,   54.0 °F ,   48.9 °F ,83%,   30.06 in ,   10.0 mi ,NE,   5.8 mph ,Clear
+2/15/2018,5:53 AM,   53.1 °F ,   48.9 °F ,86%,   30.08 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+2/15/2018,6:53 AM,   52.0 °F ,   48.0 °F ,86%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+2/15/2018,7:53 AM,   57.9 °F ,   48.0 °F ,70%,   30.09 in ,   10.0 mi ,North,   3.5 mph ,Clear
+2/15/2018,8:53 AM,   62.1 °F ,   46.9 °F ,58%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/15/2018,9:53 AM,   64.0 °F ,   46.0 °F ,52%,   30.10 in ,   10.0 mi ,SSE,   3.5 mph ,Clear
+2/15/2018,10:53 AM,   69.1 °F ,   43.0 °F ,39%,   30.09 in ,   10.0 mi ,NNW,   11.5 mph ,Clear
+2/15/2018,11:53 AM,   70.0 °F ,   45.0 °F ,41%,   30.06 in ,   10.0 mi ,North,   6.9 mph ,Clear
+2/15/2018,12:53 PM,   70.0 °F ,   46.0 °F ,42%,   30.04 in ,   10.0 mi ,NW,   13.8 mph ,Clear
+2/15/2018,1:53 PM,   68.0 °F ,   45.0 °F ,43%,   30.02 in ,   10.0 mi ,WNW,   15.0 mph ,Clear
+2/15/2018,2:53 PM,   68.0 °F ,   48.9 °F ,50%,   30.03 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+2/15/2018,3:53 PM,   64.9 °F ,   48.0 °F ,54%,   30.04 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+2/15/2018,4:53 PM,   63.0 °F ,   46.9 °F ,56%,   30.04 in ,   10.0 mi ,NW,   11.5 mph ,Mostly Cloudy
+2/15/2018,5:53 PM,   62.1 °F ,   46.9 °F ,58%,   30.06 in ,   10.0 mi ,NNW,   8.1 mph ,Clear
+2/15/2018,6:53 PM,   60.1 °F ,   45.0 °F ,57%,   30.09 in ,   10.0 mi ,North,   3.5 mph ,Clear
+2/15/2018,7:53 PM,   60.1 °F ,   41.0 °F ,49%,   30.10 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/15/2018,8:53 PM,   59.0 °F ,   44.1 °F ,58%,   30.12 in ,   10.0 mi ,North,   8.1 mph ,Clear
+2/15/2018,9:53 PM,   57.0 °F ,   45.0 °F ,64%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+2/15/2018,10:53 PM,   55.9 °F ,   46.9 °F ,72%,   30.13 in ,   10.0 mi ,North,   4.6 mph ,Clear
+2/15/2018,11:53 PM,   54.0 °F ,   45.0 °F ,72%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,12:53 AM,   52.0 °F ,   43.0 °F ,71%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,1:53 AM,   53.1 °F ,   42.1 °F ,66%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,2:53 AM,   52.0 °F ,   41.0 °F ,66%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,3:53 AM,   54.0 °F ,   41.0 °F ,62%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,4:53 AM,   53.1 °F ,   41.0 °F ,64%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,5:53 AM,   53.1 °F ,   39.0 °F ,59%,   30.10 in ,   10.0 mi ,NNE,   5.8 mph ,Clear
+2/16/2018,6:53 AM,   53.1 °F ,   37.9 °F ,57%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,7:53 AM,   57.0 °F ,   37.0 °F ,47%,   30.12 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/16/2018,8:53 AM,   64.9 °F ,   30.9 °F ,28%,   30.13 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/16/2018,9:53 AM,   68.0 °F ,   23.0 °F ,18%,   30.13 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/16/2018,10:53 AM,   73.0 °F ,   23.0 °F ,15%,   30.12 in ,   10.0 mi ,Variable,   4.6 mph ,Clear
+2/16/2018,11:53 AM,   75.0 °F ,   24.1 °F ,15%,   30.09 in ,   10.0 mi ,West,   6.9 mph ,Clear
+2/16/2018,12:53 PM,   73.9 °F ,   28.0 °F ,18%,   30.06 in ,   10.0 mi ,West,   12.7 mph ,Clear
+2/16/2018,1:53 PM,   73.9 °F ,   27.0 °F ,18%,   30.04 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+2/16/2018,2:53 PM,   73.0 °F ,   26.1 °F ,17%,   30.03 in ,   10.0 mi ,NW,   15.0 mph ,Clear
+2/16/2018,3:53 PM,   72.0 °F ,   25.0 °F ,17%,   30.04 in ,   10.0 mi ,NW,   15.0 mph ,Clear
+2/16/2018,4:53 PM,   69.1 °F ,   26.1 °F ,20%,   30.05 in ,   10.0 mi ,NW,   11.5 mph ,Clear
+2/16/2018,5:53 PM,   64.9 °F ,   32.0 °F ,29%,   30.07 in ,   10.0 mi ,NNW,   11.5 mph ,Clear
+2/16/2018,6:53 PM,   62.1 °F ,   32.0 °F ,32%,   30.09 in ,   10.0 mi ,North,   9.2 mph ,Clear
+2/16/2018,7:53 PM,   62.1 °F ,   28.9 °F ,29%,   30.10 in ,   10.0 mi ,North,   5.8 mph ,Clear
+2/16/2018,8:53 PM,   59.0 °F ,   24.1 °F ,26%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,9:53 PM,   55.0 °F ,   25.0 °F ,31%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,10:53 PM,   54.0 °F ,   27.0 °F ,35%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/16/2018,11:53 PM,   53.1 °F ,   27.0 °F ,37%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,12:53 AM,   51.1 °F ,   28.0 °F ,41%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,1:53 AM,   48.9 °F ,   28.0 °F ,44%,   30.10 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/17/2018,2:53 AM,   48.9 °F ,   27.0 °F ,43%,   30.09 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/17/2018,3:53 AM,   51.1 °F ,   25.0 °F ,36%,   30.09 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+2/17/2018,4:53 AM,   46.9 °F ,   26.1 °F ,44%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,5:53 AM,   48.9 °F ,   24.1 °F ,38%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,6:53 AM,   48.9 °F ,   25.0 °F ,39%,   30.09 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/17/2018,7:53 AM,   55.9 °F ,   24.1 °F ,29%,   30.11 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/17/2018,8:53 AM,   64.9 °F ,   21.0 °F ,19%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,9:53 AM,   70.0 °F ,   18.0 °F ,14%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,10:53 AM,   73.9 °F ,   17.1 °F ,12%,   30.13 in ,   10.0 mi ,Variable,   4.6 mph ,Clear
+2/17/2018,11:53 AM,   73.9 °F ,   17.1 °F ,12%,   30.11 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+2/17/2018,12:53 PM,   73.9 °F ,   18.0 °F ,12%,   30.07 in ,   10.0 mi ,West,   6.9 mph ,Clear
+2/17/2018,1:53 PM,   75.0 °F ,   19.0 °F ,12%,   30.05 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+2/17/2018,2:53 PM,   73.0 °F ,   19.9 °F ,14%,   30.03 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+2/17/2018,3:53 PM,   72.0 °F ,   18.0 °F ,13%,   30.03 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+2/17/2018,4:53 PM,   69.1 °F ,   21.0 °F ,16%,   30.04 in ,   10.0 mi ,NNW,   10.4 mph ,Clear
+2/17/2018,5:53 PM,   64.9 °F ,   27.0 °F ,24%,   30.04 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+2/17/2018,6:53 PM,   63.0 °F ,   30.9 °F ,30%,   30.05 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/17/2018,7:53 PM,   61.0 °F ,   30.9 °F ,32%,   30.05 in ,   10.0 mi ,North,   4.6 mph ,Clear
+2/17/2018,8:53 PM,   57.9 °F ,   35.1 °F ,42%,   30.05 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+2/17/2018,9:53 PM,   55.0 °F ,   34.0 °F ,45%,   30.05 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+2/17/2018,10:53 PM,   55.9 °F ,   33.1 °F ,42%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+2/17/2018,11:53 PM,   55.0 °F ,   32.0 °F ,42%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/18/2018,12:53 AM,   52.0 °F ,   32.0 °F ,47%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+2/18/2018,1:53 AM,   52.0 °F ,   30.0 °F ,43%,   30.01 in ,   10.0 mi ,NNE,   4.6 mph ,Clear
+2/18/2018,2:53 AM,   51.1 °F ,   30.0 °F ,44%,   30.00 in ,   10.0 mi ,ENE,   3.5 mph ,Clear
+2/18/2018,3:53 AM,   52.0 °F ,   30.0 °F ,43%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+2/18/2018,4:53 AM,   52.0 °F ,   30.9 °F ,45%,   29.98 in ,   10.0 mi ,Calm,Calm,Overcast
+2/18/2018,5:53 AM,   51.1 °F ,   32.0 °F ,48%,   29.99 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/18/2018,6:53 AM,   48.9 °F ,   32.0 °F ,52%,   30.00 in ,   10.0 mi ,SE,   3.5 mph ,Scattered Clouds
+2/18/2018,7:53 AM,   57.0 °F ,   33.1 °F ,40%,   30.00 in ,   10.0 mi ,SE,   3.5 mph ,Scattered Clouds
+2/18/2018,8:53 AM,   61.0 °F ,   50.0 °F ,67%,   30.01 in ,   10.0 mi ,West,   3.5 mph ,Scattered Clouds
+2/18/2018,9:53 AM,   64.0 °F ,   48.0 °F ,56%,   30.01 in ,   10.0 mi ,Variable,   4.6 mph ,Mostly Cloudy
+2/18/2018,10:53 AM,   68.0 °F ,   43.0 °F ,40%,   29.99 in ,   10.0 mi ,West,   5.8 mph ,Scattered Clouds
+2/18/2018,11:53 AM,   66.9 °F ,   46.0 °F ,47%,   29.98 in ,   10.0 mi ,West,   12.7 mph ,Partly Cloudy
+2/18/2018,12:53 PM,   68.0 °F ,   44.1 °F ,42%,   29.95 in ,   10.0 mi ,WSW,   9.2 mph ,Mostly Cloudy
+2/18/2018,1:53 PM,   66.0 °F ,   44.1 °F ,45%,   29.94 in ,   10.0 mi ,WSW,   10.4 mph ,Partly Cloudy
+2/18/2018,2:53 PM,   66.9 °F ,   37.9 °F ,34%,   29.92 in ,   10.0 mi ,WSW,   9.2 mph ,Clear
+2/18/2018,3:53 PM,   63.0 °F ,   46.9 °F ,56%,   29.92 in ,   10.0 mi ,WSW,   10.4 mph ,Clear
+2/18/2018,4:53 PM,   60.1 °F ,   51.1 °F ,72%,   29.92 in ,   10.0 mi ,WSW,   9.2 mph ,Scattered Clouds
+2/18/2018,5:53 PM,   57.9 °F ,   50.0 °F ,75%,   29.92 in ,   10.0 mi ,WSW,   6.9 mph ,Scattered Clouds
+2/18/2018,6:13 PM,   57.9 °F ,   50.0 °F ,75%,   29.93 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/18/2018,6:53 PM,   57.0 °F ,   48.9 °F ,74%,   29.92 in ,   10.0 mi ,SSW,   8.1 mph ,Mostly Cloudy
+2/18/2018,7:53 PM,   57.0 °F ,   48.0 °F ,72%,   29.92 in ,   10.0 mi ,SSW,   6.9 mph ,Mostly Cloudy
+2/18/2018,8:34 PM,   57.0 °F ,   46.0 °F ,67%,   29.93 in ,   10.0 mi ,SSW,   6.9 mph ,Mostly Cloudy
+2/18/2018,8:53 PM,   57.9 °F ,   46.9 °F ,67%,   29.93 in ,   10.0 mi ,South,   6.9 mph ,Overcast
+2/18/2018,9:10 PM,   57.9 °F ,   46.9 °F ,67%,   29.93 in ,   10.0 mi ,South,   8.1 mph ,Overcast
+2/18/2018,9:53 PM,   57.9 °F ,   46.9 °F ,67%,   29.92 in ,   10.0 mi ,South,   8.1 mph ,Overcast
+2/18/2018,10:53 PM,   55.9 °F ,   50.0 °F ,80%,   29.91 in ,   10.0 mi ,South,   8.1 mph ,Light Rain
+2/18/2018,11:02 PM,   55.9 °F ,   50.0 °F ,80%,   29.92 in ,   10.0 mi ,SSW,   5.8 mph ,Overcast
+2/18/2018,11:53 PM,   57.0 °F ,   50.0 °F ,77%,   29.91 in ,   10.0 mi ,SSW,   10.4 mph ,Overcast
+2/19/2018,12:24 AM,   57.0 °F ,   48.0 °F ,72%,   29.91 in ,   10.0 mi ,West,   11.5 mph ,Overcast
+2/19/2018,12:53 AM,   55.9 °F ,   46.9 °F ,72%,   29.90 in ,   10.0 mi ,West,   13.8 mph ,Overcast
+2/19/2018,1:01 AM,   55.9 °F ,   46.0 °F ,69%,   29.90 in ,   10.0 mi ,West,   16.1 mph ,Overcast
+2/19/2018,1:35 AM,   55.0 °F ,   43.0 °F ,64%,   29.90 in ,   10.0 mi ,West,   16.1 mph ,Overcast
+2/19/2018,1:53 AM,   55.0 °F ,   43.0 °F ,64%,   29.89 in ,   10.0 mi ,West,   15.0 mph ,Overcast
+2/19/2018,2:53 AM,   54.0 °F ,   39.9 °F ,59%,   29.89 in ,   10.0 mi ,WSW,   16.1 mph ,Overcast
+2/19/2018,3:53 AM,   54.0 °F ,   37.9 °F ,55%,   29.88 in ,   10.0 mi ,West,   13.8 mph ,Overcast
+2/19/2018,4:53 AM,   54.0 °F ,   35.1 °F ,49%,   29.89 in ,   10.0 mi ,West,   8.1 mph ,Overcast
+2/19/2018,5:53 AM,   53.1 °F ,   35.1 °F ,50%,   29.90 in ,   10.0 mi ,West,   15.0 mph ,Mostly Cloudy
+2/19/2018,6:53 AM,   53.1 °F ,   36.0 °F ,52%,   29.90 in ,   10.0 mi ,WSW,   15.0 mph ,Mostly Cloudy
+2/19/2018,7:53 AM,   54.0 °F ,   34.0 °F ,47%,   29.93 in ,   10.0 mi ,West,   16.1 mph ,Mostly Cloudy
+2/19/2018,8:53 AM,   57.0 °F ,   33.1 °F ,40%,   29.94 in ,   10.0 mi ,West,   12.7 mph ,Scattered Clouds
+2/19/2018,9:53 AM,   57.0 °F ,   32.0 °F ,39%,   29.96 in ,   10.0 mi ,West,   19.6 mph ,Partly Cloudy
+2/19/2018,10:53 AM,   57.9 °F ,   30.9 °F ,36%,   29.96 in ,   10.0 mi ,WNW,   20.7 mph ,Partly Cloudy
+2/19/2018,11:53 AM,   57.9 °F ,   30.0 °F ,35%,   29.95 in ,   10.0 mi ,WNW,   12.7 mph ,Scattered Clouds
+2/19/2018,12:53 PM,   57.0 °F ,   32.0 °F ,39%,   29.94 in ,   10.0 mi ,West,   18.4 mph ,Scattered Clouds
+2/19/2018,1:53 PM,   57.9 °F ,   26.1 °F ,30%,   29.94 in ,   10.0 mi ,West,   17.3 mph ,Partly Cloudy
+2/19/2018,2:53 PM,   57.9 °F ,   30.9 °F ,36%,   29.94 in ,   10.0 mi ,West,   18.4 mph ,Partly Cloudy
+2/19/2018,3:53 PM,   55.9 °F ,   34.0 °F ,44%,   29.94 in ,   10.0 mi ,West,   18.4 mph ,Partly Cloudy
+2/19/2018,4:53 PM,   55.0 °F ,   34.0 °F ,45%,   29.94 in ,   10.0 mi ,West,   17.3 mph ,Scattered Clouds
+2/19/2018,5:53 PM,   52.0 °F ,   32.0 °F ,47%,   29.95 in ,   10.0 mi ,West,   16.1 mph ,Scattered Clouds
+2/19/2018,6:53 PM,   52.0 °F ,   30.9 °F ,45%,   29.96 in ,   10.0 mi ,West,   17.3 mph ,Scattered Clouds
+2/19/2018,7:53 PM,   52.0 °F ,   34.0 °F ,50%,   29.96 in ,   10.0 mi ,West,   11.5 mph ,Scattered Clouds
+2/19/2018,8:53 PM,   51.1 °F ,   33.1 °F ,50%,   29.98 in ,   10.0 mi ,NW,   9.2 mph ,Mostly Cloudy
+2/19/2018,9:53 PM,   48.9 °F ,   36.0 °F ,61%,   29.99 in ,   10.0 mi ,WSW,   3.5 mph ,Scattered Clouds
+2/19/2018,10:53 PM,   48.9 °F ,   27.0 °F ,43%,   30.03 in ,   10.0 mi ,North,   5.8 mph ,Clear
+2/19/2018,11:53 PM,   46.9 °F ,   21.9 °F ,37%,   30.05 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/20/2018,12:53 AM,   45.0 °F ,   19.0 °F ,36%,   30.06 in ,   10.0 mi ,NNW,   4.6 mph ,Clear
+2/20/2018,1:53 AM,   41.0 °F ,   23.0 °F ,49%,   30.06 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+2/20/2018,2:53 AM,   39.9 °F ,   25.0 °F ,55%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,3:53 AM,   39.0 °F ,   27.0 °F ,62%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,4:53 AM,   41.0 °F ,   32.0 °F ,70%,   30.07 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/20/2018,5:53 AM,   39.9 °F ,   30.0 °F ,68%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,6:53 AM,   37.9 °F ,   28.9 °F ,70%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,7:53 AM,   46.0 °F ,   27.0 °F ,47%,   30.15 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/20/2018,8:53 AM,   51.1 °F ,   23.0 °F ,33%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,9:53 AM,   53.1 °F ,   17.1 °F ,24%,   30.16 in ,   10.0 mi ,South,   3.5 mph ,Clear
+2/20/2018,10:53 AM,   55.0 °F ,   15.1 °F ,21%,   30.15 in ,   10.0 mi ,SSW,   4.6 mph ,Clear
+2/20/2018,11:53 AM,   55.9 °F ,   16.0 °F ,21%,   30.13 in ,   10.0 mi ,West,   9.2 mph ,Clear
+2/20/2018,12:53 PM,   57.0 °F ,   10.9 °F ,16%,   30.11 in ,   10.0 mi ,SW,   11.5 mph ,Clear
+2/20/2018,1:53 PM,   57.0 °F ,   10.9 °F ,16%,   30.10 in ,   10.0 mi ,WSW,   12.7 mph ,Clear
+2/20/2018,2:53 PM,   57.0 °F ,   15.1 °F ,19%,   30.10 in ,   10.0 mi ,West,   12.7 mph ,Clear
+2/20/2018,3:53 PM,   57.0 °F ,   19.9 °F ,24%,   30.10 in ,   10.0 mi ,WNW,   15.0 mph ,Clear
+2/20/2018,4:53 PM,   54.0 °F ,   25.0 °F ,33%,   30.12 in ,   10.0 mi ,West,   12.7 mph ,Clear
+2/20/2018,5:53 PM,   52.0 °F ,   30.0 °F ,43%,   30.14 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+2/20/2018,6:53 PM,   51.1 °F ,   28.9 °F ,43%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,7:53 PM,   48.0 °F ,   28.9 °F ,48%,   30.15 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/20/2018,8:53 PM,   48.0 °F ,   28.0 °F ,46%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,9:53 PM,   45.0 °F ,   28.0 °F ,52%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,10:53 PM,   43.0 °F ,   28.9 °F ,58%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+2/20/2018,11:53 PM,   41.0 °F ,   27.0 °F ,57%,   30.15 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/21/2018,12:53 AM,   39.9 °F ,   25.0 °F ,55%,   30.13 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/21/2018,1:53 AM,   41.0 °F ,   24.1 °F ,51%,   30.12 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/21/2018,2:53 AM,   39.9 °F ,   24.1 °F ,53%,   30.12 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+2/21/2018,3:53 AM,   44.1 °F ,   25.0 °F ,47%,   30.12 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/21/2018,4:53 AM,   41.0 °F ,   24.1 °F ,51%,   30.12 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/21/2018,5:53 AM,   42.1 °F ,   25.0 °F ,51%,   30.13 in ,   10.0 mi ,ESE,   5.8 mph ,Mostly Cloudy
+2/21/2018,6:53 AM,   45.0 °F ,   25.0 °F ,46%,   30.13 in ,   10.0 mi ,ESE,   6.9 mph ,Mostly Cloudy
+2/21/2018,7:53 AM,   48.0 °F ,   26.1 °F ,42%,   30.14 in ,   10.0 mi ,ESE,   6.9 mph ,Scattered Clouds
+2/21/2018,8:53 AM,   53.1 °F ,   32.0 °F ,45%,   30.15 in ,   10.0 mi ,SE,   10.4 mph ,Overcast
+2/21/2018,9:53 AM,   54.0 °F ,   34.0 °F ,47%,   30.15 in ,   10.0 mi ,SSW,   9.2 mph ,Mostly Cloudy
+2/21/2018,10:53 AM,   54.0 °F ,   36.0 °F ,51%,   30.16 in ,   10.0 mi ,SSW,   5.8 mph ,Mostly Cloudy
+2/21/2018,11:53 AM,   51.1 °F ,   44.1 °F ,77%,   30.16 in ,   6.0 mi ,East,   5.8 mph ,Haze
+2/21/2018,12:53 PM,   57.9 °F ,   37.0 °F ,46%,   30.13 in ,   10.0 mi ,WSW,   11.5 mph ,Scattered Clouds
+2/21/2018,1:53 PM,   57.9 °F ,   30.0 °F ,35%,   30.11 in ,   10.0 mi ,SW,   10.4 mph ,Scattered Clouds
+2/21/2018,2:53 PM,   57.9 °F ,   33.1 °F ,39%,   30.12 in ,   10.0 mi ,West,   10.4 mph ,Clear
+2/21/2018,3:53 PM,   57.0 °F ,   34.0 °F ,42%,   30.12 in ,   10.0 mi ,West,   12.7 mph ,Scattered Clouds
+2/21/2018,4:53 PM,   55.0 °F ,   34.0 °F ,45%,   30.13 in ,   10.0 mi ,WNW,   11.5 mph ,Scattered Clouds
+2/21/2018,5:53 PM,   53.1 °F ,   39.0 °F ,59%,   30.15 in ,   10.0 mi ,WNW,   6.9 mph ,Partly Cloudy
+2/21/2018,6:53 PM,   52.0 °F ,   39.0 °F ,61%,   30.16 in ,   10.0 mi ,WNW,   3.5 mph ,Clear
+2/21/2018,7:53 PM,   50.0 °F ,   39.0 °F ,66%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+2/21/2018,8:53 PM,   48.0 °F ,   39.0 °F ,71%,   30.18 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/21/2018,9:53 PM,   45.0 °F ,   37.9 °F ,76%,   30.19 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+2/21/2018,10:53 PM,   44.1 °F ,   37.9 °F ,79%,   30.19 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/21/2018,11:53 PM,   44.1 °F ,   37.0 °F ,76%,   30.20 in ,   10.0 mi ,East,   4.6 mph ,Clear
+2/22/2018,12:53 AM,   44.1 °F ,   37.0 °F ,76%,   30.19 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+2/22/2018,1:53 AM,   44.1 °F ,   37.0 °F ,76%,   30.20 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/22/2018,2:53 AM,   42.1 °F ,   36.0 °F ,79%,   30.19 in ,   10.0 mi ,ESE,   5.8 mph ,Clear
+2/22/2018,3:53 AM,   42.1 °F ,   36.0 °F ,79%,   30.19 in ,   10.0 mi ,ESE,   6.9 mph ,Partly Cloudy
+2/22/2018,4:53 AM,   42.1 °F ,   36.0 °F ,79%,   30.20 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+2/22/2018,5:53 AM,   44.1 °F ,   37.0 °F ,76%,   30.21 in ,   10.0 mi ,ESE,   4.6 mph ,Mostly Cloudy
+2/22/2018,6:53 AM,   43.0 °F ,   37.0 °F ,80%,   30.22 in ,   10.0 mi ,ESE,   3.5 mph ,Scattered Clouds
+2/22/2018,7:53 AM,   46.9 °F ,   41.0 °F ,80%,   30.25 in ,   7.0 mi ,ESE,   4.6 mph ,Light Rain
+2/22/2018,8:53 AM,   52.0 °F ,   41.0 °F ,66%,   30.26 in ,   10.0 mi ,SSE,   8.1 mph ,Mostly Cloudy
+2/22/2018,9:53 AM,   55.0 °F ,   42.1 °F ,62%,   30.27 in ,   10.0 mi ,South,   9.2 mph ,Mostly Cloudy
+2/22/2018,10:53 AM,   57.0 °F ,   42.1 °F ,57%,   30.27 in ,   10.0 mi ,South,   11.5 mph ,Mostly Cloudy
+2/22/2018,11:53 AM,   57.0 °F ,   42.1 °F ,57%,   30.25 in ,   10.0 mi ,WSW,   10.4 mph ,Mostly Cloudy
+2/22/2018,12:53 PM,   59.0 °F ,   39.9 °F ,49%,   30.23 in ,   10.0 mi ,SW,   12.7 mph ,Mostly Cloudy
+2/22/2018,1:53 PM,   55.0 °F ,   46.9 °F ,74%,   30.22 in ,   9.0 mi ,WSW,   15.0 mph ,Light Rain
+2/22/2018,2:53 PM,   55.0 °F ,   44.1 °F ,67%,   30.22 in ,   10.0 mi ,WSW,   11.5 mph ,Overcast
+2/22/2018,3:53 PM,   54.0 °F ,   43.0 °F ,66%,   30.21 in ,   10.0 mi ,West,   9.2 mph ,Overcast
+2/22/2018,4:53 PM,   53.1 °F ,   45.0 °F ,74%,   30.20 in ,   10.0 mi ,WSW,   6.9 mph ,Mostly Cloudy
+2/22/2018,5:53 PM,   53.1 °F ,   44.1 °F ,71%,   30.20 in ,   10.0 mi ,SW,   5.8 mph ,Mostly Cloudy
+2/22/2018,6:53 PM,   53.1 °F ,   45.0 °F ,74%,   30.20 in ,   10.0 mi ,SSW,   6.9 mph ,Mostly Cloudy
+2/22/2018,7:53 PM,   53.1 °F ,   44.1 °F ,71%,   30.21 in ,   10.0 mi ,West,   5.8 mph ,Mostly Cloudy
+2/22/2018,8:53 PM,   52.0 °F ,   42.1 °F ,69%,   30.22 in ,   10.0 mi ,SW,   3.5 mph ,Partly Cloudy
+2/22/2018,9:53 PM,   53.1 °F ,   42.1 °F ,66%,   30.22 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/22/2018,10:53 PM,   52.0 °F ,   42.1 °F ,69%,   30.22 in ,   10.0 mi ,West,   9.2 mph ,Partly Cloudy
+2/22/2018,11:53 PM,   51.1 °F ,   39.0 °F ,63%,   30.22 in ,   10.0 mi ,West,   9.2 mph ,Clear
+2/23/2018,12:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.22 in ,   10.0 mi ,West,   9.2 mph ,Partly Cloudy
+2/23/2018,1:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.21 in ,   10.0 mi ,WSW,   6.9 mph ,Partly Cloudy
+2/23/2018,2:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.20 in ,   10.0 mi ,West,   3.5 mph ,Mostly Cloudy
+2/23/2018,3:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.19 in ,   10.0 mi ,West,   8.1 mph ,Scattered Clouds
+2/23/2018,4:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.19 in ,   10.0 mi ,West,   10.4 mph ,Scattered Clouds
+2/23/2018,5:53 AM,   52.0 °F ,   39.0 °F ,61%,   30.19 in ,   10.0 mi ,WNW,   13.8 mph ,Mostly Cloudy
+2/23/2018,6:53 AM,   51.1 °F ,   39.0 °F ,63%,   30.21 in ,   10.0 mi ,WNW,   11.5 mph ,Mostly Cloudy
+2/23/2018,7:53 AM,   52.0 °F ,   37.0 °F ,57%,   30.21 in ,   10.0 mi ,WNW,   16.1 mph ,Light Rain
+2/23/2018,8:53 AM,   55.0 °F ,   32.0 °F ,42%,   30.22 in ,   10.0 mi ,WNW,   19.6 mph ,Scattered Clouds
+2/23/2018,9:53 AM,   53.1 °F ,   33.1 °F ,47%,   30.22 in ,   10.0 mi ,West,   18.4 mph ,Mostly Cloudy
+2/23/2018,10:53 AM,   55.0 °F ,   32.0 °F ,42%,   30.22 in ,   10.0 mi ,West,   13.8 mph ,Mostly Cloudy
+2/23/2018,11:53 AM,   55.0 °F ,   28.9 °F ,37%,   30.21 in ,   10.0 mi ,WNW,   13.8 mph ,Partly Cloudy
+2/23/2018,12:53 PM,   55.0 °F ,   28.0 °F ,35%,   30.20 in ,   10.0 mi ,WNW,   13.8 mph ,Partly Cloudy
+2/23/2018,1:53 PM,   55.0 °F ,   30.0 °F ,38%,   30.17 in ,   10.0 mi ,WNW,   15.0 mph ,Clear
+2/23/2018,2:53 PM,   55.0 °F ,   27.0 °F ,34%,   30.18 in ,   10.0 mi ,West,   12.7 mph ,Clear
+2/23/2018,3:53 PM,   55.0 °F ,   28.0 °F ,35%,   30.19 in ,   10.0 mi ,WNW,   11.5 mph ,Partly Cloudy
+2/23/2018,4:53 PM,   54.0 °F ,   28.9 °F ,38%,   30.19 in ,   10.0 mi ,West,   10.4 mph ,Clear
+2/23/2018,5:53 PM,   52.0 °F ,   30.0 °F ,43%,   30.21 in ,   10.0 mi ,NNW,   8.1 mph ,Partly Cloudy
+2/23/2018,6:53 PM,   51.1 °F ,   30.9 °F ,46%,   30.23 in ,   10.0 mi ,North,   3.5 mph ,Clear
+2/23/2018,7:53 PM,   48.0 °F ,   30.9 °F ,52%,   30.24 in ,   10.0 mi ,Calm,Calm,Clear
+2/23/2018,8:53 PM,   46.0 °F ,   30.9 °F ,56%,   30.26 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/23/2018,9:53 PM,   45.0 °F ,   30.9 °F ,58%,   30.27 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/23/2018,10:53 PM,   43.0 °F ,   30.9 °F ,62%,   30.28 in ,   10.0 mi ,East,   6.9 mph ,Clear
+2/23/2018,11:53 PM,   43.0 °F ,   30.0 °F ,60%,   30.29 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,12:53 AM,   43.0 °F ,   30.0 °F ,60%,   30.30 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,1:53 AM,   39.9 °F ,   30.0 °F ,68%,   30.30 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/24/2018,2:53 AM,   39.0 °F ,   30.0 °F ,70%,   30.30 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,3:53 AM,   39.9 °F ,   30.0 °F ,68%,   30.30 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,4:53 AM,   39.0 °F ,   28.9 °F ,67%,   30.31 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,5:53 AM,   37.0 °F ,   28.0 °F ,70%,   30.32 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,6:53 AM,   39.9 °F ,   28.0 °F ,63%,   30.33 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,7:53 AM,   46.0 °F ,   27.0 °F ,47%,   30.34 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,8:53 AM,   52.0 °F ,   23.0 °F ,32%,   30.34 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,9:53 AM,   55.9 °F ,   19.9 °F ,25%,   30.34 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,10:53 AM,   59.0 °F ,   14.0 °F ,17%,   30.32 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,11:53 AM,   62.1 °F ,   10.0 °F ,13%,   30.27 in ,   10.0 mi ,NNW,   8.1 mph ,Clear
+2/24/2018,12:53 PM,   62.1 °F ,   17.1 °F ,18%,   30.24 in ,   10.0 mi ,West,   15.0 mph ,Clear
+2/24/2018,1:53 PM,   62.1 °F ,   17.1 °F ,18%,   30.23 in ,   10.0 mi ,WNW,   16.1 mph ,Clear
+2/24/2018,2:53 PM,   61.0 °F ,   19.9 °F ,21%,   30.22 in ,   10.0 mi ,WNW,   15.0 mph ,Clear
+2/24/2018,3:53 PM,   59.0 °F ,   21.0 °F ,23%,   30.22 in ,   10.0 mi ,WNW,   16.1 mph ,Clear
+2/24/2018,4:53 PM,   57.0 °F ,   26.1 °F ,30%,   30.22 in ,   10.0 mi ,WNW,   15.0 mph ,Clear
+2/24/2018,5:53 PM,   54.0 °F ,   28.9 °F ,38%,   30.23 in ,   10.0 mi ,West,   10.4 mph ,Clear
+2/24/2018,6:53 PM,   53.1 °F ,   33.1 °F ,47%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,7:53 PM,   48.9 °F ,   30.9 °F ,50%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,8:53 PM,   48.0 °F ,   30.0 °F ,50%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,9:53 PM,   46.0 °F ,   32.0 °F ,58%,   30.22 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/24/2018,10:53 PM,   46.9 °F ,   30.0 °F ,52%,   30.20 in ,   10.0 mi ,Calm,Calm,Clear
+2/24/2018,11:53 PM,   44.1 °F ,   28.9 °F ,55%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,12:53 AM,   43.0 °F ,   30.0 °F ,60%,   30.18 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/25/2018,1:53 AM,   46.0 °F ,   28.9 °F ,51%,   30.18 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/25/2018,2:53 AM,   43.0 °F ,   28.9 °F ,58%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,3:53 AM,   42.1 °F ,   28.0 °F ,58%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,4:53 AM,   39.9 °F ,   28.0 °F ,63%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,5:53 AM,   39.9 °F ,   28.0 °F ,63%,   30.19 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/25/2018,6:53 AM,   42.1 °F ,   28.9 °F ,60%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,7:53 AM,   48.9 °F ,   28.9 °F ,46%,   30.20 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,8:53 AM,   55.9 °F ,   32.0 °F ,40%,   30.21 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+2/25/2018,9:53 AM,   60.1 °F ,   30.9 °F ,33%,   30.20 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+2/25/2018,10:53 AM,   63.0 °F ,   27.0 °F ,26%,   30.19 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+2/25/2018,11:53 AM,   64.9 °F ,   28.9 °F ,26%,   30.17 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+2/25/2018,12:53 PM,   66.9 °F ,   28.0 °F ,23%,   30.14 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+2/25/2018,1:53 PM,   66.0 °F ,   30.9 °F ,27%,   30.12 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+2/25/2018,2:53 PM,   66.0 °F ,   35.1 °F ,32%,   30.10 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+2/25/2018,3:53 PM,   64.0 °F ,   37.9 °F ,38%,   30.10 in ,   10.0 mi ,NW,   11.5 mph ,Clear
+2/25/2018,4:53 PM,   61.0 °F ,   42.1 °F ,50%,   30.10 in ,   10.0 mi ,NNW,   12.7 mph ,Clear
+2/25/2018,5:53 PM,   59.0 °F ,   34.0 °F ,39%,   30.11 in ,   10.0 mi ,NNW,   8.1 mph ,Clear
+2/25/2018,6:53 PM,   57.9 °F ,   30.0 °F ,35%,   30.11 in ,   10.0 mi ,NNW,   9.2 mph ,Clear
+2/25/2018,7:53 PM,   55.9 °F ,   30.0 °F ,37%,   30.12 in ,   10.0 mi ,North,   5.8 mph ,Clear
+2/25/2018,8:53 PM,   54.0 °F ,   30.9 °F ,41%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,9:53 PM,   51.1 °F ,   30.9 °F ,46%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+2/25/2018,10:53 PM,   48.0 °F ,   30.9 °F ,52%,   30.12 in ,   10.0 mi ,SE,   4.6 mph ,Clear
+2/25/2018,11:53 PM,   48.0 °F ,   30.9 °F ,52%,   30.11 in ,   10.0 mi ,East,   5.8 mph ,Clear
+2/26/2018,12:53 AM,   48.0 °F ,   33.1 °F ,56%,   30.09 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/26/2018,1:53 AM,   46.9 °F ,   28.9 °F ,50%,   30.08 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+2/26/2018,2:53 AM,   44.1 °F ,   28.0 °F ,53%,   30.06 in ,   10.0 mi ,East,   4.6 mph ,Clear
+2/26/2018,3:53 AM,   46.0 °F ,   30.9 °F ,56%,   30.06 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/26/2018,4:53 AM,   43.0 °F ,   30.0 °F ,60%,   30.05 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/26/2018,5:53 AM,   43.0 °F ,   28.0 °F ,56%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+2/26/2018,6:53 AM,   45.0 °F ,   26.1 °F ,48%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+2/26/2018,7:53 AM,   53.1 °F ,   26.1 °F ,35%,   30.07 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+2/26/2018,8:53 AM,   55.9 °F ,   37.9 °F ,51%,   30.07 in ,   10.0 mi ,SE,   8.1 mph ,Clear
+2/26/2018,9:53 AM,   60.1 °F ,   43.0 °F ,53%,   30.06 in ,   10.0 mi ,Variable,   6.9 mph ,Clear
+2/26/2018,10:53 AM,   61.0 °F ,   43.0 °F ,52%,   30.05 in ,   10.0 mi ,SW,   6.9 mph ,Clear
+2/26/2018,11:53 AM,   63.0 °F ,   45.0 °F ,52%,   30.02 in ,   10.0 mi ,SSW,   9.2 mph ,Clear
+2/26/2018,12:53 PM,   62.1 °F ,   46.0 °F ,56%,   29.99 in ,   10.0 mi ,SW,   11.5 mph ,Scattered Clouds
+2/26/2018,1:53 PM,   63.0 °F ,   46.9 °F ,56%,   29.97 in ,   10.0 mi ,SW,   9.2 mph ,Scattered Clouds
+2/26/2018,2:53 PM,   63.0 °F ,   45.0 °F ,52%,   29.95 in ,   10.0 mi ,WSW,   10.4 mph ,Scattered Clouds
+2/26/2018,3:53 PM,   61.0 °F ,   44.1 °F ,54%,   29.94 in ,   10.0 mi ,SW,   9.2 mph ,Partly Cloudy
+2/26/2018,4:53 PM,   57.9 °F ,   45.0 °F ,62%,   29.94 in ,   10.0 mi ,WSW,   11.5 mph ,Partly Cloudy
+2/26/2018,5:53 PM,   55.9 °F ,   46.0 °F ,69%,   29.94 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/26/2018,6:53 PM,   55.9 °F ,   48.0 °F ,75%,   29.94 in ,   10.0 mi ,WSW,   4.6 mph ,Mostly Cloudy
+2/26/2018,7:04 PM,   55.9 °F ,   46.9 °F ,72%,   29.94 in ,   10.0 mi ,West,   6.9 mph ,Mostly Cloudy
+2/26/2018,7:12 PM,   55.0 °F ,   46.0 °F ,72%,   29.94 in ,   10.0 mi ,West,   10.4 mph ,Scattered Clouds
+2/26/2018,7:53 PM,   55.0 °F ,   45.0 °F ,69%,   29.95 in ,   10.0 mi ,West,   4.6 mph ,Scattered Clouds
+2/26/2018,8:10 PM,   55.0 °F ,   44.1 °F ,67%,   29.96 in ,   10.0 mi ,West,   6.9 mph ,Mostly Cloudy
+2/26/2018,8:17 PM,   55.0 °F ,   44.1 °F ,67%,   29.96 in ,   10.0 mi ,West,   6.9 mph ,Mostly Cloudy
+2/26/2018,8:53 PM,   55.0 °F ,   43.0 °F ,64%,   29.96 in ,   10.0 mi ,WSW,   8.1 mph ,Mostly Cloudy
+2/26/2018,9:53 PM,   53.1 °F ,   43.0 °F ,69%,   29.95 in ,   10.0 mi ,West,   4.6 mph ,Clear
+2/26/2018,10:53 PM,   53.1 °F ,   43.0 °F ,69%,   29.94 in ,   10.0 mi ,SSW,   4.6 mph ,Partly Cloudy
+2/26/2018,11:53 PM,   51.1 °F ,   43.0 °F ,74%,   29.93 in ,   10.0 mi ,SE,   3.5 mph ,Clear
+2/27/2018,12:53 AM,   52.0 °F ,   45.0 °F ,77%,   29.91 in ,   10.0 mi ,SE,   5.8 mph ,Overcast
+2/27/2018,1:26 AM,   50.0 °F ,   46.9 °F ,89%,   29.93 in ,   2.5 mi ,WNW,   11.5 mph ,Heavy Rain
+2/27/2018,1:37 AM,   50.0 °F ,   48.0 °F ,93%,   29.92 in ,   3.0 mi ,WNW,   11.5 mph ,Rain
+2/27/2018,1:41 AM,   50.0 °F ,   48.0 °F ,93%,   29.92 in ,   4.0 mi ,WNW,   12.7 mph ,Rain
+2/27/2018,1:53 AM,   48.9 °F ,   46.9 °F ,93%,   29.91 in ,   8.0 mi ,WNW,   15.0 mph ,Light Rain
+2/27/2018,2:13 AM,   48.9 °F ,   46.9 °F ,93%,   29.91 in ,   10.0 mi ,West,   10.4 mph ,Overcast
+2/27/2018,2:42 AM,   48.9 °F ,   46.9 °F ,93%,   29.92 in ,   3.0 mi ,WNW,   9.2 mph ,Rain
+2/27/2018,2:53 AM,   48.9 °F ,   46.0 °F ,90%,   29.91 in ,   6.0 mi ,West,   10.4 mph ,Light Rain
+2/27/2018,3:08 AM,   48.9 °F ,   46.0 °F ,90%,   29.92 in ,   5.0 mi ,West,   10.4 mph ,Rain
+2/27/2018,3:53 AM,   48.9 °F ,   46.0 °F ,90%,   29.90 in ,   4.0 mi ,West,   5.8 mph ,Rain
+2/27/2018,4:44 AM,   48.9 °F ,   46.0 °F ,90%,   29.91 in ,   8.0 mi ,Calm,Calm,Light Rain
+2/27/2018,4:53 AM,   48.9 °F ,   46.0 °F ,90%,   29.91 in ,   10.0 mi ,Calm,Calm,Overcast
+2/27/2018,5:16 AM,   50.0 °F ,   43.0 °F ,77%,   29.91 in ,   10.0 mi ,NW,   9.2 mph ,Overcast
+2/27/2018,5:53 AM,   48.9 °F ,   41.0 °F ,74%,   29.92 in ,   8.0 mi ,West,   4.6 mph ,Light Rain
+2/27/2018,6:27 AM,   48.9 °F ,   43.0 °F ,80%,   29.93 in ,   2.5 mi ,NW,   5.8 mph ,Heavy Rain
+2/27/2018,6:34 AM,   48.0 °F ,   42.1 °F ,80%,   29.93 in ,   3.0 mi ,NNW,   3.5 mph ,Light Rain
+2/27/2018,6:53 AM,   48.0 °F ,   43.0 °F ,83%,   29.93 in ,   6.0 mi ,NE,   5.8 mph ,Light Rain
+2/27/2018,7:53 AM,   48.0 °F ,   45.0 °F ,89%,   29.96 in ,   10.0 mi ,East,   3.5 mph ,Partly Cloudy
+2/27/2018,8:53 AM,   51.1 °F ,   42.1 °F ,71%,   29.97 in ,   10.0 mi ,West,   11.5 mph ,Mostly Cloudy
+2/27/2018,9:53 AM,   52.0 °F ,   39.0 °F ,61%,   29.99 in ,   10.0 mi ,West,   5.8 mph ,Clear
+2/27/2018,10:53 AM,   53.1 °F ,   37.9 °F ,57%,   30.01 in ,   10.0 mi ,SW,   5.8 mph ,Scattered Clouds
+2/27/2018,11:53 AM,   54.0 °F ,   34.0 °F ,47%,   30.00 in ,   10.0 mi ,West,   4.6 mph ,Mostly Cloudy
+2/27/2018,12:53 PM,   55.9 °F ,   34.0 °F ,44%,   29.98 in ,   10.0 mi ,WNW,   11.5 mph ,Partly Cloudy
+2/27/2018,1:53 PM,   54.0 °F ,   33.1 °F ,45%,   29.97 in ,   10.0 mi ,WSW,   9.2 mph ,Scattered Clouds
+2/27/2018,2:53 PM,   55.0 °F ,   33.1 °F ,43%,   29.99 in ,   10.0 mi ,WSW,   10.4 mph ,Scattered Clouds
+2/27/2018,3:53 PM,   53.1 °F ,   37.9 °F ,57%,   30.00 in ,   10.0 mi ,SSW,   10.4 mph ,Mostly Cloudy
+2/27/2018,4:53 PM,   52.0 °F ,   35.1 °F ,53%,   30.01 in ,   10.0 mi ,South,   8.1 mph ,Scattered Clouds
+2/27/2018,5:53 PM,   51.1 °F ,   36.0 °F ,56%,   30.02 in ,   10.0 mi ,SSW,   6.9 mph ,Mostly Cloudy
+2/27/2018,6:53 PM,   51.1 °F ,   37.0 °F ,59%,   30.03 in ,   10.0 mi ,West,   3.5 mph ,Scattered Clouds
+2/27/2018,7:53 PM,   51.1 °F ,   37.9 °F ,61%,   30.04 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/27/2018,8:53 PM,   48.9 °F ,   41.0 °F ,74%,   30.07 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/27/2018,9:53 PM,   48.0 °F ,   39.9 °F ,74%,   30.08 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+2/27/2018,10:53 PM,   46.9 °F ,   39.9 °F ,77%,   30.08 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+2/27/2018,11:53 PM,   46.0 °F ,   39.0 °F ,76%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+2/28/2018,12:53 AM,   45.0 °F ,   39.0 °F ,80%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+2/28/2018,1:53 AM,   42.1 °F ,   37.9 °F ,85%,   30.12 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/28/2018,2:53 AM,   42.1 °F ,   37.9 °F ,85%,   30.13 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/28/2018,3:53 AM,   41.0 °F ,   37.0 °F ,86%,   30.14 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/28/2018,4:53 AM,   39.9 °F ,   37.0 °F ,89%,   30.15 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/28/2018,5:53 AM,   39.9 °F ,   37.0 °F ,89%,   30.16 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+2/28/2018,6:53 AM,   41.0 °F ,   37.0 °F ,86%,   30.19 in ,   10.0 mi ,East,   3.5 mph ,Clear
+2/28/2018,7:53 AM,   46.9 °F ,   39.0 °F ,74%,   30.20 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+2/28/2018,8:53 AM,   51.1 °F ,   37.9 °F ,61%,   30.22 in ,   10.0 mi ,ESE,   6.9 mph ,Clear
+2/28/2018,9:53 AM,   55.0 °F ,   37.9 °F ,53%,   30.24 in ,   10.0 mi ,South,   3.5 mph ,Partly Cloudy
+2/28/2018,10:53 AM,   57.0 °F ,   37.9 °F ,49%,   30.24 in ,   10.0 mi ,SW,   4.6 mph ,Scattered Clouds
+2/28/2018,11:53 AM,   59.0 °F ,   39.9 °F ,49%,   30.23 in ,   10.0 mi ,SW,   10.4 mph ,Mostly Cloudy
+2/28/2018,12:53 PM,   59.0 °F ,   39.9 °F ,49%,   30.22 in ,   10.0 mi ,SW,   8.1 mph ,Mostly Cloudy
+2/28/2018,1:53 PM,   57.9 °F ,   39.0 °F ,49%,   30.20 in ,   10.0 mi ,SSW,   8.1 mph ,Partly Cloudy
+2/28/2018,2:53 PM,   57.9 °F ,   39.0 °F ,49%,   30.20 in ,   10.0 mi ,WSW,   12.7 mph ,Clear
+2/28/2018,3:53 PM,   57.9 °F ,   41.0 °F ,53%,   30.20 in ,   10.0 mi ,WSW,   11.5 mph ,Partly Cloudy
+2/28/2018,4:53 PM,   55.9 °F ,   39.0 °F ,53%,   30.21 in ,   10.0 mi ,WSW,   9.2 mph ,Clear
+2/28/2018,5:53 PM,   55.0 °F ,   41.0 °F ,59%,   30.21 in ,   10.0 mi ,West,   6.9 mph ,Partly Cloudy
+2/28/2018,6:53 PM,   54.0 °F ,   42.1 °F ,64%,   30.22 in ,   10.0 mi ,West,   5.8 mph ,Clear
+2/28/2018,7:53 PM,   54.0 °F ,   42.1 °F ,64%,   30.23 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/28/2018,8:53 PM,   53.1 °F ,   42.1 °F ,66%,   30.25 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/28/2018,9:53 PM,   51.1 °F ,   42.1 °F ,71%,   30.25 in ,   10.0 mi ,Calm,Calm,Mostly Cloudy
+2/28/2018,10:53 PM,   48.9 °F ,   41.0 °F ,74%,   30.24 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+2/28/2018,11:53 PM,   48.0 °F ,   42.1 °F ,80%,   30.23 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,12:53 AM,   46.9 °F ,   42.1 °F ,83%,   30.23 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+3/1/2018,1:53 AM,   46.9 °F ,   41.0 °F ,80%,   30.21 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,2:53 AM,   46.9 °F ,   41.0 °F ,80%,   30.18 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,3:53 AM,   45.0 °F ,   39.9 °F ,82%,   30.18 in ,   10.0 mi ,East,   3.5 mph ,Clear
+3/1/2018,4:53 AM,   45.0 °F ,   39.9 °F ,82%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,5:53 AM,   44.1 °F ,   39.9 °F ,85%,   30.19 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,6:53 AM,   45.0 °F ,   39.9 °F ,82%,   30.20 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,7:53 AM,   48.9 °F ,   41.0 °F ,74%,   30.21 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,8:53 AM,   55.0 °F ,   39.0 °F ,55%,   30.21 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,9:53 AM,   57.0 °F ,   39.0 °F ,51%,   30.21 in ,   10.0 mi ,West,   8.1 mph ,Clear
+3/1/2018,10:53 AM,   59.0 °F ,   39.9 °F ,49%,   30.21 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+3/1/2018,2:53 PM,   60.1 °F ,   41.0 °F ,49%,   30.12 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+3/1/2018,3:53 PM,   59.0 °F ,   42.1 °F ,53%,   30.12 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+3/1/2018,4:53 PM,   57.0 °F ,   43.0 °F ,59%,   30.12 in ,   10.0 mi ,West,   11.5 mph ,Clear
+3/1/2018,5:53 PM,   55.0 °F ,   44.1 °F ,67%,   30.13 in ,   10.0 mi ,NW,   8.1 mph ,Clear
+3/1/2018,6:53 PM,   54.0 °F ,   45.0 °F ,72%,   30.14 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+3/1/2018,7:53 PM,   53.1 °F ,   45.0 °F ,74%,   30.15 in ,   10.0 mi ,North,   3.5 mph ,Clear
+3/1/2018,8:53 PM,   53.1 °F ,   45.0 °F ,74%,   30.15 in ,   10.0 mi ,North,   3.5 mph ,Clear
+3/1/2018,9:53 PM,   51.1 °F ,   44.1 °F ,77%,   30.15 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+3/1/2018,10:53 PM,   48.9 °F ,   44.1 °F ,83%,   30.14 in ,   10.0 mi ,Calm,Calm,Clear
+3/1/2018,11:53 PM,   48.9 °F ,   44.1 °F ,83%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,12:53 AM,   48.9 °F ,   44.1 °F ,83%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,1:53 AM,   46.9 °F ,   42.1 °F ,83%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,2:53 AM,   45.0 °F ,   43.0 °F ,93%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,3:53 AM,   45.0 °F ,   42.1 °F ,90%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,4:53 AM,   46.0 °F ,   42.1 °F ,86%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,5:53 AM,   45.0 °F ,   41.0 °F ,86%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,6:53 AM,   45.0 °F ,   42.1 °F ,90%,   30.13 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,7:53 AM,   51.1 °F ,   43.0 °F ,74%,   30.14 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+3/2/2018,8:53 AM,   55.0 °F ,   44.1 °F ,67%,   30.13 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+3/2/2018,9:53 AM,   60.1 °F ,   37.9 °F ,44%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+3/2/2018,10:53 AM,   63.0 °F ,   41.0 °F ,45%,   30.11 in ,   10.0 mi ,SW,   4.6 mph ,Partly Cloudy
+3/2/2018,11:53 AM,   63.0 °F ,   45.0 °F ,52%,   30.09 in ,   10.0 mi ,West,   9.2 mph ,Clear
+3/2/2018,12:53 PM,   64.0 °F ,   45.0 °F ,50%,   30.07 in ,   10.0 mi ,WSW,   10.4 mph ,Clear
+3/2/2018,1:53 PM,   64.0 °F ,   44.1 °F ,48%,   30.06 in ,   10.0 mi ,WSW,   10.4 mph ,Clear
+3/2/2018,2:53 PM,   63.0 °F ,   46.0 °F ,54%,   30.06 in ,   10.0 mi ,WSW,   10.4 mph ,Clear
+3/2/2018,3:53 PM,   62.1 °F ,   46.0 °F ,56%,   30.05 in ,   10.0 mi ,West,   10.4 mph ,Clear
+3/2/2018,4:53 PM,   60.1 °F ,   48.0 °F ,64%,   30.06 in ,   10.0 mi ,West,   9.2 mph ,Partly Cloudy
+3/2/2018,5:53 PM,   57.9 °F ,   48.9 °F ,72%,   30.06 in ,   10.0 mi ,SW,   6.9 mph ,Partly Cloudy
+3/2/2018,6:53 PM,   57.0 °F ,   50.0 °F ,77%,   30.07 in ,   10.0 mi ,SSW,   4.6 mph ,Clear
+3/2/2018,7:53 PM,   57.0 °F ,   50.0 °F ,77%,   30.07 in ,   10.0 mi ,SSE,   3.5 mph ,Mostly Cloudy
+3/2/2018,8:53 PM,   57.0 °F ,   50.0 °F ,77%,   30.07 in ,   10.0 mi ,South,   4.6 mph ,Overcast
+3/2/2018,9:37 PM,   57.0 °F ,   50.0 °F ,77%,   30.07 in ,   10.0 mi ,SSE,   3.5 mph ,Overcast
+3/2/2018,9:53 PM,   57.0 °F ,   50.0 °F ,77%,   30.06 in ,   10.0 mi ,SSE,   4.6 mph ,Overcast
+3/2/2018,10:09 PM,   57.0 °F ,   50.0 °F ,77%,   30.06 in ,   10.0 mi ,SSE,   4.6 mph ,Overcast
+3/2/2018,10:53 PM,   55.9 °F ,   50.0 °F ,80%,   30.05 in ,   10.0 mi ,ESE,   5.8 mph ,Mostly Cloudy
+3/2/2018,11:53 PM,   55.9 °F ,   48.9 °F ,77%,   30.05 in ,   10.0 mi ,SE,   5.8 mph ,Overcast
+3/3/2018,12:53 AM,   55.0 °F ,   50.0 °F ,83%,   30.05 in ,   2.5 mi ,SSE,   4.6 mph ,Light Rain
+3/3/2018,1:53 AM,   53.1 °F ,   52.0 °F ,96%,   30.04 in ,   2.5 mi ,SSW,   5.8 mph ,Light Rain
+3/3/2018,2:13 AM,   53.1 °F ,   52.0 °F ,96%,   30.05 in ,   2.0 mi ,ENE,   4.6 mph ,Light Rain
+3/3/2018,2:23 AM,   53.1 °F ,   52.0 °F ,96%,   30.04 in ,   5.0 mi ,ESE,   4.6 mph ,Overcast
+3/3/2018,2:53 AM,   53.1 °F ,   52.0 °F ,96%,   30.03 in ,   6.0 mi ,ESE,   6.9 mph ,Overcast
+3/3/2018,3:19 AM,   53.1 °F ,   52.0 °F ,96%,   30.03 in ,   8.0 mi ,SE,   8.1 mph ,Overcast
+3/3/2018,3:53 AM,   53.1 °F ,   52.0 °F ,96%,   30.03 in ,   9.0 mi ,SE,   4.6 mph ,Overcast
+3/3/2018,4:53 AM,   53.1 °F ,   52.0 °F ,96%,   30.04 in ,   10.0 mi ,SSE,   4.6 mph ,Overcast
+3/3/2018,5:53 AM,   54.0 °F ,   51.1 °F ,90%,   30.05 in ,   10.0 mi ,SSE,   4.6 mph ,Overcast
+3/3/2018,6:38 AM,   54.0 °F ,   52.0 °F ,93%,   30.06 in ,   8.0 mi ,SE,   3.5 mph ,Overcast
+3/3/2018,6:53 AM,   54.0 °F ,   52.0 °F ,93%,   30.06 in ,   8.0 mi ,SE,   5.8 mph ,Overcast
+3/3/2018,7:53 AM,   55.0 °F ,   52.0 °F ,89%,   30.07 in ,   8.0 mi ,SSE,   6.9 mph ,Overcast
+3/3/2018,8:53 AM,   57.0 °F ,   53.1 °F ,87%,   30.08 in ,   10.0 mi ,South,   8.1 mph ,Overcast
+3/3/2018,9:08 AM,   57.0 °F ,   53.1 °F ,87%,   30.08 in ,   10.0 mi ,SSE,   8.1 mph ,Overcast
+3/3/2018,9:24 AM,   55.9 °F ,   53.1 °F ,90%,   30.10 in ,   1.5 mi ,WSW,   12.7 mph ,Rain
+3/3/2018,9:31 AM,   54.0 °F ,   52.0 °F ,93%,   30.10 in ,   1.2 mi ,West,   9.2 mph ,Rain
+3/3/2018,9:38 AM,   54.0 °F ,   52.0 °F ,93%,   30.10 in ,   2.0 mi ,WSW,   6.9 mph ,Rain
+3/3/2018,9:43 AM,   54.0 °F ,   52.0 °F ,93%,   30.10 in ,   2.0 mi ,West,   6.9 mph ,Light Rain
+3/3/2018,9:49 AM,   55.4 °F ,   51.8 °F ,88%,   30.10 in ,   8.0 mi ,West,   9.2 mph ,Light Rain
+3/3/2018,9:50 AM,   55.0 °F ,   52.0 °F ,89%,   30.10 in ,   10.0 mi ,WSW,   8.1 mph ,Light Rain
+3/3/2018,10:04 AM,   55.0 °F ,   51.1 °F ,86%,   30.11 in ,   10.0 mi ,WSW,   6.9 mph ,Overcast
+3/3/2018,10:53 AM,   60.1 °F ,   48.0 °F ,64%,   30.10 in ,   10.0 mi ,West,   11.5 mph ,Overcast
+3/3/2018,11:53 AM,   60.1 °F ,   45.0 °F ,57%,   30.09 in ,   10.0 mi ,SW,   11.5 mph ,Overcast
+3/3/2018,12:53 PM,   61.0 °F ,   45.0 °F ,56%,   30.08 in ,   10.0 mi ,SSW,   12.7 mph ,Mostly Cloudy
+3/3/2018,1:53 PM,   60.1 °F ,   46.0 °F ,60%,   30.07 in ,   10.0 mi ,SW,   8.1 mph ,Overcast
+3/3/2018,2:53 PM,   61.0 °F ,   45.0 °F ,56%,   30.07 in ,   10.0 mi ,WSW,   15.0 mph ,Mostly Cloudy
+3/3/2018,3:33 PM,   57.9 °F ,   50.0 °F ,75%,   30.07 in ,   10.0 mi ,WNW,   13.8 mph ,Mostly Cloudy
+3/3/2018,3:53 PM,   57.0 °F ,   48.9 °F ,74%,   30.07 in ,   10.0 mi ,WNW,   11.5 mph ,Mostly Cloudy
+3/3/2018,4:53 PM,   55.9 °F ,   48.0 °F ,75%,   30.07 in ,   10.0 mi ,West,   8.1 mph ,Mostly Cloudy
+3/3/2018,5:53 PM,   55.9 °F ,   46.0 °F ,69%,   30.08 in ,   10.0 mi ,West,   9.2 mph ,Overcast
+3/3/2018,6:53 PM,   55.0 °F ,   46.9 °F ,74%,   30.08 in ,   10.0 mi ,WNW,   5.8 mph ,Overcast
+3/3/2018,7:53 PM,   55.0 °F ,   46.9 °F ,74%,   30.09 in ,   10.0 mi ,NW,   4.6 mph ,Mostly Cloudy
+3/3/2018,8:53 PM,   53.1 °F ,   48.0 °F ,83%,   30.09 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+3/3/2018,9:53 PM,   54.0 °F ,   48.9 °F ,83%,   30.10 in ,   10.0 mi ,West,   6.9 mph ,Overcast
+3/3/2018,10:14 PM,   54.0 °F ,   48.9 °F ,83%,   30.10 in ,   10.0 mi ,WNW,   3.5 mph ,Overcast
+3/3/2018,10:53 PM,   54.0 °F ,   48.9 °F ,83%,   30.10 in ,   10.0 mi ,WSW,   4.6 mph ,Mostly Cloudy
+3/3/2018,11:53 PM,   55.0 °F ,   48.0 °F ,77%,   30.10 in ,   10.0 mi ,West,   10.4 mph ,Overcast
+3/4/2018,12:53 AM,   53.1 °F ,   45.0 °F ,74%,   30.12 in ,   10.0 mi ,NW,   9.2 mph ,Overcast
+3/4/2018,1:53 AM,   54.0 °F ,   42.1 °F ,64%,   30.12 in ,   10.0 mi ,WNW,   8.1 mph ,Overcast
+3/4/2018,2:53 AM,   53.1 °F ,   42.1 °F ,66%,   30.12 in ,   10.0 mi ,NNW,   5.8 mph ,Scattered Clouds
+3/4/2018,3:53 AM,   51.1 °F ,   43.0 °F ,74%,   30.12 in ,   10.0 mi ,NNW,   5.8 mph ,Partly Cloudy
+3/4/2018,4:53 AM,   50.0 °F ,   43.0 °F ,77%,   30.13 in ,   10.0 mi ,NNW,   4.6 mph ,Partly Cloudy
+3/4/2018,5:53 AM,   48.9 °F ,   42.1 °F ,77%,   30.15 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+3/4/2018,6:53 AM,   48.0 °F ,   42.1 °F ,80%,   30.18 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+3/4/2018,7:53 AM,   51.1 °F ,   39.9 °F ,66%,   30.20 in ,   10.0 mi ,NNE,   4.6 mph ,Partly Cloudy
+3/4/2018,8:53 AM,   55.0 °F ,   37.9 °F ,53%,   30.22 in ,   10.0 mi ,West,   6.9 mph ,Scattered Clouds
+3/4/2018,9:53 AM,   57.0 °F ,   37.0 °F ,47%,   30.23 in ,   10.0 mi ,West,   9.2 mph ,Scattered Clouds
+3/4/2018,10:53 AM,   57.9 °F ,   35.1 °F ,42%,   30.22 in ,   10.0 mi ,SW,   5.8 mph ,Scattered Clouds
+3/4/2018,11:53 AM,   57.9 °F ,   36.0 °F ,44%,   30.21 in ,   10.0 mi ,Variable,   5.8 mph ,Partly Cloudy
+3/4/2018,12:53 PM,   61.0 °F ,   36.0 °F ,39%,   30.17 in ,   10.0 mi ,WNW,   9.2 mph ,Partly Cloudy
+3/4/2018,1:53 PM,   61.0 °F ,   37.0 °F ,41%,   30.14 in ,   10.0 mi ,NW,   11.5 mph ,Partly Cloudy
+3/4/2018,2:53 PM,   60.1 °F ,   36.0 °F ,41%,   30.12 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+3/4/2018,3:53 PM,   59.0 °F ,   36.0 °F ,42%,   30.11 in ,   10.0 mi ,WNW,   16.1 mph ,Clear
+3/4/2018,4:53 PM,   57.0 °F ,   34.0 °F ,42%,   30.12 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+3/4/2018,5:53 PM,   55.0 °F ,   37.9 °F ,53%,   30.13 in ,   10.0 mi ,NW,   12.7 mph ,Clear
+3/4/2018,6:53 PM,   54.0 °F ,   37.9 °F ,55%,   30.15 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+3/4/2018,7:53 PM,   54.0 °F ,   37.9 °F ,55%,   30.16 in ,   10.0 mi ,North,   5.8 mph ,Clear
+3/4/2018,8:53 PM,   53.1 °F ,   39.0 °F ,59%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+3/4/2018,9:53 PM,   50.0 °F ,   39.0 °F ,66%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+3/4/2018,10:53 PM,   50.0 °F ,   39.0 °F ,66%,   30.17 in ,   10.0 mi ,Calm,Calm,Clear
+3/4/2018,11:53 PM,   48.0 °F ,   39.0 °F ,71%,   30.16 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,12:53 AM,   46.9 °F ,   39.0 °F ,74%,   30.15 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,1:53 AM,   45.0 °F ,   37.9 °F ,76%,   30.13 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+3/5/2018,2:53 AM,   45.0 °F ,   37.0 °F ,74%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,3:53 AM,   44.1 °F ,   37.0 °F ,76%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,4:53 AM,   45.0 °F ,   37.0 °F ,74%,   30.10 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,5:53 AM,   45.0 °F ,   36.0 °F ,71%,   30.11 in ,   10.0 mi ,North,   3.5 mph ,Clear
+3/5/2018,6:53 AM,   46.9 °F ,   35.1 °F ,63%,   30.11 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,7:53 AM,   55.0 °F ,   39.0 °F ,55%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,8:53 AM,   61.0 °F ,   27.0 °F ,27%,   30.12 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,9:53 AM,   66.0 °F ,   21.9 °F ,19%,   30.13 in ,   10.0 mi ,WNW,   4.6 mph ,Clear
+3/5/2018,10:53 AM,   69.1 °F ,   21.0 °F ,16%,   30.12 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+3/5/2018,11:53 AM,   71.1 °F ,   19.0 °F ,14%,   30.10 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+3/5/2018,12:53 PM,   72.0 °F ,   16.0 °F ,12%,   30.08 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+3/5/2018,1:53 PM,   70.0 °F ,   16.0 °F ,13%,   30.05 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+3/5/2018,2:53 PM,   68.0 °F ,   26.1 °F ,21%,   30.04 in ,   10.0 mi ,WNW,   13.8 mph ,Clear
+3/5/2018,3:53 PM,   66.9 °F ,   21.0 °F ,17%,   30.04 in ,   10.0 mi ,NW,   11.5 mph ,Clear
+3/5/2018,4:53 PM,   64.9 °F ,   18.0 °F ,16%,   30.05 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+3/5/2018,5:53 PM,   63.0 °F ,   19.9 °F ,19%,   30.06 in ,   10.0 mi ,NNW,   6.9 mph ,Clear
+3/5/2018,6:53 PM,   61.0 °F ,   25.0 °F ,25%,   30.06 in ,   10.0 mi ,North,   6.9 mph ,Clear
+3/5/2018,7:53 PM,   59.0 °F ,   30.9 °F ,35%,   30.05 in ,   10.0 mi ,North,   4.6 mph ,Clear
+3/5/2018,8:53 PM,   57.0 °F ,   33.1 °F ,40%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,9:53 PM,   53.1 °F ,   32.0 °F ,45%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+3/5/2018,10:53 PM,   53.1 °F ,   27.0 °F ,37%,   30.05 in ,   10.0 mi ,NE,   5.8 mph ,Clear
+3/5/2018,11:53 PM,   53.1 °F ,   26.1 °F ,35%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,12:53 AM,   52.0 °F ,   28.9 °F ,41%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,1:53 AM,   50.0 °F ,   28.0 °F ,43%,   30.04 in ,   10.0 mi ,ESE,   4.6 mph ,Clear
+3/6/2018,2:53 AM,   50.0 °F ,   26.1 °F ,39%,   30.02 in ,   10.0 mi ,NE,   4.6 mph ,Clear
+3/6/2018,3:53 AM,   48.9 °F ,   25.0 °F ,39%,   30.01 in ,   10.0 mi ,SSE,   3.5 mph ,Clear
+3/6/2018,4:53 AM,   48.9 °F ,   27.0 °F ,43%,   30.02 in ,   10.0 mi ,ESE,   3.5 mph ,Clear
+3/6/2018,5:53 AM,   48.9 °F ,   28.0 °F ,44%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,6:53 AM,   51.1 °F ,   27.0 °F ,39%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,7:53 AM,   60.1 °F ,   19.9 °F ,21%,   30.06 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+3/6/2018,8:53 AM,   68.0 °F ,   12.9 °F ,12%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,9:53 AM,   70.0 °F ,   10.9 °F ,10%,   30.07 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,10:53 AM,   73.9 °F ,   10.9 °F ,9%,   30.06 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+3/6/2018,11:53 AM,   75.0 °F ,   12.0 °F ,9%,   30.04 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+3/6/2018,12:53 PM,   75.9 °F ,   10.0 °F ,8%,   30.01 in ,   10.0 mi ,West,   9.2 mph ,Clear
+3/6/2018,1:53 PM,   75.0 °F ,   9.0 °F ,8%,   29.99 in ,   10.0 mi ,NW,   11.5 mph ,Clear
+3/6/2018,2:53 PM,   75.0 °F ,   10.0 °F ,8%,   29.97 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+3/6/2018,3:53 PM,   70.0 °F ,   17.1 °F ,13%,   29.99 in ,   10.0 mi ,WNW,   12.7 mph ,Clear
+3/6/2018,4:53 PM,   68.0 °F ,   19.0 °F ,15%,   29.99 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+3/6/2018,5:53 PM,   66.0 °F ,   17.1 °F ,15%,   30.00 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,6:53 PM,   64.0 °F ,   21.0 °F ,19%,   30.04 in ,   10.0 mi ,SSW,   4.6 mph ,Clear
+3/6/2018,7:53 PM,   59.0 °F ,   24.1 °F ,26%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,8:53 PM,   57.9 °F ,   27.0 °F ,31%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,9:53 PM,   55.9 °F ,   25.0 °F ,30%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,10:53 PM,   54.0 °F ,   25.0 °F ,33%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/6/2018,11:53 PM,   54.0 °F ,   27.0 °F ,35%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,12:53 AM,   53.1 °F ,   28.9 °F ,40%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,1:53 AM,   53.1 °F ,   28.9 °F ,40%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,2:53 AM,   53.1 °F ,   27.0 °F ,37%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,3:53 AM,   53.1 °F ,   28.9 °F ,40%,   29.98 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,4:53 AM,   54.0 °F ,   30.0 °F ,40%,   30.02 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,5:53 AM,   52.0 °F ,   28.9 °F ,41%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,6:53 AM,   54.0 °F ,   26.1 °F ,34%,   30.02 in ,   10.0 mi ,ENE,   5.8 mph ,Clear
+3/7/2018,7:53 AM,   60.1 °F ,   24.1 °F ,25%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,8:53 AM,   64.9 °F ,   26.1 °F ,23%,   30.05 in ,   10.0 mi ,West,   4.6 mph ,Clear
+3/7/2018,9:53 AM,   69.1 °F ,   27.0 °F ,21%,   30.06 in ,   10.0 mi ,WSW,   6.9 mph ,Clear
+3/7/2018,10:53 AM,   71.1 °F ,   33.1 °F ,25%,   30.06 in ,   10.0 mi ,West,   9.2 mph ,Clear
+3/7/2018,11:53 AM,   71.1 °F ,   23.0 °F ,16%,   30.04 in ,   10.0 mi ,Variable,   4.6 mph ,Clear
+3/7/2018,12:53 PM,   73.0 °F ,   19.0 °F ,13%,   30.01 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+3/7/2018,1:53 PM,   73.9 °F ,   21.9 °F ,14%,   29.99 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+3/7/2018,2:53 PM,   73.0 °F ,   19.0 °F ,13%,   29.99 in ,   10.0 mi ,WNW,   9.2 mph ,Clear
+3/7/2018,3:53 PM,   72.0 °F ,   17.1 °F ,12%,   29.98 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+3/7/2018,4:53 PM,   68.0 °F ,   19.9 °F ,16%,   29.99 in ,   10.0 mi ,WNW,   8.1 mph ,Clear
+3/7/2018,5:53 PM,   63.0 °F ,   37.9 °F ,40%,   30.01 in ,   10.0 mi ,WNW,   10.4 mph ,Clear
+3/7/2018,6:53 PM,   59.0 °F ,   52.0 °F ,78%,   30.03 in ,   10.0 mi ,NW,   10.4 mph ,Clear
+3/7/2018,7:53 PM,   59.0 °F ,   50.0 °F ,72%,   30.04 in ,   10.0 mi ,North,   4.6 mph ,Clear
+3/7/2018,8:53 PM,   57.9 °F ,   50.0 °F ,75%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+3/7/2018,9:53 PM,   59.0 °F ,   48.0 °F ,67%,   30.06 in ,   10.0 mi ,West,   4.6 mph ,Clear
+3/7/2018,10:53 PM,   57.9 °F ,   48.0 °F ,70%,   30.07 in ,   10.0 mi ,WNW,   3.5 mph ,Clear
+3/7/2018,11:53 PM,   55.9 °F ,   46.0 °F ,69%,   30.07 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+3/8/2018,12:53 AM,   57.0 °F ,   44.1 °F ,62%,   30.06 in ,   10.0 mi ,NNW,   3.5 mph ,Clear
+3/8/2018,1:53 AM,   57.0 °F ,   46.0 °F ,67%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,2:53 AM,   55.0 °F ,   48.0 °F ,77%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,3:53 AM,   53.1 °F ,   45.0 °F ,74%,   30.04 in ,   10.0 mi ,NNE,   3.5 mph ,Clear
+3/8/2018,4:53 AM,   53.1 °F ,   43.0 °F ,69%,   30.04 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,5:53 AM,   53.1 °F ,   44.1 °F ,71%,   30.05 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,6:53 AM,   54.0 °F ,   42.1 °F ,64%,   30.06 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,7:53 AM,   59.0 °F ,   48.0 °F ,67%,   30.08 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,8:53 AM,   63.0 °F ,   43.0 °F ,48%,   30.09 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,9:53 AM,   68.0 °F ,   37.9 °F ,33%,   30.07 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+3/8/2018,10:53 AM,   70.0 °F ,   37.0 °F ,30%,   30.07 in ,   10.0 mi ,Variable,   5.8 mph ,Clear
+3/8/2018,11:53 AM,   73.0 °F ,   28.0 °F ,19%,   30.04 in ,   10.0 mi ,NW,   6.9 mph ,Clear
+3/8/2018,12:53 PM,   70.0 °F ,   30.0 °F ,23%,   30.02 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+3/8/2018,1:53 PM,   71.1 °F ,   32.0 °F ,24%,   30.00 in ,   10.0 mi ,WNW,   9.2 mph ,Clear
+3/8/2018,2:53 PM,   69.1 °F ,   36.0 °F ,30%,   30.00 in ,   10.0 mi ,WNW,   11.5 mph ,Clear
+3/8/2018,3:53 PM,   68.0 °F ,   27.0 °F ,21%,   29.99 in ,   10.0 mi ,NW,   9.2 mph ,Clear
+3/8/2018,4:53 PM,   66.9 °F ,   27.0 °F ,22%,   29.99 in ,   10.0 mi ,NNW,   5.8 mph ,Clear
+3/8/2018,5:53 PM,   63.0 °F ,   33.1 °F ,33%,   30.02 in ,   10.0 mi ,WNW,   6.9 mph ,Clear
+3/8/2018,6:53 PM,   62.1 °F ,   39.9 °F ,44%,   30.02 in ,   10.0 mi ,NW,   5.8 mph ,Clear
+3/8/2018,7:53 PM,   61.0 °F ,   44.1 °F ,54%,   30.04 in ,   10.0 mi ,NW,   4.6 mph ,Clear
+3/8/2018,8:53 PM,   57.0 °F ,   45.0 °F ,64%,   30.03 in ,   10.0 mi ,NE,   3.5 mph ,Clear
+3/8/2018,9:53 PM,   57.9 °F ,   44.1 °F ,60%,   30.03 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,10:53 PM,   57.0 °F ,   43.0 °F ,59%,   30.00 in ,   10.0 mi ,Calm,Calm,Clear
+3/8/2018,11:53 PM,   55.0 °F ,   43.0 °F ,64%,   30.00 in ,   10.0 mi ,Calm,Calm,Clear
+3/9/2018,12:53 AM,   53.1 °F ,   44.1 °F ,71%,   30.01 in ,   10.0 mi ,Calm,Calm,Clear
+3/9/2018,1:53 AM,   54.0 °F ,   39.9 °F ,59%,   30.00 in ,   10.0 mi ,Calm,Calm,Scattered Clouds
+3/9/2018,2:53 AM,   52.0 °F ,   42.1 °F ,69%,   29.97 in ,   10.0 mi ,Calm,Calm,Clear
+3/9/2018,3:53 AM,   50.0 °F ,   42.1 °F ,74%,   29.97 in ,   10.0 mi ,East,   4.6 mph ,Clear
+3/9/2018,4:53 AM,   52.0 °F ,   42.1 °F ,69%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+3/9/2018,5:53 AM,   52.0 °F ,   37.9 °F ,59%,   29.99 in ,   10.0 mi ,Calm,Calm,Clear
+3/9/2018,6:53 AM,   54.0 °F ,   37.0 °F ,53%,   30.00 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+3/9/2018,7:53 AM,   57.9 °F ,   39.9 °F ,51%,   30.01 in ,   10.0 mi ,Calm,Calm,Partly Cloudy
+3/9/2018,8:53 AM,   61.0 °F ,   46.0 °F ,58%,   30.00 in ,   10.0 mi ,Variable,   3.5 mph ,Partly Cloudy
+3/9/2018,9:53 AM,   64.9 °F ,   48.0 °F ,54%,   30.01 in ,   10.0 mi ,Variable,   3.5 mph ,Clear
+3/9/2018,10:53 AM,   66.9 °F ,   53.1 °F ,61%,   30.01 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+3/9/2018,11:53 AM,   68.0 °F ,   53.1 °F ,59%,   30.00 in ,   10.0 mi ,West,   6.9 mph ,Clear
+3/9/2018,12:53 PM,   66.9 °F ,   54.0 °F ,63%,   29.97 in ,   10.0 mi ,West,   6.9 mph ,Clear
+3/9/2018,1:53 PM,   66.0 °F ,   54.0 °F ,65%,   29.98 in ,   10.0 mi ,SW,   10.4 mph ,Clear
+3/9/2018,2:53 PM,   66.0 °F ,   54.0 °F ,65%,   29.96 in ,   10.0 mi ,WSW,   5.8 mph ,Clear
+3/9/2018,3:53 PM,   64.0 °F ,   55.0 °F ,73%,   29.96 in ,   10.0 mi ,WSW,   8.1 mph ,Clear
+3/9/2018,4:53 PM,   61.0 °F ,   55.9 °F ,83%,   29.96 in ,   10.0 mi ,West,   8.1 mph ,Scattered Clouds
+3/9/2018,5:53 PM,   59.0 °F ,   55.9 °F ,90%,   29.97 in ,   10.0 mi ,West,   6.9 mph ,Mostly Cloudy
+3/9/2018,6:53 PM,   59.0 °F ,   55.9 °F ,90%,   29.98 in ,   10.0 mi ,WNW,   5.8 mph ,Overcast
+3/9/2018,7:09 PM,   57.9 °F ,   55.9 °F ,93%,   29.98 in ,   9.0 mi ,NW,   5.8 mph ,Overcast
+3/9/2018,7:53 PM,   57.9 °F ,   55.9 °F ,93%,   29.99 in ,   10.0 mi ,Calm,Calm,Overcast
+3/9/2018,8:53 PM,   59.0 °F ,   55.0 °F ,87%,   29.99 in ,   10.0 mi ,North,   3.5 mph ,Overcast
+3/9/2018,9:53 PM,   59.0 °F ,   55.0 °F ,87%,   30.00 in ,   10.0 mi ,Calm,Calm,Overcast
+3/9/2018,10:53 PM,   59.0 °F ,   55.0 °F ,87%,   29.99 in ,   9.0 mi ,Calm,Calm,Overcast
+3/9/2018,11:53 PM,   59.0 °F ,   55.0 °F ,87%,   29.96 in ,   9.0 mi ,ENE,   4.6 mph ,Overcast
+3/10/2018,12:30 AM,   59.0 °F ,   55.0 °F ,87%,   29.98 in ,   7.0 mi ,Calm,Calm,Overcast
+3/10/2018,12:41 AM,   59.0 °F ,   54.0 °F ,83%,   29.98 in ,   7.0 mi ,Calm,Calm,Overcast
+3/10/2018,12:53 AM,   59.0 °F ,   54.0 °F ,83%,   29.98 in ,   7.0 mi ,SSW,   4.6 mph ,Overcast
+3/10/2018,1:05 AM,   59.0 °F ,   54.0 °F ,83%,   29.98 in ,   8.0 mi ,Calm,Calm,Overcast
+3/10/2018,1:53 AM,   59.0 °F ,   54.0 °F ,83%,   29.97 in ,   8.0 mi ,Calm,Calm,Overcast
+3/10/2018,2:53 AM,   59.0 °F ,   54.0 °F ,83%,   29.95 in ,   8.0 mi ,Calm,Calm,Overcast
+3/10/2018,3:53 AM,   59.0 °F ,   54.0 °F ,83%,   29.94 in ,   8.0 mi ,Calm,Calm,Overcast
+3/10/2018,4:53 AM,   57.9 °F ,   54.0 °F ,87%,   29.93 in ,   9.0 mi ,Calm,Calm,Overcast
+3/10/2018,5:53 AM,   57.9 °F ,   54.0 °F ,87%,   29.95 in ,   9.0 mi ,West,   4.6 mph ,Overcast
+3/10/2018,6:09 AM,   57.9 °F ,   54.0 °F ,87%,   29.96 in ,   9.0 mi ,WNW,   3.5 mph ,Overcast
+3/10/2018,6:53 AM,   57.9 °F ,   54.0 °F ,87%,   29.95 in ,   7.0 mi ,Calm,Calm,Overcast
+3/10/2018,7:17 AM,   57.9 °F ,   55.0 °F ,90%,   29.98 in ,   7.0 mi ,SSW,   5.8 mph ,Overcast
+3/10/2018,7:49 AM,   57.2 °F ,   55.4 °F ,94%,   30.00 in ,   6.0 mi ,South,   3.5 mph ,Light Rain
+3/10/2018,7:53 AM,   57.9 °F ,   55.0 °F ,90%,   29.99 in ,   6.0 mi ,SSW,   4.6 mph ,Light Rain
+3/10/2018,8:53 AM,   59.0 °F ,   55.9 °F ,90%,   30.01 in ,   5.0 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,9:42 AM,   59.0 °F ,   55.0 °F ,87%,   30.01 in ,   5.0 mi ,South,   5.8 mph ,Overcast
+3/10/2018,9:53 AM,   59.0 °F ,   55.9 °F ,90%,   30.00 in ,   5.0 mi ,SSE,   5.8 mph ,Light Rain
+3/10/2018,10:53 AM,   60.1 °F ,   55.9 °F ,86%,   30.00 in ,   4.0 mi ,SSE,   3.5 mph ,Light Rain
+3/10/2018,11:00 AM,   59.0 °F ,   55.9 °F ,90%,   30.01 in ,   4.0 mi ,South,   3.5 mph ,Light Rain
+3/10/2018,11:09 AM,   59.0 °F ,   55.9 °F ,90%,   30.01 in ,   5.0 mi ,Calm,Calm,Light Rain
+3/10/2018,11:53 AM,   60.1 °F ,   55.9 °F ,86%,   29.99 in ,   5.0 mi ,WSW,   3.5 mph ,Light Rain
+3/10/2018,12:00 PM,   60.1 °F ,   57.0 °F ,90%,   30.00 in ,   5.0 mi ,SW,   5.8 mph ,Overcast
+3/10/2018,12:16 PM,   60.1 °F ,   57.0 °F ,90%,   30.00 in ,   4.0 mi ,WSW,   6.9 mph ,Light Rain
+3/10/2018,12:53 PM,   59.0 °F ,   55.9 °F ,90%,   30.00 in ,   2.0 mi ,SW,   6.9 mph ,Light Rain
+3/10/2018,1:02 PM,   59.0 °F ,   55.9 °F ,90%,   30.00 in ,   3.0 mi ,SSW,   6.9 mph ,Light Rain
+3/10/2018,1:05 PM,   59.0 °F ,   55.9 °F ,90%,   30.00 in ,   2.0 mi ,South,   8.1 mph ,Light Rain
+3/10/2018,1:53 PM,   57.9 °F ,   55.0 °F ,90%,   29.99 in ,   2.0 mi ,South,   4.6 mph ,Light Rain
+3/10/2018,1:57 PM,   57.9 °F ,   55.0 °F ,90%,   29.99 in ,   2.0 mi ,SSE,   4.6 mph ,Light Rain
+3/10/2018,2:04 PM,   57.9 °F ,   55.9 °F ,93%,   29.99 in ,   2.0 mi ,SSE,   3.5 mph ,Light Rain
+3/10/2018,2:53 PM,   57.9 °F ,   55.9 °F ,93%,   29.98 in ,   2.0 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,3:09 PM,   57.9 °F ,   55.9 °F ,93%,   29.99 in ,   2.0 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,3:44 PM,   57.9 °F ,   55.9 °F ,93%,   29.98 in ,   2.0 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,3:53 PM,   57.9 °F ,   55.9 °F ,93%,   29.98 in ,   2.0 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,4:53 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   1.5 mi ,South,   8.1 mph ,Light Rain
+3/10/2018,5:06 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   1.2 mi ,SSE,   6.9 mph ,Light Rain
+3/10/2018,5:33 PM,   57.9 °F ,   57.0 °F ,97%,   29.99 in ,   1.5 mi ,SSE,   8.1 mph ,Light Rain
+3/10/2018,5:46 PM,   57.9 °F ,   57.0 °F ,97%,   29.99 in ,   2.0 mi ,SSE,   6.9 mph ,Light Rain
+3/10/2018,5:53 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   3.0 mi ,SSE,   6.9 mph ,Rain
+3/10/2018,6:38 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   2.0 mi ,SSE,   4.6 mph ,Light Rain
+3/10/2018,6:53 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   1.8 mi ,SSE,   4.6 mph ,Rain
+3/10/2018,7:14 PM,   57.9 °F ,   57.0 °F ,97%,   30.00 in ,   2.5 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,7:53 PM,   57.9 °F ,   57.0 °F ,97%,   29.98 in ,   2.5 mi ,SE,   6.9 mph ,Light Rain
+3/10/2018,8:13 PM,   57.9 °F ,   57.0 °F ,97%,   29.99 in ,   3.0 mi ,SSE,   5.8 mph ,Light Rain
+3/10/2018,8:41 PM,   57.9 °F ,   57.9 °F ,100%,   30.00 in ,   2.0 mi ,South,   5.8 mph ,Rain
+3/10/2018,8:48 PM,   59.0 °F ,   57.2 °F ,94%,   30.00 in ,   1.5 mi ,South,   6.9 mph ,Light Rain
+3/10/2018,8:53 PM,   59.0 °F ,   57.9 °F ,96%,   29.99 in ,   2.0 mi ,South,   5.8 mph ,Light Rain
+3/10/2018,9:03 PM,   59.0 °F ,   57.9 °F ,96%,   30.01 in ,   3.0 mi ,SW,   5.8 mph ,Rain
+3/10/2018,9:12 PM,   59.0 °F ,   57.9 °F ,96%,   30.01 in ,   2.0 mi ,South,   12.7 mph ,Rain
+3/10/2018,9:24 PM,   59.0 °F ,   57.9 °F ,96%,   30.01 in ,   4.0 mi ,South,   12.7 mph ,Light Rain
+3/10/2018,9:53 PM,   59.0 °F ,   57.0 °F ,93%,   30.01 in ,   10.0 mi ,South,   10.4 mph ,Overcast
+3/10/2018,10:21 PM,   59.0 °F ,   57.9 °F ,96%,   30.02 in ,   1.8 mi ,South,   5.8 mph ,Light Rain
+3/10/2018,10:30 PM,   59.0 °F ,   57.9 °F ,96%,   30.02 in ,   2.0 mi ,South,   5.8 mph ,Light Rain
+3/10/2018,10:48 PM,   59.0 °F ,   57.2 °F ,94%,   30.02 in ,   4.0 mi ,South,   9.2 mph ,Overcast
+3/10/2018,10:53 PM,   59.0 °F ,   57.0 °F ,93%,   30.02 in ,   7.0 mi ,SSW,   9.2 mph ,Overcast
+3/10/2018,11:21 PM,   59.0 °F ,   57.9 °F ,96%,   30.02 in ,   3.0 mi ,SSW,   8.1 mph ,Light Rain
+3/10/2018,11:33 PM,   59.0 °F ,   57.9 °F ,96%,   30.02 in ,   3.0 mi ,South,   11.5 mph ,Light Rain
+3/10/2018,11:42 PM,   59.0 °F ,   57.0 °F ,93%,   30.02 in ,   1.8 mi ,SSW,   11.5 mph ,Light Rain
+3/10/2018,11:53 PM,   57.9 °F ,   57.0 °F ,97%,   30.02 in ,   3.0 mi ,SSW,   8.1 mph ,Light Rain
+3/11/2018,12:08 AM,   57.9 °F ,   57.0 °F ,97%,   30.02 in ,   10.0 mi ,SSE,   5.8 mph ,Overcast
+3/11/2018,12:53 AM,   57.9 °F ,   55.0 °F ,90%,   30.02 in ,   10.0 mi ,South,   4.6 mph ,Overcast
+3/11/2018,1:53 AM,   57.9 °F ,   55.0 °F ,90%,   30.00 in ,   10.0 mi ,East,   4.6 mph ,Overcast
+3/11/2018,3:53 AM,   57.9 °F ,   55.0 °F ,90%,   29.99 in ,   10.0 mi ,SE,   3.5 mph ,Overcast
+3/11/2018,4:53 AM,   57.9 °F ,   55.0 °F ,90%,   29.99 in ,   10.0 mi ,Calm,Calm,Overcast
+3/11/2018,5:53 AM,   59.0 °F ,   54.0 °F ,83%,   30.01 in ,   10.0 mi ,SE,   3.5 mph ,Overcast
+3/11/2018,6:53 AM,   57.9 °F ,   54.0 °F ,87%,   30.01 in ,   10.0 mi ,South,   4.6 mph ,Overcast
+3/11/2018,7:53 AM,   59.0 °F ,   54.0 °F ,83%,   30.04 in ,   10.0 mi ,ESE,   5.8 mph ,Overcast
+3/11/2018,8:53 AM,   60.1 °F ,   55.0 °F ,83%,   30.06 in ,   10.0 mi ,ESE,   6.9 mph ,Overcast
+3/11/2018,9:53 AM,   61.0 °F ,   54.0 °F ,78%,   30.08 in ,   10.0 mi ,East,   4.6 mph ,Overcast
+3/11/2018,10:53 AM,   64.0 °F ,   54.0 °F ,70%,   30.09 in ,   10.0 mi ,ESE,   6.9 mph ,Overcast
+3/11/2018,11:53 AM,   66.0 °F ,   54.0 °F ,65%,   30.08 in ,   10.0 mi ,Variable,   5.8 mph ,Overcast
+3/11/2018,12:53 PM,   66.9 °F ,   57.0 °F ,70%,   30.08 in ,   10.0 mi ,SSW,   10.4 mph ,Mostly Cloudy
+3/11/2018,1:53 PM,   66.0 °F ,   57.0 °F ,73%,   30.06 in ,   10.0 mi ,SW,   10.4 mph ,Scattered Clouds
+3/11/2018,2:53 PM,   66.0 °F ,   57.9 °F ,75%,   30.06 in ,   10.0 mi ,WSW,   10.4 mph ,Scattered Clouds
+3/11/2018,3:53 PM,   66.9 °F ,   57.0 °F ,70%,   30.06 in ,   10.0 mi ,Variable,   6.9 mph ,Scattered Clouds
+3/11/2018,4:53 PM,   64.9 °F ,   55.9 °F ,73%,   30.05 in ,   10.0 mi ,SW,   8.1 mph ,Scattered Clouds
+3/11/2018,5:45 PM,   63.0 °F ,   57.0 °F ,81%,   30.07 in ,   10.0 mi ,WSW,   6.9 mph ,Mostly Cloudy
+3/11/2018,5:53 PM,   63.0 °F ,   55.9 °F ,78%,   30.06 in ,   10.0 mi ,West,   5.8 mph ,Mostly Cloudy
+3/11/2018,6:53 PM,   62.1 °F ,   55.9 °F ,80%,   30.08 in ,   10.0 mi ,SW,   4.6 mph ,Mostly Cloudy
+3/11/2018,7:53 PM,   61.0 °F ,   55.9 °F ,83%,   30.09 in ,   10.0 mi ,WSW,   3.5 mph ,Overcast
+3/11/2018,8:53 PM,   60.1 °F ,   55.0 °F ,83%,   30.12 in ,   10.0 mi ,SW,   5.8 mph ,Overcast
+3/11/2018,9:53 PM,   59.0 °F ,   55.9 °F ,90%,   30.14 in ,   10.0 mi ,SSW,   6.9 mph ,Overcast
+3/11/2018,10:31 PM,   59.0 °F ,   55.9 °F ,90%,   30.15 in ,   10.0 mi ,South,   3.5 mph ,Overcast
+3/11/2018,10:53 PM,   60.1 °F ,   55.0 °F ,83%,   30.14 in ,   10.0 mi ,Calm,Calm,Overcast
+3/11/2018,11:28 PM,   60.1 °F ,   55.9 °F ,86%,   30.13 in ,   10.0 mi ,ENE,   4.6 mph ,Overcast
+3/11/2018,11:45 PM,   60.1 °F ,   55.9 °F ,86%,   30.13 in ,   10.0 mi ,East,   3.5 mph ,Overcast
+3/11/2018,11:53 PM,   60.1 °F ,   55.9 °F ,86%,   30.12 in ,   10.0 mi ,East,   3.5 mph ,Overcast
+3/11/2018,12:45 AM,   60.1 °F ,   55.9 °F ,86%,   30.12 in ,   10.0 mi ,Calm,Calm,Overcast
+3/11/2018,12:53 AM,   60.1 °F ,   55.9 °F ,86%,   30.11 in ,   10.0 mi ,NE,   3.5 mph ,Overcast
+3/12/2018,12:45 AM,   60.1 °F ,   55.9 °F ,86%,   30.12 in ,   10.0 mi ,Calm,Calm,Overcast
